@@ -121,7 +121,7 @@ python main.py \
 
 - `--gpt_version`: Specify the OpenAI GPT version (e.g., `o4-mini`, `o3`).
 
-### (Optional) Step 4: siScore
+### Step 4: siScore
 
 To calibrate our result, we employed the [siScore](https://github.com/Sungwon-Han/urban_score) architecture.
 
