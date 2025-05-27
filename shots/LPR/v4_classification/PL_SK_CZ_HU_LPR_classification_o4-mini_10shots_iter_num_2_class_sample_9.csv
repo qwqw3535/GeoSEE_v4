@@ -1,0 +1,11 @@
+area_id,score,sample_val,ground_val
+CZ053,Very Low,60.2,60.2
+HU323,Low,74.95,72.4
+PL812,Low,74.95,77.5
+PL713,Medium,79.88,79.5
+PL224,Medium,79.88,79.8
+PL22B,Medium,79.88,79.9
+PL431,Medium,79.88,80.1
+PL219,Medium,79.88,80.1
+PL925,High,82.0,82.0
+PL424,Very High,83.1,83.1

@@ -1,0 +1,34 @@
+You have the following modules available. Your goal is to choose and sequence these modules to gather relevant data that might help infer the answer to the question.
+You must write down your reasoning steps and the final list of selected modules.
+
+Available Modules:
+<MODULE_DESC>
+
+Question: <QUESTION>
+
+Instructions:
+
+Start by thinking about what factors typically correlate with or indicate the answer.
+Use “Thought:” lines to record your reasoning process.
+Use “Action:” lines to justify your choice of each module and propose the module call.
+Conclude by listing all the chosen modules in order.
+
+Format (enclosed in ---):
+---
+Thought: [Explain the reasoning for which pieces of module might be relevant to inferring answer.]
+Action: [Select one module call and explain why it’s needed.]
+Thought: [Consider if more data is required.]
+Action: [Select another module call if necessary and explain your reasoning.]
+…
+Thought: [Once satisfied, stop.]
+
+The total list of selected modules:
+1. [First module called]
+2. [Second module called]
+…
+---
+
+Input: 
+- Location: [Loc]
+
+Answer: 

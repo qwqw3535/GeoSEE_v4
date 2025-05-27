@@ -1,0 +1,862 @@
+{
+  "HU110": {
+    "ADM0": "HUN",
+    "ADM1": "Budapest",
+    "ADM2": "Budapest",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 808.0661311746,
+          "Agricultural": 109.8808330297,
+          "Commercial": 526.2155411839,
+          "Factory": 163.6601590514,
+          "Mining": 149.2828131914,
+          "Power station": 29.9005340934,
+          "Transportation": 215.4873598814,
+          "Sports": 188.9025375247,
+          "Religious": 125.1934595108,
+          "Water": 94.3342850208,
+          "Others": 624.1690704823
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.261849038,
+          "Agricultural": 0.0356062323,
+          "Commercial": 0.1705170257,
+          "Factory": 0.053033104,
+          "Mining": 0.0483742104,
+          "Power station": 0.0096890908,
+          "Transportation": 0.0698274011,
+          "Sports": 0.0612127471,
+          "Religious": 0.0405681982,
+          "Water": 0.0305684657,
+          "Others": 0.202258286
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 525.2685245272
+      }
+    }
+  },
+  "HU120": {
+    "ADM0": "HUN",
+    "ADM1": "Pest",
+    "ADM2": "Pest",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 4098.8149973154,
+          "Agricultural": 13367.6128674746,
+          "Commercial": 218.3553707004,
+          "Factory": 255.8661661148,
+          "Mining": 904.642031014,
+          "Power station": 129.5072789192,
+          "Transportation": 978.8919341564,
+          "Sports": 1721.46329391,
+          "Religious": 894.4079042673,
+          "Water": 930.4751059413,
+          "Others": 13172.9290966392
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1099644524,
+          "Agricultural": 0.3586310261,
+          "Commercial": 0.0058581148,
+          "Factory": 0.0068644676,
+          "Mining": 0.024270055,
+          "Power station": 0.0034744669,
+          "Transportation": 0.0262620576,
+          "Sports": 0.0461840236,
+          "Religious": 0.0239954903,
+          "Water": 0.0249631139,
+          "Others": 0.3534079813
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6390.5398920509
+      }
+    }
+  },
+  "HU211": {
+    "ADM0": "HUN",
+    "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+    "ADM2": "Fej\u00e9r",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1499.804674387,
+          "Agricultural": 11421.1777370572,
+          "Commercial": 80.7223419547,
+          "Factory": 120.9780939817,
+          "Mining": 574.696100831,
+          "Power station": 86.8987573385,
+          "Transportation": 871.2961807251,
+          "Sports": 994.9028528929,
+          "Religious": 581.3056410551,
+          "Water": 658.3707085848,
+          "Others": 7988.4372124672
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0595515058,
+          "Agricultural": 0.4534912741,
+          "Commercial": 0.0032051754,
+          "Factory": 0.0048035773,
+          "Mining": 0.0228189836,
+          "Power station": 0.0034504172,
+          "Transportation": 0.034595838,
+          "Sports": 0.0395037861,
+          "Religious": 0.0230814231,
+          "Water": 0.0261413821,
+          "Others": 0.3171902804
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4358.5630869081
+      }
+    }
+  },
+  "HU212": {
+    "ADM0": "HUN",
+    "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+    "ADM2": "Kom\u00e1rom-Esztergom",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 920.5591803789,
+          "Agricultural": 4439.1549423933,
+          "Commercial": 64.4582275152,
+          "Factory": 93.008605063,
+          "Mining": 301.294880867,
+          "Power station": 62.121165514,
+          "Transportation": 361.3628578782,
+          "Sports": 550.9641823173,
+          "Religious": 346.1535820365,
+          "Water": 411.7956668139,
+          "Others": 5550.5084550381
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0691941657,
+          "Agricultural": 0.3336706962,
+          "Commercial": 0.0048450261,
+          "Factory": 0.0069910256,
+          "Mining": 0.0226469393,
+          "Power station": 0.00466936,
+          "Transportation": 0.0271619707,
+          "Sports": 0.0414134232,
+          "Religious": 0.0260187599,
+          "Water": 0.0309527711,
+          "Others": 0.4172059873
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2264.2662092486
+      }
+    }
+  },
+  "HU213": {
+    "ADM0": "HUN",
+    "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+    "ADM2": "Veszpr\u00e9m",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1462.1639666557,
+          "Agricultural": 7522.243144393,
+          "Commercial": 73.4936052561,
+          "Factory": 90.0452746153,
+          "Mining": 570.8326541781,
+          "Power station": 77.3585686684,
+          "Transportation": 685.0500555038,
+          "Sports": 1078.9969479442,
+          "Religious": 557.1937470436,
+          "Water": 661.9846011996,
+          "Others": 12573.125197053
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0567389975,
+          "Agricultural": 0.2918992295,
+          "Commercial": 0.0028519055,
+          "Factory": 0.0034941899,
+          "Mining": 0.0221510537,
+          "Power station": 0.0030018847,
+          "Transportation": 0.0265832385,
+          "Sports": 0.0418702735,
+          "Religious": 0.0216217985,
+          "Water": 0.0256881879,
+          "Others": 0.487897757
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4472.2756634667
+      }
+    }
+  },
+  "HU221": {
+    "ADM0": "HUN",
+    "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+    "ADM2": "Gy\u0151r-Moson-Sopron",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1535.4284098148,
+          "Agricultural": 11435.1627966762,
+          "Commercial": 109.3531290293,
+          "Factory": 133.2571610808,
+          "Mining": 407.7866684198,
+          "Power station": 106.7793806791,
+          "Transportation": 933.6996306181,
+          "Sports": 1049.0118541121,
+          "Religious": 490.3990918994,
+          "Water": 918.2062807679,
+          "Others": 7228.3234849572
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.062012456,
+          "Agricultural": 0.4618401776,
+          "Commercial": 0.0044165238,
+          "Factory": 0.0053819532,
+          "Mining": 0.0164695747,
+          "Power station": 0.004312576,
+          "Transportation": 0.0377100012,
+          "Sports": 0.0423671993,
+          "Religious": 0.0198061023,
+          "Water": 0.0370842601,
+          "Others": 0.2919355204
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4208.432295898
+      }
+    }
+  },
+  "HU222": {
+    "ADM0": "HUN",
+    "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+    "ADM2": "Vas",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1112.9609627724,
+          "Agricultural": 8123.7307956815,
+          "Commercial": 67.9690788388,
+          "Factory": 67.3614020348,
+          "Mining": 253.7276036143,
+          "Power station": 51.8226923943,
+          "Transportation": 629.2884497643,
+          "Sports": 939.3768305779,
+          "Religious": 356.7181387544,
+          "Water": 261.2670465112,
+          "Others": 7008.2918484211
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0576663711,
+          "Agricultural": 0.4209186941,
+          "Commercial": 0.0035217139,
+          "Factory": 0.0034902281,
+          "Mining": 0.013146508,
+          "Power station": 0.0026851136,
+          "Transportation": 0.0326056192,
+          "Sports": 0.0486723746,
+          "Religious": 0.0184828051,
+          "Water": 0.0135371527,
+          "Others": 0.36312393
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3336.3299949569
+      }
+    }
+  },
+  "HU223": {
+    "ADM0": "HUN",
+    "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+    "ADM2": "Zala",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1437.9100980759,
+          "Agricultural": 6972.3987307549,
+          "Commercial": 77.6838880181,
+          "Factory": 51.1289646626,
+          "Mining": 312.5484200716,
+          "Power station": 50.5390627384,
+          "Transportation": 603.8232146502,
+          "Sports": 1318.8145180345,
+          "Religious": 476.1562703848,
+          "Water": 494.4900423884,
+          "Others": 9190.5415247083
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0668982087,
+          "Agricultural": 0.3243881423,
+          "Commercial": 0.0036142127,
+          "Factory": 0.0023787552,
+          "Mining": 0.0145411938,
+          "Power station": 0.0023513103,
+          "Transportation": 0.0280926405,
+          "Sports": 0.0613573331,
+          "Religious": 0.0221529855,
+          "Water": 0.0230059571,
+          "Others": 0.4275863741
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3783.9263662712
+      }
+    }
+  },
+  "HU231": {
+    "ADM0": "HUN",
+    "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+    "ADM2": "Baranya",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1283.9619770646,
+          "Agricultural": 9694.1219267249,
+          "Commercial": 82.8434534669,
+          "Factory": 77.1595141888,
+          "Mining": 442.6997867823,
+          "Power station": 67.8437713981,
+          "Transportation": 532.1117653847,
+          "Sports": 1248.7621500492,
+          "Religious": 537.9281110764,
+          "Water": 717.6589856148,
+          "Others": 9502.3114432096
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0522615588,
+          "Agricultural": 0.3945832761,
+          "Commercial": 0.0033720064,
+          "Factory": 0.003140651,
+          "Mining": 0.0180193661,
+          "Power station": 0.002761469,
+          "Transportation": 0.0216587335,
+          "Sports": 0.0508288078,
+          "Religious": 0.0218954783,
+          "Water": 0.0292111277,
+          "Others": 0.3867759461
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4429.1704941664
+      }
+    }
+  },
+  "HU232": {
+    "ADM0": "HUN",
+    "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+    "ADM2": "Somogy",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1564.7158709168,
+          "Agricultural": 11503.9228871465,
+          "Commercial": 73.910243392,
+          "Factory": 50.8798186779,
+          "Mining": 559.047234118,
+          "Power station": 102.7036657929,
+          "Transportation": 811.8478778601,
+          "Sports": 1465.8830221891,
+          "Religious": 835.7837991714,
+          "Water": 1263.8054196835,
+          "Others": 15284.6893482804
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0458202545,
+          "Agricultural": 0.3368743708,
+          "Commercial": 0.0021643458,
+          "Factory": 0.0014899358,
+          "Mining": 0.016370823,
+          "Power station": 0.0030075161,
+          "Transportation": 0.023773694,
+          "Sports": 0.0429260893,
+          "Religious": 0.02447462,
+          "Water": 0.0370085631,
+          "Others": 0.4475881973
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6055.8967475238
+      }
+    }
+  },
+  "HU233": {
+    "ADM0": "HUN",
+    "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+    "ADM2": "Tolna",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 921.8719501495,
+          "Agricultural": 9999.6687367558,
+          "Commercial": 47.0585552454,
+          "Factory": 55.5321137905,
+          "Mining": 367.0698776245,
+          "Power station": 51.6729373336,
+          "Transportation": 552.7389505506,
+          "Sports": 853.0171458721,
+          "Religious": 393.5319163203,
+          "Water": 820.5088300705,
+          "Others": 6529.9096210003
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0441255959,
+          "Agricultural": 0.4786362597,
+          "Commercial": 0.0022524677,
+          "Factory": 0.0026580564,
+          "Mining": 0.0175698774,
+          "Power station": 0.0024733361,
+          "Transportation": 0.0264569668,
+          "Sports": 0.0408298462,
+          "Religious": 0.0188364884,
+          "Water": 0.0392738287,
+          "Others": 0.3125555055
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3703.5074172411
+      }
+    }
+  },
+  "HU311": {
+    "ADM0": "HUN",
+    "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+    "ADM2": "Borsod-Aba\u00faj-Zempl\u00e9n",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2807.7380341291,
+          "Agricultural": 12738.6630020142,
+          "Commercial": 89.5742733479,
+          "Factory": 100.381534338,
+          "Mining": 766.0310792923,
+          "Power station": 135.5025102496,
+          "Transportation": 801.1708533168,
+          "Sports": 1538.0638121963,
+          "Religious": 946.5080435872,
+          "Water": 1273.7504070997,
+          "Others": 21826.3051766157
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0644094796,
+          "Agricultural": 0.292224789,
+          "Commercial": 0.0020548328,
+          "Factory": 0.0023027513,
+          "Mining": 0.0175727445,
+          "Power station": 0.0031084261,
+          "Transportation": 0.0183788506,
+          "Sports": 0.0352831669,
+          "Religious": 0.0217128841,
+          "Water": 0.0292198203,
+          "Others": 0.5006952004
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 7245.2311633394
+      }
+    }
+  },
+  "HU312": {
+    "ADM0": "HUN",
+    "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+    "ADM2": "Heves",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1282.911747694,
+          "Agricultural": 8568.7053390741,
+          "Commercial": 65.0245804191,
+          "Factory": 65.7887306213,
+          "Mining": 432.022464633,
+          "Power station": 52.352930963,
+          "Transportation": 422.0529994369,
+          "Sports": 724.1252875924,
+          "Religious": 465.8133380413,
+          "Water": 531.9451411366,
+          "Others": 8644.8493299484
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0596093183,
+          "Agricultural": 0.3981370383,
+          "Commercial": 0.0030213075,
+          "Factory": 0.0030568131,
+          "Mining": 0.0200735278,
+          "Power station": 0.0024325309,
+          "Transportation": 0.0196103057,
+          "Sports": 0.0336458177,
+          "Religious": 0.0216435897,
+          "Water": 0.0247163433,
+          "Others": 0.4016749991
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3637.0402267785
+      }
+    }
+  },
+  "HU313": {
+    "ADM0": "HUN",
+    "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+    "ADM2": "N\u00f3gr\u00e1d",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 906.6548182368,
+          "Agricultural": 3542.9769640565,
+          "Commercial": 23.3059036732,
+          "Factory": 35.4124961495,
+          "Mining": 369.2447729707,
+          "Power station": 40.3398134708,
+          "Transportation": 196.7130955458,
+          "Sports": 717.8434385061,
+          "Religious": 425.1825495362,
+          "Water": 266.6521282196,
+          "Others": 8402.2255113721
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0596954713,
+          "Agricultural": 0.233274754,
+          "Commercial": 0.0015344946,
+          "Factory": 0.0023316102,
+          "Mining": 0.0243116127,
+          "Power station": 0.002656032,
+          "Transportation": 0.0129518762,
+          "Sports": 0.0472638556,
+          "Religious": 0.0279946372,
+          "Water": 0.0175567638,
+          "Others": 0.5532147427
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2544.1064957149
+      }
+    }
+  },
+  "HU321": {
+    "ADM0": "HUN",
+    "ADM1": "\u00c9szak-Alf\u00f6ld",
+    "ADM2": "Hajd\u00fa-Bihar",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1502.1626765132,
+          "Agricultural": 16906.4758980274,
+          "Commercial": 132.4458870888,
+          "Factory": 142.6413211226,
+          "Mining": 1299.36654526,
+          "Power station": 165.3923372626,
+          "Transportation": 990.6864911318,
+          "Sports": 1072.5132783055,
+          "Religious": 1199.8556012511,
+          "Water": 1030.1434272528,
+          "Others": 11411.0009907484
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0413522732,
+          "Agricultural": 0.4654097863,
+          "Commercial": 0.0036460355,
+          "Factory": 0.0039267005,
+          "Mining": 0.0357696015,
+          "Power station": 0.0045530016,
+          "Transportation": 0.0272721051,
+          "Sports": 0.0295246732,
+          "Religious": 0.0330302153,
+          "Water": 0.0283582951,
+          "Others": 0.3141276494
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6209.1406747226
+      }
+    }
+  },
+  "HU323": {
+    "ADM0": "HUN",
+    "ADM1": "\u00c9szak-Alf\u00f6ld",
+    "ADM2": "Szabolcs-Szatm\u00e1r-Bereg",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1837.2423428297,
+          "Agricultural": 20282.9166146517,
+          "Commercial": 130.740745008,
+          "Factory": 138.0195037723,
+          "Mining": 510.3374689817,
+          "Power station": 95.8164957166,
+          "Transportation": 775.4856159687,
+          "Sports": 1557.711527288,
+          "Religious": 677.5855148435,
+          "Water": 838.1100991368,
+          "Others": 8007.2939465642
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0519244367,
+          "Agricultural": 0.5732390305,
+          "Commercial": 0.0036950158,
+          "Factory": 0.0039007293,
+          "Mining": 0.0144232391,
+          "Power station": 0.0027079811,
+          "Transportation": 0.0219168984,
+          "Sports": 0.0440242921,
+          "Religious": 0.0191500301,
+          "Water": 0.0236868015,
+          "Others": 0.226303421
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5932.5999026173
+      }
+    }
+  },
+  "HU322": {
+    "ADM0": "HUN",
+    "ADM1": "\u00c9szak-Alf\u00f6ld",
+    "ADM2": "J\u00e1sz-Nagykun-Szolnok",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1451.8414188623,
+          "Agricultural": 16909.1013779044,
+          "Commercial": 86.7831313014,
+          "Factory": 128.2704041004,
+          "Mining": 702.3024560809,
+          "Power station": 139.0792841911,
+          "Transportation": 664.2234360576,
+          "Sports": 823.281878233,
+          "Religious": 904.449560523,
+          "Water": 1247.9165349007,
+          "Others": 8972.8125875592
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0448099203,
+          "Agricultural": 0.521885845,
+          "Commercial": 0.0026784917,
+          "Factory": 0.0039589631,
+          "Mining": 0.0216760017,
+          "Power station": 0.0042925705,
+          "Transportation": 0.0205007233,
+          "Sports": 0.0254099345,
+          "Religious": 0.0279151099,
+          "Water": 0.0385159424,
+          "Others": 0.2769386601
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5581.9739549616
+      }
+    }
+  },
+  "HU331": {
+    "ADM0": "HUN",
+    "ADM1": "D\u00e9l-Alf\u00f6ld",
+    "ADM2": "B\u00e1cs-Kiskun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1962.2513361573,
+          "Agricultural": 23578.3755906224,
+          "Commercial": 126.4820420146,
+          "Factory": 143.5364191532,
+          "Mining": 1326.2167505026,
+          "Power station": 139.4733661413,
+          "Transportation": 784.4772899151,
+          "Sports": 2162.604498744,
+          "Religious": 1300.4932575226,
+          "Water": 1223.3167043924,
+          "Others": 14288.0228891373
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0410830839,
+          "Agricultural": 0.4936535727,
+          "Commercial": 0.0026481176,
+          "Factory": 0.0030051801,
+          "Mining": 0.0277666133,
+          "Power station": 0.0029201132,
+          "Transportation": 0.0164243722,
+          "Sports": 0.0452778196,
+          "Religious": 0.027228048,
+          "Water": 0.025612225,
+          "Others": 0.2991441679
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 8442.8535327964
+      }
+    }
+  },
+  "HU332": {
+    "ADM0": "HUN",
+    "ADM1": "D\u00e9l-Alf\u00f6ld",
+    "ADM2": "B\u00e9k\u00e9s",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1644.1851959229,
+          "Agricultural": 18562.6385272741,
+          "Commercial": 82.7224870324,
+          "Factory": 126.1182678938,
+          "Mining": 413.4358561635,
+          "Power station": 94.1299526691,
+          "Transportation": 451.4937903881,
+          "Sports": 721.0670853257,
+          "Religious": 741.8975479603,
+          "Water": 669.0370345116,
+          "Others": 8231.9313909411
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0513134385,
+          "Agricultural": 0.5793220937,
+          "Commercial": 0.0025816893,
+          "Factory": 0.0039360298,
+          "Mining": 0.0129029354,
+          "Power station": 0.0029377053,
+          "Transportation": 0.0140906869,
+          "Sports": 0.0225038102,
+          "Religious": 0.0231539089,
+          "Water": 0.0208800023,
+          "Others": 0.2569106607
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5630.0518171059
+      }
+    }
+  },
+  "HU333": {
+    "ADM0": "HUN",
+    "ADM1": "D\u00e9l-Alf\u00f6ld",
+    "ADM2": "Csongr\u00e1d",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1242.9895020723,
+          "Agricultural": 13695.0061486959,
+          "Commercial": 109.3015190959,
+          "Factory": 131.343354404,
+          "Mining": 474.4215893745,
+          "Power station": 82.4894098043,
+          "Transportation": 558.2793011069,
+          "Sports": 1153.1434507966,
+          "Religious": 547.3969050646,
+          "Water": 691.0063749552,
+          "Others": 5020.015443027
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0518106582,
+          "Agricultural": 0.5708393209,
+          "Commercial": 0.0045559384,
+          "Factory": 0.0054746928,
+          "Mining": 0.0197749818,
+          "Power station": 0.0034383481,
+          "Transportation": 0.0232703639,
+          "Sports": 0.0480656684,
+          "Religious": 0.0228167607,
+          "Water": 0.0288027333,
+          "Others": 0.2092457773
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4261.7494083564
+      }
+    }
+  }
+}

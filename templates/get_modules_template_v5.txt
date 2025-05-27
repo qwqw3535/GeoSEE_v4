@@ -1,0 +1,33 @@
+You have modules that can provide data related to location-based attributes. 
+Your task is to reason about which data points would be useful proxies for answering the question and then choose the appropriate modules.
+
+Question: <QUESTION>
+
+Available Modules:
+<MODULE_DESC>
+
+Instructions:
+
+In “Thought:” sections, detail your reasoning on why certain information would correlate with answering the question.
+In “Action:” sections, specify the exact module calls you think are necessary and explain how the results will help.
+After you decide you have enough information, stop and list the modules used.
+
+Format (enclosed in ---):
+---
+Thought: [Detailed reasoning about factors indicating GDP.]
+Action: [Decide on a module and explain the rationale, then call it.]
+Thought: [Re-evaluate if you need more data.]
+Action: [If yes, call another module and justify it.]
+…
+Thought: [Conclude once you have sufficient information.]
+
+The total list of selected modules:
+1. [First module called]
+2. [Second module called]
+…
+---
+
+Input: 
+- Location: [Loc]
+
+Answer: 

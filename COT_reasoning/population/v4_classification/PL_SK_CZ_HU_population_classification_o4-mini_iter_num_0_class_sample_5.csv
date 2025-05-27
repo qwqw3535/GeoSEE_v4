@@ -1,0 +1,138 @@
+,desc
+0,"Based on the fact that “ul. Na Zakolu Wisły 10 30-729 Podgórze” lies in one of Kraków’s urban districts (pop. ≈ 70–80 k) – well above a small‐town threshold but under the ca. 100 k cutoff we see for “Very High” in Prague – the appropriate population‐class inference is:  
+Answer: High"
+1,High
+2,Based on its location in the Tarnów urban area (pop. ~115 000) – comparable to Nowy Sącz (which was classed High) – the district around ulica Wędkarska in Mościce/Tarnów should likewise be rated High.
+3,Based on its location in the Małopolskie province (the same region as Nowy Sącz which was classified “High”) and the relative size of the Nowotarski district Morawczyna would likewise fall into the “High” category. Answer: High
+4,Answer: High
+5,Very High
+6,High
+7,Based on the county (“powiat”) population in which Rydułtowy Górne sits (Wodzisławski powiat ≈155 000 inhabitants) this district falls into the “High” population band.
+8,Based on its status as a small rural gmina seat (population around 2 000) in Lubliniecki county—and by analogy to similar Polish villages just over the 1 000–1 500‐resident mark—I’d place Koszęcin in the Medium class.
+9,High
+10,Answer: High
+11,Based on its status as a small rural village in Zawierciański county (population on the order of 1–2 000) Rokitno Szlacheckie would fall into the “Low” class.
+12,"Based on the population of the Pszczyński district (powiat) – roughly 110–115 000 inhabitants – it falls into the “High” band. So the answer is:
+
+Answer: High"
+13,Answer: Very High
+14,High
+15,"Based on Kotusz’s placement in Grodzisk Wielkopolski County (powiat grodziski) – one of the smaller Polish powiats by total population (≈50 000 inhabitants) – and by comparison to the benchmarks (Piła powiat at ~135 000 → Low smaller units falling below that trending toward Very Low) I would classify Kotusz’s District population as:
+
+Very Low"
+16,Based on the population of Szamotulski District (powiat szamotulski) – roughly 85 000–90 000 inhabitants – it falls into the “Medium” class.
+17,High
+18,Low
+19,Very Low
+20,Low
+21,High
+22,Based on the fact that Świdnica sits in the Zielonogórski postal/district area (anchored on the city of Zielona Góra ~140 000 inhabitants) and comparing it to our Hungarian Czech and Polish “ground‐truth” buckets you would place this district in the “High” class.
+23,High
+24,Based on the size of Lwówecki (Lwówek Śląski) County—around 45 000 inhabitants placing it among Poland’s smaller districts—the population class is: Very Low.
+25,Based on its size (a small village of just a few hundred residents) but situated in a moderately populated Lower-Silesian county where similarly sized places (e.g. Daninów Czołki Wolibórz) were all judged “High” Rynarcice best fits the “High” class. Answer: High
+26,Based on the 55-xxx postal district (“ul. Rakowa 55-114 Wisznia Mała…”) which covers a cluster of mid‐sized Lower-Silesian counties totaling several hundred thousand inhabitants (well above the 100–200 k-level “High” benchmarks but below the million-plus metro areas) this district’s population would also fall into the “High” class.
+27,High
+28,Answer: Medium
+29,High
+30,Based on the size of Gmina Dębowa Łąka (≈3–4 000 inh.) and by analogy with similarly‐sized gminy like Burzenin (Wola Będkowska → Medium) we would place Dębowa Łąka in the Medium class.
+31,Medium
+32,Based on its location in the sparsely populated Tuchola Forest area far from any larger urban center Wysoka (in Gmina Cekcyn Tucholski) is likely to fall into the “Low” population category.
+33,High
+34,Based on its small size rural location in the Ostróda–Miłomłyn area (no large urban centre within immediate commuting distance) and by analogy with similarly‐sized Polish villages like Dziembowo (Low) Majdany Wielkie should likewise be classified as Low.
+35,Ramsowo lies in the Olsztyński postal district (11-010) whose catchment – basically the surrounding Olsztyn‐area towns and villages – sums to roughly 110–120 000 inhabitants. By the same qualitative rubric that pegged Sieradzki (≈118 000) at “Medium” we would likewise rate Olsztyński as Medium. Answer: Medium
+36,Based on its location in a sparsely populated Masurian‐lake area and the fact that Radzie is just a small settlement within Gmina Wydminy (total gmina pop. ≈5 000 and Radzie itself likely only a few dozen residents) it falls into the “Very Low” category.
+37,Based on its being a densely populated urban district of Gdańsk (a major regional capital) the appropriate class is: Very High.
+38,Based on its character as a small rural village in Gmina Szemud (most such settlements in that area have only a few‐hundred residents) Warzno would fall into the “Low” population class.
+39,Very Low
+40,Very Low
+41,Low
+42,Answer: Very High
+43,Based on the size of the 95‐062 postal‐district (Opole plus the neighbouring villages in Gmina Parzęczew Łódź Voivodeship) which totals roughly 4–6 000 inhabitants it falls into the “Medium” class.
+44,"Based on its postal‐district population (postal code 97 covers both Piotrków Trybunalski ~75 000 and the surrounding powiat ~88 000 so in total ~160 000+) and comparing to the benchmark districts (97≈98 which was classed Medium while 62 at ~200 000+ is High) Łazy Dąbrowa (district 97) falls into the Medium category.  
+Answer: Medium"
+45,Based on its location in the largely rural Łowicki powiat (County) – whose overall population is under 100 000 and whose individual gmina (Domaniewice) is quite small – Skaratki would fall into the “Low” class.
+46,Based on the size of the surrounding powiat (Kielce County) – which at over 200 000 inhabitants sits above the “High” band – I would classify Gruszka (Zagnańsk Kielecki Świętokrzyskie) as Very High.
+47,Low
+48,Answer: Low
+49,High
+50,High
+51,Bełchówka Bukowsko Sanocki Podkarpackie POL ⇒ Low.
+52,High
+53,"Based on the size of Rzeszów County (Powiat Rzeszowski – roughly 160–170 000 inhabitants) and how it stacks up against the other 79 Polish districts it falls into the second‐highest quintile.  
+Answer: High"
+54,Answer: High
+55,"Based on its postal-district (first two ZIP digits “16-”) Studzianki lies in the Białostocki district whose population (excl. the city of Białystok) is on the order of 110–120 000 – similar to Sieradzki (98-xx) which we rated “Medium.”  
+Answer: Medium"
+56,"Based on the fact that Łopienie-zyski lies in Powiat Wysokomazowiecki (population ≈ 57 000 one of Poland’s smallest counties) and comparing it to the benchmarks above (e.g. Piła ≈ 136 k → Low; Sieradz ≈ 165 k → Medium) this district falls into the Very Low class.  
+Answer: Very Low"
+57,Based on its status as a small village in a largely rural county Netta Druga’s population would fall into the “Low” category.
+58,Based on its population of roughly 180–190 000 inhabitants (well above the ~100 000 cutoff where “High” becomes “Very High” in your benchmarks) Praga-Południe would be classified as Very High.
+59,"Based on Ołtarzew’s location in the Warsaw-West County (a fast‐growing suburban district adjacent to the capital) and by analogy with other suburban/metro-adjacent districts (e.g. Miński Kłodzki Koniński) being classed as High the most appropriate class for Warszawski Zachodni is:
+
+Answer: High"
+60,"Based on the examples above Radom is a standalone city‐county (“powiat grodzki”) in Mazowieckie with roughly 220 000 inhabitants – comfortably above the ~200 000 cutoff that separates “High” from “Very High.”  Hence:
+
+ulica 11 Listopada 166-166 26-613 Radom Mazowieckie POL  
+Answer: Very High"
+61,Based on the population of Ciechanów County (powiat ciechanowski) – roughly 85–90 000 inhabitants – and by analogy with similarly sized counties in our ground‐truth set (e.g. Nowy Sącz at ~84 000 → High) we would classify ulica Ościsłowo 30A-30A in Glinojeck gmina Ciechanowski county as High.
+62,High
+63,Very Low
+64,High
+65,Low
+66,"Based on the fact that Malacky lies in the Bratislavský kraj (population ≈ 650 000) and using the same regional‐population bands (≈ 600–800 K → “Medium”) the appropriate class is:  
+Medium"
+67,"Based on Trnava’s size (roughly 65 000 inhabitants) which is comparable to Nowy Sącz (classified above as High) but well below national‐capital scale the appropriate class is:
+
+Answer: High"
+68,Very Low
+69,Answer: Low
+70,Low
+71,Low
+72,"Based on the pattern of classifying first‐level regions (kraje/megye/voivodeships) by total population – roughly  
+• Very Low < 250 000  
+• Low 250 000–500 000  
+• Medium 500 000–750 000  
+• High 750 000–1 000 000  
+• Very High > 1 000 000  
+
+Prešov Region in Slovakia has about 820 000 inhabitants so it falls into the “High” bracket.  
+
+Answer: High"
+73,"Based on the fact that Južné Mesto lies in the Košice Region which by population (~790 000–800 000) ranks among the two largest of Slovakia’s eight kraje (together with Prešov) we place it in the top quintile.  
+Answer: Very High"
+74,Answer: Very High
+75,Answer: High
+76,For the Plzeňský kraj (Region) – with roughly 580 000 inhabitants – the most appropriate category is Medium.
+77,Answer: Very High
+78,High
+79,Low
+80,Answer: Medium
+81,High
+82,"Based on the pattern applied to Czech regions (Prague and South Moravia both classed “Very High” at roughly 1–1.3 M inhabitants) and extrapolating downwards Vysočina’s ~510 000 people falls into the “Medium” band.  
+
+Answer: Medium"
+83,High
+84,High
+85,Very High. The village “Výškovice u Slatiny” lies in the Moravskoslezský kraj whose population (≈1.2 million) places it in the top class of Czech regions.
+86,Answer: Very High
+87,Pest megye lakossága (kb. 12 millió fő) a magyar megyék között a legmagasabbak közé tartozik. Tehát a minősítési skálán a „Very High” kategóriába esik.
+88,Medium
+89,Low
+90,Medium
+91,High
+92,Very Low
+93,Based on the fact that Zala megye (county) – with roughly 280 000 inhabitants – falls into the lowest‐population quintile of Hungary’s 19 counties its population class is: Very Low.
+94,Based on Baranya megye’s population (≈360 000) which places it in the middle tier among Hungary’s 20 counties the appropriate class is Medium.
+95,Medium
+96,Based on its status as a small rural village in Tolna county (population a few‐hundred) Varsád falls into the “Very Low” class.
+97,Based on Szikszó’s size (roughly 3 000 – 3 500 inhabitants markedly larger than very small villages but far below city-scale) it falls into the Medium class.
+98,Based on its status as a small village in Heves county (postal code 3265) the population class for Vécs is: Very Low.
+99,High
+100,Very Low
+101,Very High
+102,Based on Bács‐Kiskun megye’s population (over half a million placing it among Hungary’s most populous counties) the correct qualitative class is: Very High.
+103,"full address of the given location is 5672 Murony Békés HUN  
+Answer: Medium"
+104,"For the address 6800 Hódmezővásárhely Csongrád-Csanád megye HUN the relevant unit is Csongrád-Csanád County. Its population is about 410 000 which places it in the “High” category among the 20 Hungarian counties. Thus:
+
+Answer: High"

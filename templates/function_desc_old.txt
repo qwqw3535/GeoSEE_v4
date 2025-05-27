@@ -1,0 +1,9 @@
+- get_landcover_ratio(Loc, Class): Get the relative land cover ratio of class within the total area using satellite images. Class should be one of the element in ["bareland", "rangeland", "development", "road", "tree", "water", "agricultural", "building"].
+
+- get_address(Loc): Get address of given location.
+
+- get_area(Loc): Get area size of given location's district.
+
+- get_night_light(Loc): Get nightlight intensity of given location.
+
+- get_distance_to_nearest_target(Loc, Class): Get distance of given location to class. Class should be one of the element in ['airport', 'port']

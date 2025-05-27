@@ -1,0 +1,117 @@
+,desc
+0,Answer: Very High
+1,Very Low
+2,High
+3,Based on its size (Nowy Sącz has about 80–90 000 inhabitants making it a mid‐sized Polish city) it falls into the “Medium” category.
+4,Medium
+5,High
+6,High
+7,High
+8,Answer: Low
+9,Medium
+10,Answer: Very High
+11,Low
+12,High
+13,Very High
+14,Based on its setting in the rural gmina (Ostrów Wielkopolski rural commune) and the small‐village character of Kołątajewo (postal code 63-410) this location falls into the “Low” population class.
+15,Low
+16,Low
+17,Low
+18,Based on its status as a small rural village in the Drawsko Pomorskie commune (likely only a few hundred inhabitants) Konotop would fall into the “Low” population class.
+19,Based on the size of the Goleniów‐Bolechowo postal district (roughly a 20–30 k population catchment similar to Bučina/Ústí nad Orlicí or ulica Głogowa/Częstochowa) it falls into the Medium class.
+20,Based on its status as a small village (the seat of Gmina Świdnica has under 1 000 inhabitants) Świdnica in Zielonogórski County would fall into the “Low” population class.
+21,Low
+22,Low
+23,Based on its status as a small rural settlement (village) in Gmina Rudna Rynarcice’s population would fall into the “Low” category.
+24,High
+25,High
+26,Low
+27,Answer: Low
+28,Low
+29,Very Low
+30,High
+31,Very Low
+32,Low
+33,Based on its status as a small sparsely‐populated village in the Miłomłyn area of northern Poland (Warmian-Masurian Voivodeship) Majdany Wielkie best fits into the “Very Low” population class.
+34,Based on its being a very small out‐of‐the‐way village in the Barczewo postal district (warmly rural sparsely settled gmina pop. ≈16 000) the population class for Ramsowo is: Very Low.
+35,Very Low
+36,Very High
+37,Based on its status as a small rural village in Gmina Szemud with only a few hundred residents Warzno falls into the “Low” category.
+38,"Based on its status as a small village in the rural Gmina Dębnica Kaszubska (pop. ≈9 000) on the outskirts of Słupsk Ochodza’s population footprint aligns with other low‐density rural settlements in the dataset. 
+
+Answer: Low"
+39,Very Low
+40,"Based on Szprudowo’s status as a small rural village in Gmina Gniew (population typically in the low-hundreds) and comparing it to the other Polish and neighboring-country examples (where similarly sized settlements were classed as “Low”) the most appropriate qualitative population class for Szprudowo is:
+
+Answer: Low"
+41,Based on the street‐level location in Stary Widzew – a densely built‐up predominantly residential area within the city of Łódź – we would place this address in the top population quintile.  Answer: Very High
+42,Low
+43,Low
+44,Low
+45,Answer: Very Low
+46,Low
+47,Low
+48,Answer: Medium
+49,Answer: Medium
+50,Based on its predominantly rural character small‐town center (Sanok ≈ 40 000 inhabitants) and overall population catchment (Sanocki postal district well under the regional average) Bełchówka in Bukowsko Sanocki Podkarpackie would likewise fall into the “Very Low” population class.
+51,"Based on its rural location in the small gmina‐seat village of Laszki (population under 1 000) and comparing to similar Polish villages classified as “Low” the appropriate class here is:
+
+Answer: Low"
+52,High
+53,Based on the fact that Powiat mielecki (which includes Gmina Czermin and the village of Otałęż) has roughly 135–140 000 inhabitants – squarely in the middle of the size‐rank of Polish districts – it would fall into the “Medium” class.
+54,Low
+55,"Based on the fact that Łopienie-zyski is a tiny rural settlement in the sparsely populated Podlaskie region (comparable to other hamlets like Morawczyna which was “Very Low”) it most plausibly falls into the Very Low category.  
+Answer: Very Low"
+56,Based on Netta Druga’s inclusion in the 16-300 Augustów postal district (which serves the ~30 000-strong town of Augustów and its immediate environs) this district’s population falls into the “Medium” class.
+57,Answer: Very High
+58,Low
+59,Based on its location in the densely populated suburban ring of Warsaw (Warszawski Zachodni) Ołtarzew falls into the “Very High” population class.
+60,"Based on Radom’s size (roughly 200 000 people comparable to Częstochowa which was classed “Medium”) the appropriate population‐class for the Radom district is:
+
+Answer: Medium"
+61,High
+62,Based on its status as a small rural settlement in Gmina Stara Biała (Płocki district) rather than a town or city neighbourhood Trzepowo Nowe would be placed into the “Low” category.
+63,Very Low
+64,Low
+65,High
+66,High
+67,Very Low
+68,Based on its status as a small Slovak village with roughly 500–600 inhabitants Veľká Maňa falls into the “Medium” category.
+69,Medium
+70,Very Low
+71,Low
+72,Answer: Low
+73,Very High
+74,Very High
+75,Answer: Low
+76,Answer: Very Low
+77,Very Low
+78,Low
+79,Low
+80,Answer: Medium
+81,"Based on its status as a small standalone municipality in the Vysočina Region (around 700–900 inhabitants) Velký Beranov falls into the same bracket as other Czech villages we’ve labeled Medium.  
+Answer: Medium"
+82,Based on its size (a small rural municipality in South Moravia with only a few‐hundred inhabitants) Holasice falls into the “Low” category.
+83,Based on its status as a stand-alone village in the Olomouc region with roughly one thousand inhabitants Újezd (783 96) falls into the Medium class.
+84,Medium
+85,Medium
+86,Answer: Very High
+87,Based on Gyömrő’s size (around 7–10 000 inhabitants) it falls into the “Medium” category.
+88,Based on the county (megye) population of Fejér – roughly 420–430 000 inhabitants – it falls into the “High” class.
+89,Answer: Very High
+90,Based on its status as a standalone rural village of roughly 1–2 thousand inhabitants in Veszprém County Városlőd would fall into the Medium category.
+91,Based on Barbacs being a small rural village in Győr-Moson-Sopron with a few hundred inhabitants it falls into the “Low” population class. Answer: Low
+92,Low
+93,Low
+94,Based on its scale – Málom is just a neighbourhood/street‐level locality within the city of Pécs (pop. ~145 000) rather than a standalone village or town – its immediate population is best classed as Low.
+95,High
+96,Answer: Low
+97,High
+98,"Based on the anchor examples (Very Low villages ≲200 inh. Low villages up to ~500 inh. Medium settlements up to a few thousand etc.) and knowing that Vécs (postal code 3265 Heves county) has on the order of several hundred to around one thousand residents it best fits into the Medium class.  
+Answer: Medium"
+99,Low
+100,Answer: Medium
+101,Based on the fact that this “address” refers to a protected‐landscape area (no permanent settlement) rather than an inhabited village or town we’d classify its resident population as Very Low.
+102,High
+103,Medium
+104,High

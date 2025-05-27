@@ -1,0 +1,4893 @@
+{
+  "PL213": {
+    "ADM0": "PL",
+    "ADM1": "Małopolskie",
+    "ADM2": "Miasto Kraków",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 52868.91348985103,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 58134.43636039463,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 64844.30825087154,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 94339.13673323198,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 103622.55121932123,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.1414328294570256,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 327.57132353685296
+      },
+      "quantile2_ratio": {
+        "val": 0.1555189482930902,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 327.57132353685296
+      },
+      "quantile3_ratio": {
+        "val": 0.17346893258672402,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 327.57132353685296
+      },
+      "quantile4_ratio": {
+        "val": 0.25237233292633365,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 327.57132353685296
+      },
+      "quantile5_ratio": {
+        "val": 0.27720695673682655,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 327.57132353685296
+      }
+    }
+  },
+  "PL214": {
+    "ADM0": "PL",
+    "ADM1": "Małopolskie",
+    "ADM2": "Krakowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 40103.98861773855,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 44706.49146477904,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 52241.55479199568,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 49278.53358263768,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 59605.921546001104,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.16306644295535222,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4052.108939039175
+      },
+      "quantile2_ratio": {
+        "val": 0.1817806355787466,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4052.108939039175
+      },
+      "quantile3_ratio": {
+        "val": 0.21241888420594326,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4052.108939039175
+      },
+      "quantile4_ratio": {
+        "val": 0.20037097212376295,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4052.108939039175
+      },
+      "quantile5_ratio": {
+        "val": 0.24236306513619496,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4052.108939039175
+      }
+    }
+  },
+  "PL217": {
+    "ADM0": "PL",
+    "ADM1": "Małopolskie",
+    "ADM2": "Tarnowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 27311.217879058233,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 33528.973451441045,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 30993.50928965601,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 26329.027485194092,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 23742.005921888634,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.19246164031297194,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 2605.2627252010225
+      },
+      "quantile2_ratio": {
+        "val": 0.2362780472496802,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 2605.2627252010225
+      },
+      "quantile3_ratio": {
+        "val": 0.21841067884110854,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 2605.2627252010225
+      },
+      "quantile4_ratio": {
+        "val": 0.18554016302331638,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 2605.2627252010225
+      },
+      "quantile5_ratio": {
+        "val": 0.16730947057292295,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 2605.2627252010225
+      }
+    }
+  },
+  "PL218": {
+    "ADM0": "PL",
+    "ADM1": "Małopolskie",
+    "ADM2": "Nowosądecki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 26780.45131095491,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 28604.43545274074,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 35997.78921797038,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 31361.722667132188,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 30311.28714649124,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.17497194679048717,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 3526.9049209545096
+      },
+      "quantile2_ratio": {
+        "val": 0.18688907441830618,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 3526.9049209545096
+      },
+      "quantile3_ratio": {
+        "val": 0.23519406698890677,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 3526.9049209545096
+      },
+      "quantile4_ratio": {
+        "val": 0.20490400277633722,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 3526.9049209545096
+      },
+      "quantile5_ratio": {
+        "val": 0.1980409090259626,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 3526.9049209545096
+      }
+    }
+  },
+  "PL219": {
+    "ADM0": "PL",
+    "ADM1": "Małopolskie",
+    "ADM2": "Nowotarski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 21181.546770967965,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 19280.585923746316,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 21310.756357921407,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 18179.19672388586,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 17981.635361305507,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2162845087971089,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 2632.2949149003475
+      },
+      "quantile2_ratio": {
+        "val": 0.19687382139408116,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 2632.2949149003475
+      },
+      "quantile3_ratio": {
+        "val": 0.21760386627124795,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 2632.2949149003475
+      },
+      "quantile4_ratio": {
+        "val": 0.18562755006828915,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 2632.2949149003475
+      },
+      "quantile5_ratio": {
+        "val": 0.18361025346927282,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 2632.2949149003475
+      }
+    }
+  },
+  "PL21A": {
+    "ADM0": "PL",
+    "ADM1": "Małopolskie",
+    "ADM2": "Oświęcimski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 33398.76247552985,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 37547.69845120178,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 40781.97911730261,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 34725.503351324995,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 33338.59385464972,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.18576278518772718,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 2039.9165500620163
+      },
+      "quantile2_ratio": {
+        "val": 0.20883902649969366,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 2039.9165500620163
+      },
+      "quantile3_ratio": {
+        "val": 0.22682798597248552,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 2039.9165500620163
+      },
+      "quantile4_ratio": {
+        "val": 0.19314207298291666,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 2039.9165500620163
+      },
+      "quantile5_ratio": {
+        "val": 0.18542812935717698,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 2039.9165500620163
+      }
+    }
+  },
+  "PL224": {
+    "ADM0": "PL",
+    "ADM1": "Śląskie",
+    "ADM2": "Częstochowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 34808.798385774135,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 39028.75356136331,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 39845.8501671323,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 36129.99163701359,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 34968.62829237511,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.18837762462383842,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 3048.128081723313
+      },
+      "quantile2_ratio": {
+        "val": 0.21121510160843449,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 3048.128081723313
+      },
+      "quantile3_ratio": {
+        "val": 0.2156370502197336,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 3048.128081723313
+      },
+      "quantile4_ratio": {
+        "val": 0.19552763433055814,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 3048.128081723313
+      },
+      "quantile5_ratio": {
+        "val": 0.18924258921743517,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 3048.128081723313
+      }
+    }
+  },
+  "PL225": {
+    "ADM0": "PL",
+    "ADM1": "Śląskie",
+    "ADM2": "Bielski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 32709.962483431133,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 37672.83869703261,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 51607.9771191699,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 46813.83005148209,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 54157.9609259728,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.14670607084178586,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 2352.9158325066555
+      },
+      "quantile2_ratio": {
+        "val": 0.16896485728155738,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 2352.9158325066555
+      },
+      "quantile3_ratio": {
+        "val": 0.23146475790307955,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 2352.9158325066555
+      },
+      "quantile4_ratio": {
+        "val": 0.20996273142737168,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 2352.9158325066555
+      },
+      "quantile5_ratio": {
+        "val": 0.2429015825462056,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 2352.9158325066555
+      }
+    }
+  },
+  "PL227": {
+    "ADM0": "PL",
+    "ADM1": "Śląskie",
+    "ADM2": "Rybnicki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 110460.11822435606,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 120161.37814178006,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 174524.95785072248,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 132807.9469086787,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 148158.92455694213,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.16099398465185177,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 1353.139018671037
+      },
+      "quantile2_ratio": {
+        "val": 0.17513342715251173,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 1353.139018671037
+      },
+      "quantile3_ratio": {
+        "val": 0.25436753859447614,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 1353.139018671037
+      },
+      "quantile4_ratio": {
+        "val": 0.193565613634707,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 1353.139018671037
+      },
+      "quantile5_ratio": {
+        "val": 0.21593943596645337,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 1353.139018671037
+      }
+    }
+  },
+  "PL228": {
+    "ADM0": "PL",
+    "ADM1": "Śląskie",
+    "ADM2": "Bytomski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 34298.74849546215,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 40181.18652624478,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 34747.79058253994,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 30297.807006100764,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 26891.31317107622,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2061014216103519,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 1577.293972248847
+      },
+      "quantile2_ratio": {
+        "val": 0.24144903322479613,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 1577.293972248847
+      },
+      "quantile3_ratio": {
+        "val": 0.20879971867859207,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 1577.293972248847
+      },
+      "quantile4_ratio": {
+        "val": 0.18205973598306677,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 1577.293972248847
+      },
+      "quantile5_ratio": {
+        "val": 0.16159009050319317,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 1577.293972248847
+      }
+    }
+  },
+  "PL229": {
+    "ADM0": "PL",
+    "ADM1": "Śląskie",
+    "ADM2": "Gliwicki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 33517.647292010886,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 43820.644716449,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 37447.17612826318,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 38383.092970621634,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 34746.171376786886,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.17836625606159578,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 879.2210211636509
+      },
+      "quantile2_ratio": {
+        "val": 0.23319430114479942,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 879.2210211636509
+      },
+      "quantile3_ratio": {
+        "val": 0.19927748949340837,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 879.2210211636509
+      },
+      "quantile4_ratio": {
+        "val": 0.20425802949677127,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 879.2210211636509
+      },
+      "quantile5_ratio": {
+        "val": 0.18490392380342513,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 879.2210211636509
+      }
+    }
+  },
+  "PL22A": {
+    "ADM0": "PL",
+    "ADM1": "Śląskie",
+    "ADM2": "Katowicki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 62246.33299443544,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 76936.20988633131,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 62390.50542712003,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 62939.15311813574,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 58819.84804524392,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.1925151963630722,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 380.30310090220644
+      },
+      "quantile2_ratio": {
+        "val": 0.23794798570739398,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 380.30310090220644
+      },
+      "quantile3_ratio": {
+        "val": 0.19296109225529925,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 380.30310090220644
+      },
+      "quantile4_ratio": {
+        "val": 0.19465794752192964,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 380.30310090220644
+      },
+      "quantile5_ratio": {
+        "val": 0.1819177781523049,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 380.30310090220644
+      }
+    }
+  },
+  "PL22B": {
+    "ADM0": "PL",
+    "ADM1": "Śląskie",
+    "ADM2": "Sosnowiecki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 55107.74669023164,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 63466.79290799803,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 61346.42490476127,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 53261.992439104666,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 48461.095242675416,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.19566451434975984,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 1802.0477537842387
+      },
+      "quantile2_ratio": {
+        "val": 0.22534398442173031,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 1802.0477537842387
+      },
+      "quantile3_ratio": {
+        "val": 0.21781544623039045,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 1802.0477537842387
+      },
+      "quantile4_ratio": {
+        "val": 0.18911101450905995,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 1802.0477537842387
+      },
+      "quantile5_ratio": {
+        "val": 0.17206504048905952,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 1802.0477537842387
+      }
+    }
+  },
+  "PL22C": {
+    "ADM0": "PL",
+    "ADM1": "Śląskie",
+    "ADM2": "Tyski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 20415.842886276332,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 25514.869303017265,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 32796.59395395067,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 30534.23692278392,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 35705.09844976988,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.14083131590002015,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 944.2749305985308
+      },
+      "quantile2_ratio": {
+        "val": 0.17600510735593422,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 944.2749305985308
+      },
+      "quantile3_ratio": {
+        "val": 0.22623545397081296,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 944.2749305985308
+      },
+      "quantile4_ratio": {
+        "val": 0.21062940138167155,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 944.2749305985308
+      },
+      "quantile5_ratio": {
+        "val": 0.24629872139156125,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 944.2749305985308
+      }
+    }
+  },
+  "PL411": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Pilski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 29365.606066186407,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 31458.03787787378,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 30554.771646234793,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 24744.140384269936,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 21090.529136729434,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.21401461852102363,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6457.553941023289
+      },
+      "quantile2_ratio": {
+        "val": 0.22926412486358702,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6457.553941023289
+      },
+      "quantile3_ratio": {
+        "val": 0.22268117957883998,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6457.553941023289
+      },
+      "quantile4_ratio": {
+        "val": 0.1803336785569672,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6457.553941023289
+      },
+      "quantile5_ratio": {
+        "val": 0.15370639847958217,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6457.553941023289
+      }
+    }
+  },
+  "PL414": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Koniński",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 46898.130988563185,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 48518.42482912277,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 48183.289554312105,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 38892.50697691364,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 36338.39540546118,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.21431234627596352,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6397.756074878117
+      },
+      "quantile2_ratio": {
+        "val": 0.22171667065536144,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6397.756074878117
+      },
+      "quantile3_ratio": {
+        "val": 0.22018518900458886,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6397.756074878117
+      },
+      "quantile4_ratio": {
+        "val": 0.1777287121486631,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6397.756074878117
+      },
+      "quantile5_ratio": {
+        "val": 0.16605708191542307,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6397.756074878117
+      }
+    }
+  },
+  "PL415": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Miasto Poznań",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 33865.54643895048,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 41729.6640134265,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 41702.1015295096,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 62908.85636888841,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 68815.140095738,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.13599457271434431,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 261.95019856787275
+      },
+      "quantile2_ratio": {
+        "val": 0.16757467171685658,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 261.95019856787275
+      },
+      "quantile3_ratio": {
+        "val": 0.1674639884822015,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 261.95019856787275
+      },
+      "quantile4_ratio": {
+        "val": 0.2526243909058912,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 261.95019856787275
+      },
+      "quantile5_ratio": {
+        "val": 0.27634237618070634,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 261.95019856787275
+      }
+    }
+  },
+  "PL416": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Kaliski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 36793.33700148527,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 39443.68857276887,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 51748.06368279131,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 45035.99293178502,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 45587.69301007851,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.16830677070491584,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5785.265099112133
+      },
+      "quantile2_ratio": {
+        "val": 0.18043049066479433,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5785.265099112133
+      },
+      "quantile3_ratio": {
+        "val": 0.2367154000826659,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5785.265099112133
+      },
+      "quantile4_ratio": {
+        "val": 0.2060118258784782,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5785.265099112133
+      },
+      "quantile5_ratio": {
+        "val": 0.2085355126691457,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5785.265099112133
+      }
+    }
+  },
+  "PL417": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Leszczyński",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 29890.420827515314,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 33149.69875086557,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 45818.99096943322,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 35737.2315170082,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 37041.073346520265,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.1645609235290229,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5995.167815288967
+      },
+      "quantile2_ratio": {
+        "val": 0.18250479217507903,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5995.167815288967
+      },
+      "quantile3_ratio": {
+        "val": 0.252255246341564,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5995.167815288967
+      },
+      "quantile4_ratio": {
+        "val": 0.19675038557489044,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5995.167815288967
+      },
+      "quantile5_ratio": {
+        "val": 0.20392865237944355,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5995.167815288967
+      }
+    }
+  },
+  "PL418": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Poznański",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 39769.851327168144,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 42347.34144664936,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 49357.610712735885,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 50908.94234751998,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 68373.51411327902,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.15859900261917842,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4928.336337628542
+      },
+      "quantile2_ratio": {
+        "val": 0.16887782812565577,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4928.336337628542
+      },
+      "quantile3_ratio": {
+        "val": 0.19683422415406332,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4928.336337628542
+      },
+      "quantile4_ratio": {
+        "val": 0.2030208112746508,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4928.336337628542
+      },
+      "quantile5_ratio": {
+        "val": 0.27266813382645166,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4928.336337628542
+      }
+    }
+  },
+  "PL424": {
+    "ADM0": "PL",
+    "ADM1": "Zachodniopomorskie",
+    "ADM2": "Miasto Szczecin",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 34991.52792056621,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 34341.0774309534,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 33445.92541638866,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 37793.540720688805,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 33965.55004713503,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.200481292300655,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 300.29550267702973
+      },
+      "quantile2_ratio": {
+        "val": 0.1967545857952633,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 300.29550267702973
+      },
+      "quantile3_ratio": {
+        "val": 0.19162588055287244,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 300.29550267702973
+      },
+      "quantile4_ratio": {
+        "val": 0.21653521108027443,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 300.29550267702973
+      },
+      "quantile5_ratio": {
+        "val": 0.19460303027093476,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 300.29550267702973
+      }
+    }
+  },
+  "PL426": {
+    "ADM0": "PL",
+    "ADM1": "Zachodniopomorskie",
+    "ADM2": "Koszaliński",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 31335.05970098675,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 29305.564271196494,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 27577.117687472404,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 25543.563091210424,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 21936.216838111905,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.23091843781715712,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4365.807341299153
+      },
+      "quantile2_ratio": {
+        "val": 0.21596241352116807,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4365.807341299153
+      },
+      "quantile3_ratio": {
+        "val": 0.2032249179244579,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4365.807341299153
+      },
+      "quantile4_ratio": {
+        "val": 0.18823898028573277,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4365.807341299153
+      },
+      "quantile5_ratio": {
+        "val": 0.1616552504514841,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4365.807341299153
+      }
+    }
+  },
+  "PL427": {
+    "ADM0": "PL",
+    "ADM1": "Zachodniopomorskie",
+    "ADM2": "Szczecinecko-pyrzycki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 41298.4670151799,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 37133.6826886043,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 28397.507411048744,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 24710.35551376993,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 16687.054755629455,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2786162321361087,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 10338.926442045287
+      },
+      "quantile2_ratio": {
+        "val": 0.2505189055137064,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 10338.926442045287
+      },
+      "quantile3_ratio": {
+        "val": 0.1915811188346396,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 10338.926442045287
+      },
+      "quantile4_ratio": {
+        "val": 0.16670609457391516,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 10338.926442045287
+      },
+      "quantile5_ratio": {
+        "val": 0.1125776489416301,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 10338.926442045287
+      }
+    }
+  },
+  "PL428": {
+    "ADM0": "PL",
+    "ADM1": "Zachodniopomorskie",
+    "ADM2": "Szczeciński",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 42610.34700346431,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 41891.195144112455,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 35479.910547322586,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 36191.29275049495,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 31272.56467138018,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.22732148900881521,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 7441.324292674287
+      },
+      "quantile2_ratio": {
+        "val": 0.22348489336977873,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 7441.324292674287
+      },
+      "quantile3_ratio": {
+        "val": 0.1892813990663162,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 7441.324292674287
+      },
+      "quantile4_ratio": {
+        "val": 0.19307654444887704,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 7441.324292674287
+      },
+      "quantile5_ratio": {
+        "val": 0.16683567410621278,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 7441.324292674287
+      }
+    }
+  },
+  "PL431": {
+    "ADM0": "PL",
+    "ADM1": "Lubuskie",
+    "ADM2": "Gorzowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 34041.88657166078,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 35229.237847630226,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 28753.421678158542,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 25457.755789914165,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 20284.99709545375,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.23678462913690365,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6111.880520975716
+      },
+      "quantile2_ratio": {
+        "val": 0.2450434702250384,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6111.880520975716
+      },
+      "quantile3_ratio": {
+        "val": 0.19999973486039438,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6111.880520975716
+      },
+      "quantile4_ratio": {
+        "val": 0.1770761221086638,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6111.880520975716
+      },
+      "quantile5_ratio": {
+        "val": 0.1410960436689997,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6111.880520975716
+      }
+    }
+  },
+  "PL432": {
+    "ADM0": "PL",
+    "ADM1": "Lubuskie",
+    "ADM2": "Zielonogórski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 52416.873736056375,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 56393.829379562216,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 47867.00664322658,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 42398.3366291586,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 34031.337336360644,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.22486149043668308,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 7874.25168917839
+      },
+      "quantile2_ratio": {
+        "val": 0.24192210679282714,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 7874.25168917839
+      },
+      "quantile3_ratio": {
+        "val": 0.20534315935623243,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 7874.25168917839
+      },
+      "quantile4_ratio": {
+        "val": 0.1818832846551618,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 7874.25168917839
+      },
+      "quantile5_ratio": {
+        "val": 0.14598995875909565,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 7874.25168917839
+      }
+    }
+  },
+  "PL514": {
+    "ADM0": "PL",
+    "ADM1": "Dolnośląskie",
+    "ADM2": "Miasto Wrocław",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 49903.51117217433,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 51004.26365125928,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 59613.0296378493,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 80365.67614825214,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 83107.5873620428,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.15402600265061667,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 292.06786644127044
+      },
+      "quantile2_ratio": {
+        "val": 0.15742344904825106,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 292.06786644127044
+      },
+      "quantile3_ratio": {
+        "val": 0.1839942009156748,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 292.06786644127044
+      },
+      "quantile4_ratio": {
+        "val": 0.24804675175504187,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 292.06786644127044
+      },
+      "quantile5_ratio": {
+        "val": 0.25650959563041553,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 292.06786644127044
+      }
+    }
+  },
+  "PL515": {
+    "ADM0": "PL",
+    "ADM1": "Dolnośląskie",
+    "ADM2": "Jeleniogórski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 50517.04855552254,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 52282.62355281923,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 42387.42618950131,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 34520.44432311954,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 26773.833917585023,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.24465668237198915,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5570.265087134009
+      },
+      "quantile2_ratio": {
+        "val": 0.25320745352091684,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5570.265087134009
+      },
+      "quantile3_ratio": {
+        "val": 0.20528450022991823,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5570.265087134009
+      },
+      "quantile4_ratio": {
+        "val": 0.1671842996294389,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5570.265087134009
+      },
+      "quantile5_ratio": {
+        "val": 0.12966706424773697,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5570.265087134009
+      }
+    }
+  },
+  "PL516": {
+    "ADM0": "PL",
+    "ADM1": "Dolnośląskie",
+    "ADM2": "Legnicko-głogowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 34383.23278951277,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 37893.33598952711,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 36925.085537747815,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 32910.54767324226,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 30486.558790497653,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.19920903622960337,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 3472.864861459763
+      },
+      "quantile2_ratio": {
+        "val": 0.21954581723626254,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 3472.864861459763
+      },
+      "quantile3_ratio": {
+        "val": 0.21393598291647561,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 3472.864861459763
+      },
+      "quantile4_ratio": {
+        "val": 0.19067661624228296,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 3472.864861459763
+      },
+      "quantile5_ratio": {
+        "val": 0.17663254737537554,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 3472.864861459763
+      }
+    }
+  },
+  "PL517": {
+    "ADM0": "PL",
+    "ADM1": "Dolnośląskie",
+    "ADM2": "Wałbrzyski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 68698.13944385508,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 61078.82852113552,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 49028.002296795974,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 39000.79656133688,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 28044.960143012686,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2794302880109753,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4180.131266488691
+      },
+      "quantile2_ratio": {
+        "val": 0.24843867364097164,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4180.131266488691
+      },
+      "quantile3_ratio": {
+        "val": 0.19942183170175928,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4180.131266488691
+      },
+      "quantile4_ratio": {
+        "val": 0.15863608394661738,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4180.131266488691
+      },
+      "quantile5_ratio": {
+        "val": 0.11407312269967639,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4180.131266488691
+      }
+    }
+  },
+  "PL518": {
+    "ADM0": "PL",
+    "ADM1": "Dolnośląskie",
+    "ADM2": "Wrocławski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 43338.601421729356,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 45221.59294888943,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 45610.16340667367,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 46947.29109764773,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 50944.75633114579,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.1867540818739768,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6433.151182646348
+      },
+      "quantile2_ratio": {
+        "val": 0.19486824205208864,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6433.151182646348
+      },
+      "quantile3_ratio": {
+        "val": 0.1965426643155275,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6433.151182646348
+      },
+      "quantile4_ratio": {
+        "val": 0.2023045958519459,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6433.151182646348
+      },
+      "quantile5_ratio": {
+        "val": 0.21953041590646125,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6433.151182646348
+      }
+    }
+  },
+  "PL523": {
+    "ADM0": "PL",
+    "ADM1": "Opolskie",
+    "ADM2": "Nyski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 32007.81988728941,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 34569.82594512535,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 26043.040220247745,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 21446.333791129,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 16036.06175753822,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2460189220219229,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4092.8865815746167
+      },
+      "quantile2_ratio": {
+        "val": 0.265711046345977,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4092.8865815746167
+      },
+      "quantile3_ratio": {
+        "val": 0.20017235487204305,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4092.8865815746167
+      },
+      "quantile4_ratio": {
+        "val": 0.16484109005846798,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4092.8865815746167
+      },
+      "quantile5_ratio": {
+        "val": 0.12325658670158912,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4092.8865815746167
+      }
+    }
+  },
+  "PL524": {
+    "ADM0": "PL",
+    "ADM1": "Opolskie",
+    "ADM2": "Opolski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 43944.3981314737,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 53520.92898957323,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 44880.40947273222,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 39844.07730028189,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 37115.442504413135,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2003800494942421,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5319.375252854529
+      },
+      "quantile2_ratio": {
+        "val": 0.24404763419042977,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5319.375252854529
+      },
+      "quantile3_ratio": {
+        "val": 0.20464812476352703,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5319.375252854529
+      },
+      "quantile4_ratio": {
+        "val": 0.18168318422740326,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5319.375252854529
+      },
+      "quantile5_ratio": {
+        "val": 0.16924100732439795,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5319.375252854529
+      }
+    }
+  },
+  "PL613": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "Bydgosko-toruński",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 63099.12873630758,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 65596.28584668857,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 59528.921497302246,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 60273.40749394978,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 61092.28534242961,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.20381511948916772,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 2917.506797862566
+      },
+      "quantile2_ratio": {
+        "val": 0.21188113220643476,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 2917.506797862566
+      },
+      "quantile3_ratio": {
+        "val": 0.19228307095550448,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 2917.506797862566
+      },
+      "quantile4_ratio": {
+        "val": 0.1946878189354464,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 2917.506797862566
+      },
+      "quantile5_ratio": {
+        "val": 0.19733285841344658,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 2917.506797862566
+      }
+    }
+  },
+  "PL616": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "Grudziądzki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 33190.12233298324,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 31740.53011201337,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 26884.378494597666,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 22876.61450993458,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 17533.03986493548,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.25101305595130435,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4053.0215895006572
+      },
+      "quantile2_ratio": {
+        "val": 0.24004995766506249,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4053.0215895006572
+      },
+      "quantile3_ratio": {
+        "val": 0.20332344471578584,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4053.0215895006572
+      },
+      "quantile4_ratio": {
+        "val": 0.1730131892961447,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4053.0215895006572
+      },
+      "quantile5_ratio": {
+        "val": 0.13260035237170276,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4053.0215895006572
+      }
+    }
+  },
+  "PL617": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "Inowrocławski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 28662.13798355709,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 32271.15366747928,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 25734.994635485382,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 19751.322504448515,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 15898.651395503637,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2343242778295058,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4004.4088056983273
+      },
+      "quantile2_ratio": {
+        "val": 0.26382940387054216,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4004.4088056983273
+      },
+      "quantile3_ratio": {
+        "val": 0.21039372695664932,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4004.4088056983273
+      },
+      "quantile4_ratio": {
+        "val": 0.1614748482715309,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4004.4088056983273
+      },
+      "quantile5_ratio": {
+        "val": 0.1299777430717718,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4004.4088056983273
+      }
+    }
+  },
+  "PL618": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "Świecki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 13232.984067813819,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 14453.543547825042,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 12963.49940990533,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 10370.768813598525,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 8581.134223013949,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.22202274412948753,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 3341.2961189553725
+      },
+      "quantile2_ratio": {
+        "val": 0.24250126686756576,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 3341.2961189553725
+      },
+      "quantile3_ratio": {
+        "val": 0.21750133588603882,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 3341.2961189553725
+      },
+      "quantile4_ratio": {
+        "val": 0.17400055338448323,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 3341.2961189553725
+      },
+      "quantile5_ratio": {
+        "val": 0.14397409973242478,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 3341.2961189553725
+      }
+    }
+  },
+  "PL619": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "Włocławski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 31187.770671474034,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 27958.116993926782,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 24461.49408395615,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 21132.719666975314,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 17059.041339231713,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.25605903264905633,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 3656.0198299352796
+      },
+      "quantile2_ratio": {
+        "val": 0.229542805978818,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 3656.0198299352796
+      },
+      "quantile3_ratio": {
+        "val": 0.2008346982625927,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 3656.0198299352796
+      },
+      "quantile4_ratio": {
+        "val": 0.17350466669035677,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 3656.0198299352796
+      },
+      "quantile5_ratio": {
+        "val": 0.14005879641917615,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 3656.0198299352796
+      }
+    }
+  },
+  "PL621": {
+    "ADM0": "PL",
+    "ADM1": "Warmińsko-mazurskie",
+    "ADM2": "Elbląski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 44651.11060639533,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 43122.48164380434,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 36627.98085775296,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 31444.832982312295,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 25305.689410930332,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.24648409659771622,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 7333.179079700839
+      },
+      "quantile2_ratio": {
+        "val": 0.23804572353688183,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 7333.179079700839
+      },
+      "quantile3_ratio": {
+        "val": 0.20219462963657125,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 7333.179079700839
+      },
+      "quantile4_ratio": {
+        "val": 0.17358249649452617,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 7333.179079700839
+      },
+      "quantile5_ratio": {
+        "val": 0.13969305373430452,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 7333.179079700839
+      }
+    }
+  },
+  "PL622": {
+    "ADM0": "PL",
+    "ADM1": "Warmińsko-mazurskie",
+    "ADM2": "Olsztyński",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 59187.42306664078,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 49477.34258644402,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 44146.68939563201,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 41990.64981557042,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 35076.59211154059,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.25747241412658806,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 10330.452531197621
+      },
+      "quantile2_ratio": {
+        "val": 0.21523239533433872,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 10330.452531197621
+      },
+      "quantile3_ratio": {
+        "val": 0.19204341235792774,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 10330.452531197621
+      },
+      "quantile4_ratio": {
+        "val": 0.1826643806841563,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 10330.452531197621
+      },
+      "quantile5_ratio": {
+        "val": 0.1525873974969893,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 10330.452531197621
+      }
+    }
+  },
+  "PL623": {
+    "ADM0": "PL",
+    "ADM1": "Warmińsko-mazurskie",
+    "ADM2": "Ełcki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 30719.878401420374,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 22617.662690303474,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 19299.365131865878,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 16571.339873387456,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 11446.55558997335,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.3052003271236198,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6348.486501199239
+      },
+      "quantile2_ratio": {
+        "val": 0.22470525311497147,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6348.486501199239
+      },
+      "quantile3_ratio": {
+        "val": 0.1917381466995425,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6348.486501199239
+      },
+      "quantile4_ratio": {
+        "val": 0.16463536359573258,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6348.486501199239
+      },
+      "quantile5_ratio": {
+        "val": 0.11372090946613378,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6348.486501199239
+      }
+    }
+  },
+  "PL633": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Trójmiejski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 55883.69870885754,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 59214.01851641599,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 63648.50543289066,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 83502.56669082496,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 83183.78699887109,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.16177888981895297,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 415.61905883938846
+      },
+      "quantile2_ratio": {
+        "val": 0.17141990237998234,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 415.61905883938846
+      },
+      "quantile3_ratio": {
+        "val": 0.18425739143025946,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 415.61905883938846
+      },
+      "quantile4_ratio": {
+        "val": 0.2417333291887779,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 415.61905883938846
+      },
+      "quantile5_ratio": {
+        "val": 0.24081048718202738,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 415.61905883938846
+      }
+    }
+  },
+  "PL634": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Gdański",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 43614.52493558949,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 40656.67616585288,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 42144.033271324945,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 42044.795282980245,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 42636.169848896985,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.20660971177091172,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4305.060796059544
+      },
+      "quantile2_ratio": {
+        "val": 0.19259785946529248,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4305.060796059544
+      },
+      "quantile3_ratio": {
+        "val": 0.19964373290575366,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4305.060796059544
+      },
+      "quantile4_ratio": {
+        "val": 0.19917362501855546,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4305.060796059544
+      },
+      "quantile5_ratio": {
+        "val": 0.20197507083948663,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4305.060796059544
+      }
+    }
+  },
+  "PL636": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Słupski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 29765.876500778693,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 28114.068428202758,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 24060.84425705541,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 21133.725850329258,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 17743.98732123603,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.24636852733596037,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5245.897493187595
+      },
+      "quantile2_ratio": {
+        "val": 0.23269671349666227,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5245.897493187595
+      },
+      "quantile3_ratio": {
+        "val": 0.19914867166486985,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5245.897493187595
+      },
+      "quantile4_ratio": {
+        "val": 0.17492126982154635,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5245.897493187595
+      },
+      "quantile5_ratio": {
+        "val": 0.1468648176809613,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5245.897493187595
+      }
+    }
+  },
+  "PL637": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Chojnicki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 14951.472369181916,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 16119.881749402053,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 15867.878070272578,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 12609.821734757854,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 11255.422877517452,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.21116563591276913,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4105.618585521549
+      },
+      "quantile2_ratio": {
+        "val": 0.22766754981719414,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4105.618585521549
+      },
+      "quantile3_ratio": {
+        "val": 0.22410840086906653,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4105.618585521549
+      },
+      "quantile4_ratio": {
+        "val": 0.17809356561132414,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4105.618585521549
+      },
+      "quantile5_ratio": {
+        "val": 0.1589648477896461,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4105.618585521549
+      }
+    }
+  },
+  "PL638": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Starogardzki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 33731.65497699353,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 33799.31591482648,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 30030.29141045981,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 25258.30335849181,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 20258.559386130262,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.23575689830948016,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4101.459742344686
+      },
+      "quantile2_ratio": {
+        "val": 0.23622979336461714,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4101.459742344686
+      },
+      "quantile3_ratio": {
+        "val": 0.20988737027841048,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4101.459742344686
+      },
+      "quantile4_ratio": {
+        "val": 0.17653504580250814,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4101.459742344686
+      },
+      "quantile5_ratio": {
+        "val": 0.14159089224498422,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4101.459742344686
+      }
+    }
+  },
+  "PL711": {
+    "ADM0": "PL",
+    "ADM1": "Łódzkie",
+    "ADM2": "Miasto Łódź",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 71291.36283195848,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 60721.273650892465,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 62648.33206333979,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 69178.51976290595,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 57594.2538027258,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.22179178316368908,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 293.4568293659764
+      },
+      "quantile2_ratio": {
+        "val": 0.18890759026091403,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 293.4568293659764
+      },
+      "quantile3_ratio": {
+        "val": 0.19490278665749186,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 293.4568293659764
+      },
+      "quantile4_ratio": {
+        "val": 0.21521859935550786,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 293.4568293659764
+      },
+      "quantile5_ratio": {
+        "val": 0.17917924056239726,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 293.4568293659764
+      }
+    }
+  },
+  "PL712": {
+    "ADM0": "PL",
+    "ADM1": "Łódzkie",
+    "ADM2": "Łódzki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 35810.67355094442,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 29724.89909243759,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 29082.665038348503,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 29157.544535990317,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 27323.869830896558,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.23700037071840566,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 2206.588270605802
+      },
+      "quantile2_ratio": {
+        "val": 0.1967238090189208,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 2206.588270605802
+      },
+      "quantile3_ratio": {
+        "val": 0.19247340840328972,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 2206.588270605802
+      },
+      "quantile4_ratio": {
+        "val": 0.1929689720702247,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 2206.588270605802
+      },
+      "quantile5_ratio": {
+        "val": 0.18083343978915922,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 2206.588270605802
+      }
+    }
+  },
+  "PL713": {
+    "ADM0": "PL",
+    "ADM1": "Łódzkie",
+    "ADM2": "Piotrkowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 46082.127185828715,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 41948.97739019443,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 41612.801603824235,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 39305.0503896651,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 34496.22341675993,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.22650881770184053,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5970.336072976605
+      },
+      "quantile2_ratio": {
+        "val": 0.20619302650977014,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5970.336072976605
+      },
+      "quantile3_ratio": {
+        "val": 0.2045406119065199,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5970.336072976605
+      },
+      "quantile4_ratio": {
+        "val": 0.1931972553604722,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5970.336072976605
+      },
+      "quantile5_ratio": {
+        "val": 0.16956028852139718,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5970.336072976605
+      }
+    }
+  },
+  "PL714": {
+    "ADM0": "PL",
+    "ADM1": "Łódzkie",
+    "ADM2": "Sieradzki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 33763.95978359417,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 31717.891557190374,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 31370.460771523904,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 27227.881319845976,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 23567.014526235333,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2286799747212937,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5667.625810127221
+      },
+      "quantile2_ratio": {
+        "val": 0.21482215610964464,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5667.625810127221
+      },
+      "quantile3_ratio": {
+        "val": 0.212469041611439,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5667.625810127221
+      },
+      "quantile4_ratio": {
+        "val": 0.18441175892414702,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5667.625810127221
+      },
+      "quantile5_ratio": {
+        "val": 0.15961706863347552,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5667.625810127221
+      }
+    }
+  },
+  "PL715": {
+    "ADM0": "PL",
+    "ADM1": "Łódzkie",
+    "ADM2": "Skierniewicki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 28261.30625339305,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 25564.618794051486,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 26820.965147348747,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 23256.76183851342,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 20270.88624304699,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2275934071967054,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4080.4231161227262
+      },
+      "quantile2_ratio": {
+        "val": 0.20587649568832503,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4080.4231161227262
+      },
+      "quantile3_ratio": {
+        "val": 0.21599407994300718,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4080.4231161227262
+      },
+      "quantile4_ratio": {
+        "val": 0.18729090650415695,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4080.4231161227262
+      },
+      "quantile5_ratio": {
+        "val": 0.16324511066780534,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4080.4231161227262
+      }
+    }
+  },
+  "PL721": {
+    "ADM0": "PL",
+    "ADM1": "Świętokrzyskie",
+    "ADM2": "Kielecki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 61610.26322311323,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 56497.31369745346,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 52973.810091655716,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 48045.98815194889,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 45348.54004465643,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.23295226400659713,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5030.320191949877
+      },
+      "quantile2_ratio": {
+        "val": 0.2136198816169847,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5030.320191949877
+      },
+      "quantile3_ratio": {
+        "val": 0.20029729380018627,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5030.320191949877
+      },
+      "quantile4_ratio": {
+        "val": 0.18166489040793082,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5030.320191949877
+      },
+      "quantile5_ratio": {
+        "val": 0.17146567016830114,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5030.320191949877
+      }
+    }
+  },
+  "PL722": {
+    "ADM0": "PL",
+    "ADM1": "Świętokrzyskie",
+    "ADM2": "Sandomiersko-jędrzejowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 36727.789599536525,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 37642.399408569734,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 31273.897744525617,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 24458.071529038803,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 21022.351336653093,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.24303000017862955,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6678.446311010698
+      },
+      "quantile2_ratio": {
+        "val": 0.24908202847862618,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6678.446311010698
+      },
+      "quantile3_ratio": {
+        "val": 0.20694126865000378,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6678.446311010698
+      },
+      "quantile4_ratio": {
+        "val": 0.16184053526995382,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6678.446311010698
+      },
+      "quantile5_ratio": {
+        "val": 0.13910616742278675,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6678.446311010698
+      }
+    }
+  },
+  "PL811": {
+    "ADM0": "PL",
+    "ADM1": "Lubelskie",
+    "ADM2": "Bialski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 26393.993371787918,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 23802.079759013057,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 20132.074859998032,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 16715.15396251156,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 12964.582454365836,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.26391912525810785,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5978.14212197377
+      },
+      "quantile2_ratio": {
+        "val": 0.23800203253960706,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5978.14212197377
+      },
+      "quantile3_ratio": {
+        "val": 0.20130487690281285,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5978.14212197377
+      },
+      "quantile4_ratio": {
+        "val": 0.16713836175529115,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5978.14212197377
+      },
+      "quantile5_ratio": {
+        "val": 0.1296356035441812,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5978.14212197377
+      }
+    }
+  },
+  "PL812": {
+    "ADM0": "PL",
+    "ADM1": "Lubelskie",
+    "ADM2": "Chełmsko-zamojski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 55803.447547094125,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 49469.469002698446,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 41710.31362104991,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 33057.631897487714,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 25694.409796347547,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.27123908818026504,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 9292.389616445564
+      },
+      "quantile2_ratio": {
+        "val": 0.24045205547076517,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 9292.389616445564
+      },
+      "quantile3_ratio": {
+        "val": 0.20273778649139385,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 9292.389616445564
+      },
+      "quantile4_ratio": {
+        "val": 0.16068042974775543,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 9292.389616445564
+      },
+      "quantile5_ratio": {
+        "val": 0.1248906401098205,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 9292.389616445564
+      }
+    }
+  },
+  "PL814": {
+    "ADM0": "PL",
+    "ADM1": "Lubelskie",
+    "ADM2": "Lubelski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 56978.67251398409,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 53539.09394619698,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 54643.23699024269,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 55216.084044720265,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 51050.001596730704,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.20992257148916152,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4221.645066472419
+      },
+      "quantile2_ratio": {
+        "val": 0.19725037071769447,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4221.645066472419
+      },
+      "quantile3_ratio": {
+        "val": 0.20131828835900242,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4221.645066472419
+      },
+      "quantile4_ratio": {
+        "val": 0.20342878903302938,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4221.645066472419
+      },
+      "quantile5_ratio": {
+        "val": 0.18807998040111207,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4221.645066472419
+      }
+    }
+  },
+  "PL815": {
+    "ADM0": "PL",
+    "ADM1": "Lubelskie",
+    "ADM2": "Puławski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 37297.677429346426,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 34631.30567485125,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 32065.902569720107,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 26078.764940219866,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 21474.24999543137,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.24611147550922507,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5631.781934544819
+      },
+      "quantile2_ratio": {
+        "val": 0.22851722482168493,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5631.781934544819
+      },
+      "quantile3_ratio": {
+        "val": 0.2115892232141908,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5631.781934544819
+      },
+      "quantile4_ratio": {
+        "val": 0.1720826539683071,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5631.781934544819
+      },
+      "quantile5_ratio": {
+        "val": 0.14169942248659195,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5631.781934544819
+      }
+    }
+  },
+  "PL821": {
+    "ADM0": "PL",
+    "ADM1": "Podkarpackie",
+    "ADM2": "Krośnieński",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 33438.90689000679,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 36953.49709534712,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 30816.341380355243,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 25262.35816764712,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 21568.621858243205,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.22587793108608592,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5538.1807014143915
+      },
+      "quantile2_ratio": {
+        "val": 0.249618789805213,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5538.1807014143915
+      },
+      "quantile3_ratio": {
+        "val": 0.20816264890277836,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5538.1807014143915
+      },
+      "quantile4_ratio": {
+        "val": 0.17064580537975407,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5538.1807014143915
+      },
+      "quantile5_ratio": {
+        "val": 0.14569482482616872,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5538.1807014143915
+      }
+    }
+  },
+  "PL822": {
+    "ADM0": "PL",
+    "ADM1": "Podkarpackie",
+    "ADM2": "Przemyski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 30042.731909883252,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 29227.964261091664,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 25629.68062597322,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 20163.11329539057,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 16227.209678940402,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.24769196621452083,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4291.9231501789845
+      },
+      "quantile2_ratio": {
+        "val": 0.2409744878725868,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4291.9231501789845
+      },
+      "quantile3_ratio": {
+        "val": 0.21130787994713318,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4291.9231501789845
+      },
+      "quantile4_ratio": {
+        "val": 0.1662379171149367,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4291.9231501789845
+      },
+      "quantile5_ratio": {
+        "val": 0.13378774885082248,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4291.9231501789845
+      }
+    }
+  },
+  "PL823": {
+    "ADM0": "PL",
+    "ADM1": "Podkarpackie",
+    "ADM2": "Rzeszowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 42520.50229082673,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 44604.38251636448,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 46022.21790293163,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 44029.9617979812,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 41430.578034215825,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.19450601907751355,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 3551.31040264977
+      },
+      "quantile2_ratio": {
+        "val": 0.20403853221979465,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 3551.31040264977
+      },
+      "quantile3_ratio": {
+        "val": 0.21052428619471653,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 3551.31040264977
+      },
+      "quantile4_ratio": {
+        "val": 0.20141089893258204,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 3551.31040264977
+      },
+      "quantile5_ratio": {
+        "val": 0.18952026357539334,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 3551.31040264977
+      }
+    }
+  },
+  "PL824": {
+    "ADM0": "PL",
+    "ADM1": "Podkarpackie",
+    "ADM2": "Tarnobrzeski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 42943.828738631,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 44959.00463575892,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 42129.64238596099,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 35374.50218400496,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 30185.360391915365,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.21955782677335764,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 4465.265878941761
+      },
+      "quantile2_ratio": {
+        "val": 0.22986076560147956,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 4465.265878941761
+      },
+      "quantile3_ratio": {
+        "val": 0.21539515680583457,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 4465.265878941761
+      },
+      "quantile4_ratio": {
+        "val": 0.1808583223908674,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 4465.265878941761
+      },
+      "quantile5_ratio": {
+        "val": 0.15432792842846085,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 4465.265878941761
+      }
+    }
+  },
+  "PL841": {
+    "ADM0": "PL",
+    "ADM1": "Podlaskie",
+    "ADM2": "Białostocki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 47749.19599190439,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 41528.04479202375,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 41563.534363664265,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 39975.66109122398,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 33525.89104253788,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2336725661647164,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5132.290399826153
+      },
+      "quantile2_ratio": {
+        "val": 0.20322781552176775,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5132.290399826153
+      },
+      "quantile3_ratio": {
+        "val": 0.20340149256710965,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5132.290399826153
+      },
+      "quantile4_ratio": {
+        "val": 0.1956308397925918,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5132.290399826153
+      },
+      "quantile5_ratio": {
+        "val": 0.1640672859538144,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5132.290399826153
+      }
+    }
+  },
+  "PL842": {
+    "ADM0": "PL",
+    "ADM1": "Podlaskie",
+    "ADM2": "Łomżyński",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 36386.95702151133,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 28273.389514558745,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 25799.828257404504,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 21748.118441147933,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 18034.011696758636,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2793789394366292,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 8817.827123735904
+      },
+      "quantile2_ratio": {
+        "val": 0.21708299411204932,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 8817.827123735904
+      },
+      "quantile3_ratio": {
+        "val": 0.19809099870427876,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 8817.827123735904
+      },
+      "quantile4_ratio": {
+        "val": 0.16698198371570624,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 8817.827123735904
+      },
+      "quantile5_ratio": {
+        "val": 0.13846508403133645,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 8817.827123735904
+      }
+    }
+  },
+  "PL843": {
+    "ADM0": "PL",
+    "ADM1": "Podlaskie",
+    "ADM2": "Suwalski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 24085.953896806284,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 18865.311012458034,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 17815.93099500727,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 15893.017204569343,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 12321.123512929738,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.27068545844829756,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6234.700170406117
+      },
+      "quantile2_ratio": {
+        "val": 0.21201424623062293,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6234.700170406117
+      },
+      "quantile3_ratio": {
+        "val": 0.2002209864607532,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6234.700170406117
+      },
+      "quantile4_ratio": {
+        "val": 0.1786106818346092,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6234.700170406117
+      },
+      "quantile5_ratio": {
+        "val": 0.13846862702571702,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6234.700170406117
+      }
+    }
+  },
+  "PL911": {
+    "ADM0": "PL",
+    "ADM1": "Warszawski stołeczny",
+    "ADM2": "Miasto Warszawa",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 96622.77409835573,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 83414.92452586406,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 130236.05337049915,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 243160.92206922942,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 360150.07348729885,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.10576224521845545,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 517.6885202343306
+      },
+      "quantile2_ratio": {
+        "val": 0.09130507569160673,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 517.6885202343306
+      },
+      "quantile3_ratio": {
+        "val": 0.1425549777615936,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 517.6885202343306
+      },
+      "quantile4_ratio": {
+        "val": 0.2661613197035006,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 517.6885202343306
+      },
+      "quantile5_ratio": {
+        "val": 0.39421638162484357,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 517.6885202343306
+      }
+    }
+  },
+  "PL912": {
+    "ADM0": "PL",
+    "ADM1": "Warszawski stołeczny",
+    "ADM2": "Warszawski wschodni",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 43103.20780846349,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 39787.37037891707,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 47291.91577650679,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 55667.64494077832,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 61751.70578812472,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.1740827410310427,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 3122.88282104251
+      },
+      "quantile2_ratio": {
+        "val": 0.1606909287298843,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 3122.88282104251
+      },
+      "quantile3_ratio": {
+        "val": 0.19099985234433037,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 3122.88282104251
+      },
+      "quantile4_ratio": {
+        "val": 0.22482726253452356,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 3122.88282104251
+      },
+      "quantile5_ratio": {
+        "val": 0.24939921536021892,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 3122.88282104251
+      }
+    }
+  },
+  "PL913": {
+    "ADM0": "PL",
+    "ADM1": "Warszawski stołeczny",
+    "ADM2": "Warszawski zachodni",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 43298.356774986,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 36580.65369177965,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 45687.98130091022,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 60203.72640436305,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 86210.73000491131,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.1591959932017725,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 2463.073366590654
+      },
+      "quantile2_ratio": {
+        "val": 0.13449687078649716,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 2463.073366590654
+      },
+      "quantile3_ratio": {
+        "val": 0.16798197673830229,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 2463.073366590654
+      },
+      "quantile4_ratio": {
+        "val": 0.22135232681456535,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 2463.073366590654
+      },
+      "quantile5_ratio": {
+        "val": 0.31697283245886276,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 2463.073366590654
+      }
+    }
+  },
+  "PL921": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Radomski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 43509.42789708494,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 40964.67686149742,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 42045.02357412494,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 38626.23516738611,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 38239.898293364546,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.21392615921830996,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5763.4921673741665
+      },
+      "quantile2_ratio": {
+        "val": 0.20141418557209873,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5763.4921673741665
+      },
+      "quantile3_ratio": {
+        "val": 0.20672600956121664,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5763.4921673741665
+      },
+      "quantile4_ratio": {
+        "val": 0.1899165889739438,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5763.4921673741665
+      },
+      "quantile5_ratio": {
+        "val": 0.18801705667443086,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5763.4921673741665
+      }
+    }
+  },
+  "PL922": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Ciechanowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 23140.9819588988,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 21083.34026216565,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 24123.865816966765,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 22153.934703986066,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 20118.136631764624,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.2091929822791886,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 5255.312839417529
+      },
+      "quantile2_ratio": {
+        "val": 0.1905920342396396,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 5255.312839417529
+      },
+      "quantile3_ratio": {
+        "val": 0.21807818887364103,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 5255.312839417529
+      },
+      "quantile4_ratio": {
+        "val": 0.20027013884616485,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 5255.312839417529
+      },
+      "quantile5_ratio": {
+        "val": 0.18186665576136612,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 5255.312839417529
+      }
+    }
+  },
+  "PL923": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Płocki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 21540.440662449117,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 19730.47895962505,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 24100.485260949972,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 23669.810032865367,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 24772.834924804658,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.18925994367654372,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 3351.2779515778493
+      },
+      "quantile2_ratio": {
+        "val": 0.17335714691852064,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 3351.2779515778493
+      },
+      "quantile3_ratio": {
+        "val": 0.21175316487449033,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 3351.2779515778493
+      },
+      "quantile4_ratio": {
+        "val": 0.2079691397151412,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 3351.2779515778493
+      },
+      "quantile5_ratio": {
+        "val": 0.2176606048153041,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 3351.2779515778493
+      }
+    }
+  },
+  "PL924": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Ostrołęcki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 24695.522647627364,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 21234.42413702771,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 25998.17754906241,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 24214.622960154076,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 24136.61095358421,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.20531804465418105,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6505.86840426671
+      },
+      "quantile2_ratio": {
+        "val": 0.17654254600644972,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6505.86840426671
+      },
+      "quantile3_ratio": {
+        "val": 0.21614828951427614,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6505.86840426671
+      },
+      "quantile4_ratio": {
+        "val": 0.20131985498572677,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6505.86840426671
+      },
+      "quantile5_ratio": {
+        "val": 0.20067126483936626,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6505.86840426671
+      }
+    }
+  },
+  "PL925": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Siedlecki",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 25702.786081724378,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 24053.706536410205,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 29564.317245591705,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 28145.38870781808,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 28745.0890049555,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.18869791585582812,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 6044.102510598406
+      },
+      "quantile2_ratio": {
+        "val": 0.1765911398708496,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 6044.102510598406
+      },
+      "quantile3_ratio": {
+        "val": 0.21704748388776227,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 6044.102510598406
+      },
+      "quantile4_ratio": {
+        "val": 0.2066303696895229,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 6044.102510598406
+      },
+      "quantile5_ratio": {
+        "val": 0.21103309069603718,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 6044.102510598406
+      }
+    }
+  },
+  "PL926": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Żyrardowski",
+    "income_quantile": {
+      "quantile1_num": {
+        "val": 18167.655077990115,
+        "desc": "Number of household whose income belongs to quantile 1",
+        "type": "default",
+        "weight": null
+      },
+      "quantile2_num": {
+        "val": 16880.19731983996,
+        "desc": "Number of household whose income belongs to quantile 2",
+        "type": "default",
+        "weight": null
+      },
+      "quantile3_num": {
+        "val": 19779.67885404552,
+        "desc": "Number of household whose income belongs to quantile 3",
+        "type": "default",
+        "weight": null
+      },
+      "quantile4_num": {
+        "val": 19278.427873273646,
+        "desc": "Number of household whose income belongs to quantile 4",
+        "type": "default",
+        "weight": null
+      },
+      "quantile5_num": {
+        "val": 18589.49228134403,
+        "desc": "Number of household whose income belongs to quantile 5",
+        "type": "default",
+        "weight": null
+      },
+      "quantile1_ratio": {
+        "val": 0.19599295113543705,
+        "desc": "Ratio of household whose income belongs to quantile 1",
+        "type": "ratio",
+        "weight": 2535.754901739253
+      },
+      "quantile2_ratio": {
+        "val": 0.18210383642036518,
+        "desc": "Ratio of household whose income belongs to quantile 2",
+        "type": "ratio",
+        "weight": 2535.754901739253
+      },
+      "quantile3_ratio": {
+        "val": 0.21338348919955702,
+        "desc": "Ratio of household whose income belongs to quantile 3",
+        "type": "ratio",
+        "weight": 2535.754901739253
+      },
+      "quantile4_ratio": {
+        "val": 0.20797598566873368,
+        "desc": "Ratio of household whose income belongs to quantile 4",
+        "type": "ratio",
+        "weight": 2535.754901739253
+      },
+      "quantile5_ratio": {
+        "val": 0.20054373757590704,
+        "desc": "Ratio of household whose income belongs to quantile 5",
+        "type": "ratio",
+        "weight": 2535.754901739253
+      }
+    }
+  }
+}

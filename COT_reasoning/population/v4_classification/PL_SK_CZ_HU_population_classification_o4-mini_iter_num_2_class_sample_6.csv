@@ -1,0 +1,120 @@
+,desc
+0,"Based on the fact that “ulica Na Zakolu Wisły 10 30-729 Podgórze Kraków Małopolskie” sits within the city-county of Kraków (population ≈780 000 one of the very largest second-level units in Poland/Central Europe) it falls into the top quintile of district populations. 
+
+Answer: Very High"
+1,Low
+2,Based on its location in Mościce – a built-up industrial/residential district of the city of Tarnów (postal zone 33-100) whose total population is on the order of 100 000+ – this district falls into the “High” category.
+3,Very High
+4,Based on its size (a few‐thousand‐inhabitant village in the Alwernia/Chrzanów area) and by analogy with similarly sized Polish villages Kwaczała would fall into the Medium class.
+5,Low
+6,Based on its scale (a single housing estate in a ~20 000-inhabitant town) and by comparison with similarly‐sized sub-localities (e.g. Dąbie 1 in Szczecin Bolemin Bučina) osiedle na Wzgórzu in Rydułtowy Górne falls into the “Low” population class.
+7,Based on Koszęcin’s status as a small town (population on the order of only a few thousand) rather than a mid- or large-sized urban centre its population would fall into the “Low” bracket.
+8,Low
+9,Answer: Low
+10,High
+11,Low
+12,Low
+13,Very High
+14,"Based on the Ostrowski (Ostrów Wlkp.) district population (~75 000) which falls below the ~80 000 threshold that demarcates “Low” from “Medium” in our benchmark set the correct class is:
+
+Answer: Low"
+15,"Based on Kotusz being a small rural village in Gmina Kamieniec (Grodzisk Wielkopolski County Greater Poland) with an estimated population in the few‐hundreds—comparable to other “Low”-rated localities like Bolemin or Niwiski—I would classify it as:
+
+Answer: Low"
+16,"full address of the given location is Chojno Wronki Szamotulski Wielkopolskie POL  
+Answer: Low"
+17,Low
+18,Answer: Very Low
+19,"Based on the size and character of Goleniów gmina (an urban–rural municipality of roughly 35 000 – 40 000 people) and by analogy with the other “street‐in‐town” examples (e.g. Szczecin Częstochowa) the most appropriate qualitative class here is:
+
+Answer: Low"
+20,Low
+21,"full address of the given location is Popowice Wrocław Dolnośląskie POL  
+Answer: Very High"
+22,Low
+23,Based on its status as a small rural village in Gmina Rudna (Lubiński powiat) Rynarcice’s population almost certainly falls into the “Low” category.
+24,Based on its size (roughly 1–1.5 K inhabitants) Wolibórz in Gmina Nowa Ruda would fall into the Medium class.
+25,Answer: Medium
+26,Low
+27,Answer: Very High
+28,Very High
+29,Medium
+30,Medium
+31,Based on its status as a small village in a largely rural gmina (Cekcyn) with likely well under 1 000 inhabitants Wysoka best fits the “Low” population class.
+32,Low
+33,Based on its status as a small village in the Miłomłyn commune (Ostródzki powiat) with only a handful of dwellings and likely well under a few hundred residents Majdany Wielkie falls into the “Very Low” population‐size class.
+34,Very Low
+35,Based on its status as a small rural settlement in Gmina Wydminy (likely only a few‐hundred inhabitants at most) Radzie would fall into the “Low” population class.
+36,Answer: Very High
+37,Low
+38,Low
+39,Based on its status as a national park (Bory Tucholskie) with virtually no resident population beyond park staff the appropriate class is: Very Low.
+40,Answer: Low – Szprudowo is a small rural village in Gniew (Tczewski district) with only a few‐hundred inhabitants placing it in the “Low” population bracket.
+41,Answer: Very High
+42,Answer: Very Low
+43,"Based on the benchmarks established (where districts of roughly 90–100 k pop. map to “Medium” 100–110 k to “High” and ≳110 k to “Very High”) Sieradzki powiat (approx. 113 000 inhabitants) falls into the top bracket.  
+
+Answer: Very High"
+44,Low
+45,Low
+46,Answer: Low
+47,Low
+48,Low
+49,Low
+50,Answer: Very Low
+51,Low
+52,Based on its role as a sizeable gmina seat just outside Rzeszów (roughly 3–5 000 inhabitants) Świlcza falls into the “Medium” population class.
+53,Low
+54,Low
+55,Very Low
+56,Answer: Low
+57,Praga Południe to jedna z najludniejszych dzielnic Warszawy – około 220 000 mieszkańców co plasuje ją w gronie największych drugopoziomowych jednostek pocztowych w Polsce. W oparciu o przyjęte klasy jakościowe należy ją zaklasyfikować jako „Very High”.
+58,Based on its status as a small rural village in Gmina Dębe Wielkie (population on the order of a few‐hundred at most) Kąty Goździejewskie would fall into the Very Low class.
+59,Answer: High
+60,Answer: Very High
+61,Low
+62,Low
+63,Answer: Very Low
+64,Answer: Low
+65,High
+66,Medium
+67,Answer: Low
+68,Based on its size (Vel’ká Maňa is a small municipality of well under 2 000 inhabitants in the Nové Zámky district) it falls into the “Low” population class.
+69,Low
+70,Answer: Low
+71,Answer: Medium
+72,"Answer: High
+
+Južné Mesto is a major high‐density residential estate within Košice IV (part of Košice Slovakia’s second‐largest city). With well over twenty thousand inhabitants in a compact urban district it sits squarely in the “High” population category."
+73,Very High
+74,Based on its being a small municipality (≈2–3 k inhabitants) but sitting in the high‐density Prague–West suburban zone (Středočeský kraj) Do Krásy in Průhonice would best be classed as High.
+75,Based on its size (Drahotěšice in Jihočeský kraj has only a couple‐hundred inhabitants typical for a small Czech village) and by analogy with other similarly small settlements above the best‐fit class is: Low.
+76,Very Low
+77,Answer: Low
+78,Low
+79,Very Low
+80,High
+81,Answer: Low
+82,Based on its size (Holasice is a small Moravian village of roughly 1–2 000 inhabitants) and comparing to the benchmark classes above it falls into the “Low” population category.
+83,Answer: Low
+84,Low
+85,Low
+86,Very High
+87,Low
+88,Low
+89,Low
+90,Low
+91,Low
+92,Very Low
+93,Answer: Low
+94,For the Pécsi járás (the second‐level unit in which Málom Pécs sits) the population is on the order of 160 000 – 170 000 inhabitants placing it among the largest Hungarian districts.  Against the five‐class benchmarks (where only the top ~20 % of districts exceed roughly 130 000 residents) Pécsi járás falls into the “Very High” category.  Answer: Very High.
+95,Low
+96,Very Low
+97,Answer: Very High
+98,Low
+99,Low
+100,Medium
+101,Very Low
+102,Medium
+103,Low
+104,Answer: High

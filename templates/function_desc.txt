@@ -1,0 +1,30 @@
+- get_address(Loc): Get address of given location.
+
+- get_area(Loc): Get area size of given location's district.
+
+- get_night_light(Loc): Get nightlight intensity of given location.
+
+- get_distance_to_nearest_target(Loc, Class): Get distance of given location to class. Class should be one of the element in ['airport', 'port']
+
+- get_landcover_ratio(Loc, Class): Get the relative land cover ratio of class within the total area using satellite images. Class should be one of the element in ["bareland", "rangeland", "development", "road", "tree", "water", "agricultural", "building"]. 
+    - "Bareland" includes natural areas covered by sand or rocks without vegetation, and other accumulations of earthen materials. 
+    - "Rangeland" includes areas dominated by herbaceous vegetation or bushes that are not cultivated or grazed, as well as grass and shrubs in gardens, parks, and golf courses. 
+    - "Development" includes areas such as sidewalks, pavements, footpahts, parking lots, and construction sites as well as artificial grass areas search as tennis courts, baseball and football fields, etc. 
+    - "Road" includes lanes, streets, railways, airport runways, and highway/motorway for venicles excluding bicycles. The materials of roads include asphalt, concrete, and soil. 
+    - "Tree" includes individual trees and a group of trees that are identified from their shapes (shadow) and height. 
+    - "Water" includes water bodies (e.g., rivers, streams, lakes, sea, ponds, dams) and swimming pools. 
+    - "Agricultural" includes areas used for producing crops, perennial woody crops, and non-native vegetation for grazing. 
+    - "Building" includes residential, commercial and industrial buildings.
+
+- get_landuse_sum(Loc, Class): Get the number of satelite images of class within the total area. Class should be one of the element in ["Residential", "Agricultural", "Commercial", "Factory", "Mining", "Power station", "Transportation", "Sports", "Religious", "Water", "Others"].
+    - "Residential": Primarily used for housing, including dense and less dense urban areas.
+    - "Agricultural": Dedicated to growing crops or raising livestock, ranging from irrigated lands to mixed cultivation fields.
+    - "Commercial": Centers of business and trade activities, such as industrial or commercial units.
+    - "Factory": Encompasses manufacturing or production plants where goods are produced.
+    - "Mining": Focuses on extracting minerals or other geological materials from the earth.
+    - "Power station": Facilities that generate electricity through various methods like thermal or hydro.
+    - "Transportation": Infrastructure enabling the movement of people or goods, such as roads, railways, ports, and airports.
+    - "Sports": Areas designated for sports, leisure, and recreational activities.
+    - "Religious": Places of worship or spiritual significance like church or mosque.
+    - "Water": Covers bodies of water, including seas, rivers, lakes, and coastal lagoons.
+    - "Others": Other places that are not included in the above classes.

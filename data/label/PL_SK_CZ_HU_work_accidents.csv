@@ -1,0 +1,116 @@
+area_id,area_name,work_accidents
+PL922,Ciechanowski,428
+PL22C,Tyski,1363
+PL228,Bytomski,850
+PL229,Gliwicki,1459
+PL22A,Katowicki,2786
+PL22B,Sosnowiecki,1664
+PL224,Częstochowski,805
+PL225,Bielski,1542
+PL227,Rybnicki,1681
+PL822,Przemyski,512
+PL622,Olsztyński,1252
+PL722,Sandomiersko-jędrzejowski,459
+PL616,Grudziądzki,863
+PL617,Inowrocławski,605
+PL618,Świecki,370
+PL613,Bydgosko-toruński,2190
+PL619,Włocławski,473
+PL414,Koniński,1327
+PL411,Pilski,1069
+PL415,Miasto Poznań,2221
+PL418,Poznański,2165
+PL416,Kaliski,1643
+PL841,Białostocki,1109
+PL417,Leszczyński,1615
+PL623,Ełcki,512
+PL621,Elbląski,1098
+PL424,Miasto Szczecin,986
+PL427,Szczecinecko-pyrzycki,675
+PL428,Szczeciński,1027
+PL426,Koszaliński,938
+PL842,Łomżyński,720
+PL515,Jeleniogórski,1049
+PL516,Legnicko-głogowski,1643
+PL518,Wrocławski,1755
+PL517,Wałbrzyski,1330
+PL514,Miasto Wrocław,2382
+PL524,Opolski,1495
+PL523,Nyski,591
+PL714,Sieradzki,648
+PL713,Piotrkowski,1057
+PL712,Łódzki,734
+PL711,Miasto Łódź,1993
+PL715,Skierniewicki,658
+PL637,Chojnicki,578
+PL638,Starogardzki,689
+PL633,Trójmiejski,2046
+PL634,Gdański,948
+PL636,Słupski,887
+PL843,Suwalski,424
+PL431,Gorzowski,700
+PL432,Zielonogórski,1454
+PL923,Płocki,499
+PL925,Siedlecki,653
+PL924,Ostrołęcki,493
+PL926,Żyrardowski,355
+PL921,Radomski,729
+PL721,Kielecki,1709
+PL823,Rzeszowski,1169
+PL821,Krośnieński,775
+PL824,Tarnobrzeski,875
+PL811,Bialski,392
+PL814,Lubelski,1728
+PL812,Chełmsko-zamojski,603
+PL815,Puławski,639
+PL217,Tarnowski,568
+PL214,Krakowski,834
+PL218,Nowosądecki,678
+PL219,Nowotarski,295
+PL21A,Oświęcimski,967
+PL213,Miasto Kraków,2144
+PL912,Warszawski wschodni,690
+PL911,Miasto Warszawa,5853
+PL913,Warszawski zachodni,1089
+SK010,Bratislavský,726
+SK021,Trnavský,1213
+SK022,Trenčiansky,1847
+SK023,Nitriansky,1252
+SK031,Žilinský,1420
+SK032,Banskobystrický,1332
+SK041,Prešovský,1359
+SK042,Košický,1013
+CZ010,Hlavní město Praha,6979
+CZ020,Středočeský kraj,4329
+CZ080,Moravskoslezský kraj,4442
+CZ031,Jihočeský kraj,3295
+CZ032,Plzeňský kraj,3008
+CZ041,Karlovarský kraj,1027
+CZ042,Ústecký kraj,3513
+CZ051,Liberecký kraj,1584
+CZ052,Královéhradecký kraj,2473
+CZ053,Pardubický kraj,2281
+CZ063,Kraj Vysočina,2561
+CZ064,Jihomoravský kraj,4336
+CZ071,Olomoucký kraj,2364
+CZ072,Zlínský kraj,2360
+HU110,Budapest,4093
+HU120,Pest,2694
+HU211,Fejér,1435
+HU212,Komárom-Esztergom,1055
+HU213,Veszprém,848
+HU221,Győr-Moson-Sopron,1460
+HU222,Vas,749
+HU223,Zala,481
+HU231,Baranya,964
+HU232,Somogy,715
+HU233,Tolna,535
+HU311,Borsod-Abaúj-Zemplén,1422
+HU312,Heves,837
+HU313,Nógrád,424
+HU321,Hajdú-Bihar,1068
+HU323,Szabolcs-Szatmár-Bereg,1055
+HU322,Jász-Nagykun-Szolnok,944
+HU331,Bács-Kiskun,1424
+HU332,Békés,650
+HU333,Csongrád-Csanád,889

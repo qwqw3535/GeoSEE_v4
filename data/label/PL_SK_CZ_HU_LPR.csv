@@ -1,0 +1,116 @@
+area_id,area_name,LPR
+PL922,Ciechanowski,80.4
+PL22C,Tyski,80.3
+PL228,Bytomski,78.6
+PL229,Gliwicki,80.5
+PL22A,Katowicki,80.1
+PL22B,Sosnowiecki,79.9
+PL224,Częstochowski,79.8
+PL225,Bielski,80.8
+PL227,Rybnicki,75.8
+PL822,Przemyski,76.9
+PL622,Olsztyński,78.9
+PL722,Sandomiersko-jędrzejowski,78.9
+PL616,Grudziądzki,78.0
+PL617,Inowrocławski,78.0
+PL618,Świecki,78.0
+PL613,Bydgosko-toruński,81.4
+PL619,Włocławski,76.9
+PL414,Koniński,78.6
+PL411,Pilski,80.1
+PL415,Miasto Poznań,85.6
+PL418,Poznański,84.5
+PL416,Kaliski,81.2
+PL841,Białostocki,81.7
+PL417,Leszczyński,83.1
+PL623,Ełcki,77.4
+PL621,Elbląski,77.7
+PL424,Miasto Szczecin,83.1
+PL427,Szczecinecko-pyrzycki,76.1
+PL428,Szczeciński,78.5
+PL426,Koszaliński,79.3
+PL842,Łomżyński,80.2
+PL515,Jeleniogórski,78.9
+PL516,Legnicko-głogowski,79.1
+PL518,Wrocławski,83.8
+PL517,Wałbrzyski,79.3
+PL514,Miasto Wrocław,86.5
+PL524,Opolski,82.5
+PL523,Nyski,80.1
+PL714,Sieradzki,81.8
+PL713,Piotrkowski,79.5
+PL712,Łódzki,82.7
+PL711,Miasto Łódź,83.7
+PL715,Skierniewicki,81.8
+PL637,Chojnicki,77.8
+PL638,Starogardzki,78.3
+PL633,Trójmiejski,84.1
+PL634,Gdański,80.3
+PL636,Słupski,78.7
+PL843,Suwalski,79.9
+PL431,Gorzowski,80.1
+PL432,Zielonogórski,78.9
+PL923,Płocki,79.3
+PL925,Siedlecki,82.0
+PL924,Ostrołęcki,79.7
+PL926,Żyrardowski,83.4
+PL921,Radomski,78.5
+PL721,Kielecki,78.5
+PL823,Rzeszowski,80.4
+PL821,Krośnieński,75.8
+PL824,Tarnobrzeski,78.6
+PL811,Bialski,77.3
+PL814,Lubelski,80.6
+PL812,Chełmsko-zamojski,77.5
+PL815,Puławski,79.2
+PL217,Tarnowski,80.1
+PL214,Krakowski,82.9
+PL218,Nowosądecki,78.7
+PL219,Nowotarski,80.1
+PL21A,Oświęcimski,78.9
+PL213,Miasto Kraków,85.2
+PL912,Warszawski wschodni,83.9
+PL911,Miasto Warszawa,87.0
+PL913,Warszawski zachodni,84.6
+SK010,Bratislavský,80.2
+SK021,Trnavský,78.1
+SK022,Trenčiansky,78.4
+SK023,Nitriansky,77.7
+SK031,Žilinský,75.9
+SK032,Banskobystrický,78.3
+SK041,Prešovský,73.6
+SK042,Košický,71.5
+CZ010,Hlavní město Praha,65.4
+CZ020,Středočeský kraj,62.2
+CZ080,Moravskoslezský kraj,59.0
+CZ031,Jihočeský kraj,59.0
+CZ032,Plzeňský kraj,60.8
+CZ041,Karlovarský kraj,62.3
+CZ042,Ústecký kraj,57.3
+CZ051,Liberecký kraj,57.6
+CZ052,Královéhradecký kraj,59.6
+CZ053,Pardubický kraj,60.2
+CZ063,Kraj Vysočina,59.5
+CZ064,Jihomoravský kraj,60.1
+CZ071,Olomoucký kraj,58.8
+CZ072,Zlínský kraj,58.4
+HU110,Budapest,78.4
+HU120,Pest,76.3
+HU211,Fejér,76.9
+HU212,Komárom-Esztergom,74.3
+HU213,Veszprém,74.8
+HU221,Győr-Moson-Sopron,77.9
+HU222,Vas,78.4
+HU223,Zala,76.2
+HU231,Baranya,72.9
+HU232,Somogy,66.8
+HU233,Tolna,71.1
+HU311,Borsod-Abaúj-Zemplén,70.2
+HU312,Heves,73.0
+HU313,Nógrád,73.0
+HU321,Hajdú-Bihar,72.3
+HU323,Szabolcs-Szatmár-Bereg,72.4
+HU322,Jász-Nagykun-Szolnok,74.5
+HU331,Bács-Kiskun,74.8
+HU332,Békés,74.6
+HU333,Csongrád-Csanád,73.9

@@ -1,0 +1,4 @@
+resources/PL_SK_CZ_HU/PL_SK_CZ_HU.dbf
+resources/eurostats_NUTS/NUTS_RG_01M_2021_3035.geojson
+resources/eurostats_NUTS/NUTS_RG_01M_2021_latlon.geojson
+trained_models/OpenEarthMap_9class_RGB_512_v4_fullmodel.h5

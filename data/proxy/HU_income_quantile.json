@@ -1,0 +1,1342 @@
+{
+    "HU110": {
+        "ADM0": "HU",
+        "ADM1": "Budapest",
+        "ADM2": "Budapest",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 101125.02506480031,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 95319.97499524907,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 142127.1522667972,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 195345.57066696117,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 218374.55873578144,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.13442252103438382,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 525.9293936562766
+            },
+            "quantile2_ratio": {
+                "val": 0.12670603874347836,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 525.9293936562766
+            },
+            "quantile3_ratio": {
+                "val": 0.18892544256872315,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 525.9293936562766
+            },
+            "quantile4_ratio": {
+                "val": 0.25966712062742914,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 525.9293936562766
+            },
+            "quantile5_ratio": {
+                "val": 0.2902788770259855,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 525.9293936562766
+            }
+        }
+    },
+    "HU120": {
+        "ADM0": "HU",
+        "ADM1": "Pest",
+        "ADM2": "Pest",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 87907.47931337448,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 93722.21726920258,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 104837.34462349859,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 112921.04322264712,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 130982.17489710664,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.16574737698361233,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 6389.021420642499
+            },
+            "quantile2_ratio": {
+                "val": 0.1767109215142189,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 6389.021420642499
+            },
+            "quantile3_ratio": {
+                "val": 0.19766821909803292,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 6389.021420642499
+            },
+            "quantile4_ratio": {
+                "val": 0.21290983277641673,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 6389.021420642499
+            },
+            "quantile5_ratio": {
+                "val": 0.24696364962771905,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 6389.021420642499
+            }
+        }
+    },
+    "HU211": {
+        "ADM0": "HU",
+        "ADM1": "Közép-Dunántúl",
+        "ADM2": "Fejér",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 30860.54978197356,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 35833.58387170587,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 39381.941461211376,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 35647.79974318348,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 35866.978457537676,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.17377330648402609,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 4358.173270257401
+            },
+            "quantile2_ratio": {
+                "val": 0.2017760667438369,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 4358.173270257401
+            },
+            "quantile3_ratio": {
+                "val": 0.22175658670450973,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 4358.173270257401
+            },
+            "quantile4_ratio": {
+                "val": 0.20072993106143092,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 4358.173270257401
+            },
+            "quantile5_ratio": {
+                "val": 0.2019641090061963,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 4358.173270257401
+            }
+        }
+    },
+    "HU212": {
+        "ADM0": "HU",
+        "ADM1": "Közép-Dunántúl",
+        "ADM2": "Komárom-Esztergom",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 22809.550124781334,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 26030.66691808698,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 31164.140883336837,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 26314.571991558587,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 26166.304390966652,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.17216673423113876,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 2264.5245843453818
+            },
+            "quantile2_ratio": {
+                "val": 0.1964797590758507,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 2264.5245843453818
+            },
+            "quantile3_ratio": {
+                "val": 0.23522727680516475,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 2264.5245843453818
+            },
+            "quantile4_ratio": {
+                "val": 0.19862267768072725,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 2264.5245843453818
+            },
+            "quantile5_ratio": {
+                "val": 0.19750355220711843,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 2264.5245843453818
+            }
+        }
+    },
+    "HU213": {
+        "ADM0": "HU",
+        "ADM1": "Közép-Dunántúl",
+        "ADM2": "Veszprém",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 25142.86450840231,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 30610.880914974587,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 30977.10857962187,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 25774.658353409926,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 24544.266761293366,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.18345789880338978,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 4462.8763248475425
+            },
+            "quantile2_ratio": {
+                "val": 0.22335593031992507,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 4462.8763248475425
+            },
+            "quantile3_ratio": {
+                "val": 0.22602815399664297,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 4462.8763248475425
+            },
+            "quantile4_ratio": {
+                "val": 0.18806785767435605,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 4462.8763248475425
+            },
+            "quantile5_ratio": {
+                "val": 0.17909015920568602,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 4462.8763248475425
+            }
+        }
+    },
+    "HU221": {
+        "ADM0": "HU",
+        "ADM1": "Nyugat-Dunántúl",
+        "ADM2": "Győr-Moson-Sopron",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 31088.496419991145,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 31659.712396387244,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 46455.47455822613,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 43043.43641331464,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 44945.65267758661,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.15765535435853434,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 4208.478750463408
+            },
+            "quantile2_ratio": {
+                "val": 0.16055209326663009,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 4208.478750463408
+            },
+            "quantile3_ratio": {
+                "val": 0.23558406313472988,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 4208.478750463408
+            },
+            "quantile4_ratio": {
+                "val": 0.2182810042941309,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 4208.478750463408
+            },
+            "quantile5_ratio": {
+                "val": 0.22792748494597487,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 4208.478750463408
+            }
+        }
+    },
+    "HU222": {
+        "ADM0": "HU",
+        "ADM1": "Nyugat-Dunántúl",
+        "ADM2": "Vas",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 17120.64136111142,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 17197.982494281438,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 24382.68990521464,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 20756.99573663857,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 21191.19736005089,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.1701015921060143,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "quantile2_ratio": {
+                "val": 0.1708700124945978,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "quantile3_ratio": {
+                "val": 0.24225344630634846,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "quantile4_ratio": {
+                "val": 0.20623047628110378,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "quantile5_ratio": {
+                "val": 0.21054447281193564,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            }
+        }
+    },
+    "HU223": {
+        "ADM0": "HU",
+        "ADM1": "Nyugat-Dunántúl",
+        "ADM2": "Zala",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 21428.105024858356,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 26017.147721619076,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 21901.624548635442,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 18098.52082213,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 14781.106909474287,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.20961398435032152,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 3783.8670829404405
+            },
+            "quantile2_ratio": {
+                "val": 0.2545049125451313,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 3783.8670829404405
+            },
+            "quantile3_ratio": {
+                "val": 0.2142460464916745,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 3783.8670829404405
+            },
+            "quantile4_ratio": {
+                "val": 0.17704332958854366,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 3783.8670829404405
+            },
+            "quantile5_ratio": {
+                "val": 0.14459172702432904,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 3783.8670829404405
+            }
+        }
+    },
+    "HU231": {
+        "ADM0": "HU",
+        "ADM1": "Dél-Dunántúl",
+        "ADM2": "Baranya",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 40913.76053781699,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 37618.0531851021,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 27932.70980238145,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 27432.134455662042,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 21334.66634372592,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.2635663949644597,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 4430.490753957559
+            },
+            "quantile2_ratio": {
+                "val": 0.24233545225974215,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 4430.490753957559
+            },
+            "quantile3_ratio": {
+                "val": 0.17994248212400865,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 4430.490753957559
+            },
+            "quantile4_ratio": {
+                "val": 0.1767177763573273,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 4430.490753957559
+            },
+            "quantile5_ratio": {
+                "val": 0.1374378942944622,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 4430.490753957559
+            }
+        }
+    },
+    "HU232": {
+        "ADM0": "HU",
+        "ADM1": "Dél-Dunántúl",
+        "ADM2": "Somogy",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 29314.912985784813,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 25604.735433032056,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 22017.933613633322,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 19575.219646648125,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 17129.75659448353,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.257957172305224,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 6062.872841317665
+            },
+            "quantile2_ratio": {
+                "val": 0.22530938956329633,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 6062.872841317665
+            },
+            "quantile3_ratio": {
+                "val": 0.19374725409320329,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 6062.872841317665
+            },
+            "quantile4_ratio": {
+                "val": 0.1722525429207864,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 6062.872841317665
+            },
+            "quantile5_ratio": {
+                "val": 0.15073364111749,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 6062.872841317665
+            }
+        }
+    },
+    "HU233": {
+        "ADM0": "HU",
+        "ADM1": "Dél-Dunántúl",
+        "ADM2": "Tolna",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 18663.698661349754,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 22883.903347507774,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 17638.517841343793,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 15332.004256509317,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 13788.583213599317,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.21135086142043513,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 3703.63133726128
+            },
+            "quantile2_ratio": {
+                "val": 0.25914116879595883,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 3703.63133726128
+            },
+            "quantile3_ratio": {
+                "val": 0.19974154145918485,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 3703.63133726128
+            },
+            "quantile4_ratio": {
+                "val": 0.17362219384872318,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 3703.63133726128
+            },
+            "quantile5_ratio": {
+                "val": 0.15614423447569803,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 3703.63133726128
+            }
+        }
+    },
+    "HU311": {
+        "ADM0": "HU",
+        "ADM1": "Észak-Magyarország",
+        "ADM2": "Borsod-Abaúj-Zemplén",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 68320.5073852739,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 59235.055369154,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 44102.33473698986,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 41302.73797395256,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 32599.50319551961,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.27822311779853715,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 7246.306560544858
+            },
+            "quantile2_ratio": {
+                "val": 0.24122423000809412,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 7246.306560544858
+            },
+            "quantile3_ratio": {
+                "val": 0.17959891608423328,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 7246.306560544858
+            },
+            "quantile4_ratio": {
+                "val": 0.16819805608185542,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 7246.306560544858
+            },
+            "quantile5_ratio": {
+                "val": 0.13275568002728,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 7246.306560544858
+            }
+        }
+    },
+    "HU312": {
+        "ADM0": "HU",
+        "ADM1": "Észak-Magyarország",
+        "ADM2": "Heves",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 25754.614660242707,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 21442.624010269625,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 24536.74447220797,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 22252.981661655373,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 23678.32337942591,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.21888030920395282,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 3634.7834230466824
+            },
+            "quantile2_ratio": {
+                "val": 0.1822340669983718,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 3634.7834230466824
+            },
+            "quantile3_ratio": {
+                "val": 0.2085300163790006,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 3634.7834230466824
+            },
+            "quantile4_ratio": {
+                "val": 0.1891210399017136,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 3634.7834230466824
+            },
+            "quantile5_ratio": {
+                "val": 0.20123456751696114,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 3634.7834230466824
+            }
+        }
+    },
+    "HU313": {
+        "ADM0": "HU",
+        "ADM1": "Észak-Magyarország",
+        "ADM2": "Nógrád",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 21970.330560351013,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 16576.203233159456,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 13498.45181802718,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 11158.89589765061,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 8833.107663483812,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.3049867965426527,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 2544.950974084436
+            },
+            "quantile2_ratio": {
+                "val": 0.2301068301650758,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 2544.950974084436
+            },
+            "quantile3_ratio": {
+                "val": 0.18738223200405424,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 2544.950974084436
+            },
+            "quantile4_ratio": {
+                "val": 0.15490508453792853,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 2544.950974084436
+            },
+            "quantile5_ratio": {
+                "val": 0.12261905675028874,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 2544.950974084436
+            }
+        }
+    },
+    "HU321": {
+        "ADM0": "HU",
+        "ADM1": "Észak-Alföld",
+        "ADM2": "Hajdú-Bihar",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 50259.37643739615,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 50634.21982803275,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 40346.58849714702,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 39210.16436167705,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 36881.756268706915,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.2312561061630622,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 6209.135754137394
+            },
+            "quantile2_ratio": {
+                "val": 0.23298085543542044,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 6209.135754137394
+            },
+            "quantile3_ratio": {
+                "val": 0.1856448610029155,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 6209.135754137394
+            },
+            "quantile4_ratio": {
+                "val": 0.1804158860504335,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 6209.135754137394
+            },
+            "quantile5_ratio": {
+                "val": 0.16970229134816836,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 6209.135754137394
+            }
+        }
+    },
+    "HU322": {
+        "ADM0": "HU",
+        "ADM1": "Észak-Alföld",
+        "ADM2": "Jász-Nagykun-Szolnok",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 37052.86738813888,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 37663.60307451629,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 28971.576123558916,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 24210.334924452134,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 21286.161422333,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.24836934617804085,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 5583.041287152494
+            },
+            "quantile2_ratio": {
+                "val": 0.2524631730207567,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 5583.041287152494
+            },
+            "quantile3_ratio": {
+                "val": 0.1941995836429947,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 5583.041287152494
+            },
+            "quantile4_ratio": {
+                "val": 0.16228447296530793,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 5583.041287152494
+            },
+            "quantile5_ratio": {
+                "val": 0.14268342419289978,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 5583.041287152494
+            }
+        }
+    },
+    "HU323": {
+        "ADM0": "HU",
+        "ADM1": "Észak-Alföld",
+        "ADM2": "Szabolcs-Szatmár-Bereg",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 60716.02043862518,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 49080.365177699074,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 36992.694884437675,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 32556.059968492835,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 26761.41729436755,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.29458558280449587,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 5930.7563450835405
+            },
+            "quantile2_ratio": {
+                "val": 0.23813102169212846,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 5930.7563450835405
+            },
+            "quantile3_ratio": {
+                "val": 0.179483347283222,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 5930.7563450835405
+            },
+            "quantile4_ratio": {
+                "val": 0.1579574193162279,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 5930.7563450835405
+            },
+            "quantile5_ratio": {
+                "val": 0.12984262890392576,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 5930.7563450835405
+            }
+        }
+    },
+    "HU331": {
+        "ADM0": "HU",
+        "ADM1": "Dél-Alföld",
+        "ADM2": "Bács-Kiskun",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 44189.06334405081,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 51754.81920393525,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 42745.86068516967,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 34524.221996184475,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 31120.43263895073,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.21625856343841837,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 8444.408055542963
+            },
+            "quantile2_ratio": {
+                "val": 0.2532849081890518,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 8444.408055542963
+            },
+            "quantile3_ratio": {
+                "val": 0.20919561821755842,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 8444.408055542963
+            },
+            "quantile4_ratio": {
+                "val": 0.16895942316299561,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 8444.408055542963
+            },
+            "quantile5_ratio": {
+                "val": 0.15230148699197585,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 8444.408055542963
+            }
+        }
+    },
+    "HU332": {
+        "ADM0": "HU",
+        "ADM1": "Dél-Alföld",
+        "ADM2": "Békés",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 35015.89484331707,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 37544.277929540985,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 24169.941990488467,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 20591.53215872416,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 13907.03008403567,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.2668311198602399,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 5629.041312524802
+            },
+            "quantile2_ratio": {
+                "val": 0.28609812112785354,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 5629.041312524802
+            },
+            "quantile3_ratio": {
+                "val": 0.18418186132718375,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 5629.041312524802
+            },
+            "quantile4_ratio": {
+                "val": 0.15691335635248377,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 5629.041312524802
+            },
+            "quantile5_ratio": {
+                "val": 0.10597554133223903,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 5629.041312524802
+            }
+        }
+    },
+    "HU333": {
+        "ADM0": "HU",
+        "ADM1": "Dél-Alföld",
+        "ADM2": "Csongrád",
+        "income_quantile": {
+            "quantile1_num": {
+                "val": 28680.611125564817,
+                "desc": "Number of household whose income belongs to quantile 1",
+                "type": "default",
+                "weight": null
+            },
+            "quantile2_num": {
+                "val": 31920.537194071854,
+                "desc": "Number of household whose income belongs to quantile 2",
+                "type": "default",
+                "weight": null
+            },
+            "quantile3_num": {
+                "val": 34186.93845433628,
+                "desc": "Number of household whose income belongs to quantile 3",
+                "type": "default",
+                "weight": null
+            },
+            "quantile4_num": {
+                "val": 32348.421411281848,
+                "desc": "Number of household whose income belongs to quantile 4",
+                "type": "default",
+                "weight": null
+            },
+            "quantile5_num": {
+                "val": 34246.512584442135,
+                "desc": "Number of household whose income belongs to quantile 5",
+                "type": "default",
+                "weight": null
+            },
+            "quantile1_ratio": {
+                "val": 0.17771764953200211,
+                "desc": "Ratio of household whose income belongs to quantile 1",
+                "type": "ratio",
+                "weight": 4260.762497866073
+            },
+            "quantile2_ratio": {
+                "val": 0.19779365289998097,
+                "desc": "Ratio of household whose income belongs to quantile 2",
+                "type": "ratio",
+                "weight": 4260.762497866073
+            },
+            "quantile3_ratio": {
+                "val": 0.21183726944312842,
+                "desc": "Ratio of household whose income belongs to quantile 3",
+                "type": "ratio",
+                "weight": 4260.762497866073
+            },
+            "quantile4_ratio": {
+                "val": 0.20044501123476272,
+                "desc": "Ratio of household whose income belongs to quantile 4",
+                "type": "ratio",
+                "weight": 4260.762497866073
+            },
+            "quantile5_ratio": {
+                "val": 0.21220641689012576,
+                "desc": "Ratio of household whose income belongs to quantile 5",
+                "type": "ratio",
+                "weight": 4260.762497866073
+            }
+        }
+    }
+}

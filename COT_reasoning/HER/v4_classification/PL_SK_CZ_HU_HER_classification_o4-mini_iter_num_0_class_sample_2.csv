@@ -1,0 +1,117 @@
+,desc
+0,Low
+1,Based on the characteristics of Kobiór in Pszczyński District (a largely rural/suburban area in Śląskie Voivodeship with no major university centers and typical Polish county‐level education levels below national urban averages) it would be classified as: Low.
+2,Based on its location—a small town in rural Lubliniecki County (Śląskie) away from major university centres—and by analogy with similar Polish rural districts the share of university‐educated residents is likely Low.
+3,Based on its small‐village rural character in the Gliwice hinterland (Śląskie) and by analogy with other Polish villages in the dataset Ligota Łabędzka would fall into the “Low” category.
+4,High
+5,Low
+6,Answer: Medium
+7,Based on Szczyrk’s demographic profile – a small mountain‐resort town in rural Silesia with a service-oriented tourism-driven economy and overall below-average tertiary attainment for the region – the share of university graduates is best classified as Low.
+8,Low
+9,Based on the rural sparsely populated character of Laszki in Podkarpackie—an area with relatively low tertiary‐education rates—and by analogy with similar Polish villages in your benchmarks the proportion of university‐educated residents would be classified as Low.
+10,Answer: Low
+11,Low
+12,Low
+13,Low
+14,Low
+15,Based on its status as a small village in the rural commune of Zławieś Wielka — even though it lies within commuting distance of Toruń (a mid‐sized university city) — the share of university‐educated residents is still best classed as Low.
+16,Low
+17,Very High
+18,Low
+19,Low
+20,Low
+21,Low
+22,Low
+23,Low
+24,Based on Szczecin’s status as a mid‐sized regional capital—with significant higher‐education institutions but no flagship national university on the level of Warsaw or Prague—its share of university graduates is likely above the Polish rural/town average but below the top‐tier urban/suburban centres.  I therefore classify Dąbie 1 Szczecin as Medium.
+25,Low
+26,"Based on its location in the small town/commune of Goleniów (outside the major metropolitan core of Szczecin) and by comparison with similar Polish district‐level rural and small‐town areas the share of university‐educated residents in ulica Bolechowo Goleniów gmina (Goleniowski Zachodniopomorskie) is best classified as:  
+Low."
+27,Based on its location – a small village in the rural hinterland of Koszalin (pop. ~100 000) rather than the Warsaw commuter belt – we’d expect a modestly elevated share of graduates compared with remote countryside but not on par with metro‐adjacent districts.  I therefore classify 76-009 Bonin (Powiat koszaliński Zachodniopomorskie) as Medium.
+28,Answer: Low
+29,Low
+30,Based on the fact that Rynarcice is a small rural village in the Lubiński district of Dolnośląskie—far from major urban or university centres—and by analogy with other Polish rural localities in your training set (all of which fell into the “Low” category) the proportion of university‐educated residents here is best classified as Low.
+31,Answer: High
+32,High
+33,Low
+34,Low
+35,Answer: Low
+36,Based on its mix of rural gminas and suburban zones around the regional university city of Łódź – analogous to Holasice’s position near Brno (rated “Medium”) – Zgierski district’s share of university‐educated residents is best classed as Medium.
+37,Medium
+38,Low
+39,Low
+40,Based on its rural setting in Tczewski County (a small‐town/agrarian district in Pomorskie) and by comparison with similar Polish villages in the dataset Szprudowo’s share of tertiary‐educated residents falls into the “Low” category.
+41,Based on Przymorze Małe’s location within the major university and high-tech metro area of Gdańsk (a Tri-City knowledge hub) its relatively young professionally active population and proximity to the University of Gdańsk the share of university-educated residents is above the Polish average but not quite at the very top tier.  Answer: High
+42,Based on its rural character and the pattern seen for small Polish villages (even those in commuter‐belt regions outside major metros) Warzno would be classified as having a Low proportion of university‐educated residents.
+43,Low
+44,Based on its rural setting in the Podlaskie voivodeship and by analogy with other small Polish villages (all of which fell into the “Low” category) Netta Druga is best classified as having a Low proportion of university-educated residents.
+45,Low
+46,Low
+47,Based on its rural character in the Płock region (a small city of ~120 000) and comparison with similarly sized/rural Polish districts Trzepowo Nowe would fall into the “Low” class for share of university‐educated residents.
+48,Low
+49,Low
+50,Low
+51,Medium
+52,Low
+53,Based on its proximity to Rzeszów (a regional university centre) yet still lying within a generally lower‐educated voivodeship and rural-suburban setting Świlcza most likely falls into the Medium class.
+54,Based on its location—a small rural village in the relatively less‐developed Podkarpackie region with limited local higher‐education infrastructure and out‐migration of educated youth—the share of university‐educated residents in Bełchówka is best classified as Low.
+55,Low
+56,Low
+57,Medium
+58,Low
+59,Medium
+60,Based on its position as a small village in the commuter belt of Kraków (a major regional university hub) Ostrężnica is likely above the rural Polish average but below Warsaw‐area levels.  I would classify its share of university‐educated residents as Medium.
+61,Low
+62,Based on its status as a small village in rural Chrzanów County—without the strong commuter ties or urban pull seen in higher‐educated catchments—I would classify Kwaczała’s share of university‐educated adults as Low.
+63,High
+64,Very High
+65,High
+66,Based on Malacky’s location in the economically and educationally leading Bratislava Region (the highest‐attaining region in Slovakia) yet recognizing it is not itself the national capital the share of university‐educated residents is best classed as “High.”
+67,"Based on Slovakia’s regional breakdown of tertiary‐educated shares (Bratislava highest Trnava second then the rest below) and comparing to our Czech–SK benchmarks (Prague = Very High other Czech regions ≈ Medium) Trnava Region – and especially the city of Trnava with its universities – falls into the “High” category.  
+
+Answer: High"
+68,"Based on Bobot’s status as a small rural municipality in the Trenčín Region—where even though the region-wide tertiary‐educated share is around 20% villages of this size typically hover closer to 10–15%—it aligns with the “Low” benchmark.  
+Answer: Low"
+69,Low
+70,Based on its setting—a small rural village in the Dolný Kubín district of the Žilina Region with demographic and economic characteristics similar to other low-attainment rural areas in Slovakia—I’d classify Žaškov’s share of university‐educated residents as Low.
+71,Based on its small‐village status in rural southern Slovakia (Lučenec district in the Banská Bystrica region) where tertiary‐degree attainment typically runs below the national average and aligns more with “low” rural benchmarks the share of university graduates in Mýtna would be classified as Low.
+72,Low
+73,Medium
+74,High
+75,Medium
+76,Medium
+77,Based on the rural/small‐town character of Bolkov within Plzeňský kraj—and comparing to similar Czech locations like Holasice (Jihomoravský kraj “Medium”)—the share of university-educated adults in 334 01 Bolkov is best classified as: Medium.
+78,Based on its location in the Karlovarský region—one of the lowest in the Czech Republic for share of tertiary‐educated residents—and comparing to the provided benchmarks the expected proportion of highly educated individuals in 357 33 Loket Karlovarský CZE falls into the “Low” category.
+79,"Based on Ústecký region’s below‐average share of university graduates (historically one of the less‐educated Czech regions) and the fact that Lukov is a small municipality in that area the proportion of higher‐educated residents would align with the “Low” benchmark. 
+
+Answer: Low"
+80,Based on Javorník’s location in the Liberec Region—a predominantly rural area with tertiary‐educated shares modestly above purely agricultural/localities but well below urban centres like Prague—the share of university graduates would fall into the “Medium” band.
+81,Based on the regional‐level benchmarks (Prague as Very High; South Moravian small towns as Medium; most non-capital Czech regions clustering around Medium) the Královéhradecký region (Dvůr Králové nad Labem) falls into the “Medium” category.
+82,Answer: Low
+83,Based on Vysočina’s below-national-average tertiary attainment (around 11–12 %) and Velký Beranov’s status as a small village outside the regional centre the share of university‐educated adults is best classified as Low.
+84,"Based on Újezd’s location in the largely rural Olomoucký region—tempered by proximity to the university town of Olomouc—and comparing with similar Czech villages (e.g. Holasice Jihomoravský → Medium) the share of university‐educated residents most closely fits the “Medium” class.  
+Answer: Medium"
+85,"Based on the region’s socio-demographic profile Želechovice nad Dřevnicí sits in the Zlínský kraj which—while benefiting from proximity to the Tomas Bata University in nearby Zlín—still hovers around the national average share of tertiary-educated residents (roughly 15–20 %). It is neither a top‐tier agglomeration like Prague (Very High) nor one of the markedly low-education rural peripheries. Therefore the appropriate class is:
+
+Answer: Medium"
+86,Based on its location in Budapest’s 10th district (an urban area in the capital with well above–national-average tertiary attainment) the share of university graduates would be classified as: Very High.
+87,Answer: High
+88,Answer: Medium
+89,High
+90,Based on its small‐village rural character in Veszprém County (outside of the city of Veszprém itself) and comparing with similar settlements in Central Transdanubia Városlőd would be judged as having a Low proportion of university‐educated residents.
+91,Answer: Medium
+92,Based on its small‐village character in rural Vas County (despite being in the relatively better-off West Transdanubia region) Sorkifalud’s share of university-educated residents would be below the national average. Qualitatively this best corresponds to the “Low” class.
+93,Based on its small‐village status in rural Zala County and by analogy with similarly profiled Hungarian settlements Söjtör’s share of university-educated residents would be classified as Low.
+94,Answer: Medium
+95,Based on Somogy’s below-national‐average share of university graduates (historically in the high-teens percentile) and Mezőcsokonya’s rural character its tertiary‐education rate would be classified as Low.
+96,Low
+97,"Based on Szikszó’s location in the economically underdeveloped Borsod-Abaúj-Zemplén county its small‐town status and comparison to similarly sized Hungarian settlements the share of tertiary‐educated residents would fall into the Very Low category.  
+Answer: Very Low"
+98,Based on Vécs’s status as a small rural settlement in Heves County – away from Hungary’s major urban–university centres – the share of tertiary-educated residents is expected to fall into the “Low” category.
+99,Answer: Low
+100,Based on Szabolcs‐Szatmár‐Bereg megye’s very low tertiary‐education rates (among the lowest in Hungary) and Baktalórántháza’s small‐town peripheral profile the share of university‐educated residents is best classified as Very Low.
+101,Low
+102,"Based on Soltvadkert’s size (a small county‐town) its location in a predominantly rural lower‐income county (Bács‐Kiskun) and Hungary’s overall tertiary‐education rates outside major urban centers (well below national averages) we’d expect the share of university‐educated residents to be below the medium threshold.  
+Answer: Low"
+103,Very Low
+104,Based on its size (≈45 000 inhabitants) status as a regional city (third‐largest in its county) and more urban character compared with surrounding rural areas – but still well below Hungary’s tertiary‐education hubs like Budapest or Debrecen – the share of university graduates in Hódmezővásárhely is best classed as Medium.

@@ -1,0 +1,8 @@
+{
+  "s_modules": [
+    "get_address(Loc)",
+    "get_area(Loc)",
+    "get_night_light(Loc)",
+    "get_landuse_sum(Loc, 'Residential')"
+  ]
+}

@@ -1,0 +1,106 @@
+area_id,score,ground_truth
+PL922,Low,18.9
+PL22C,High,23.2
+PL228,Medium,21.0
+PL229,Medium,23.8
+PL22A,High,25.5
+PL22B,Medium,23.7
+PL224,High,23.4
+PL225,High,22.5
+PL227,Medium,18.6
+PL822,Low,20.1
+PL622,Low,23.7
+PL722,Very Low,18.9
+PL616,Low,15.3
+PL617,Medium,15.7
+PL618,Low,14.1
+PL613,High,27.6
+PL619,Low,17.1
+PL415,Very High,39.4
+PL418,Very Low,26.6
+PL416,Medium,18.5
+PL841,Medium,29.4
+PL417,Low,17.1
+PL623,Low,17.9
+PL621,Low,17.4
+PL424,High,32.7
+PL427,Low,15.9
+PL428,Medium,20.8
+PL426,Medium,21.6
+PL842,Very Low,19.3
+PL515,Medium,18.2
+PL516,Medium,20.7
+PL518,High,23.9
+PL514,Very High,41.8
+PL524,Medium,22.3
+PL523,Low,18.1
+PL713,Low,19.4
+PL712,Medium,23.2
+PL711,Medium,30.7
+PL715,Low,19.5
+PL637,Low,15.7
+PL638,Medium,16.6
+PL633,High,37.5
+PL634,High,22.4
+PL636,Low,19.5
+PL843,Medium,19.3
+PL431,Low,19.8
+PL432,Medium,20.1
+PL923,Medium,21.3
+PL925,Medium,20.7
+PL924,Very Low,19.3
+PL926,Medium,20.8
+PL921,Medium,22.0
+PL721,Low,25.3
+PL823,Low,26.9
+PL821,Very Low,20.2
+PL824,Low,20.0
+PL811,Low,20.4
+PL814,Medium,30.6
+PL815,Medium,19.2
+PL217,Medium,19.3
+PL214,High,23.1
+PL219,Medium,16.8
+PL21A,Medium,20.0
+PL213,Very High,43.2
+PL911,Very High,47.4
+PL913,High,34.2
+SK010,Very High,38.0
+SK021,High,18.6
+SK022,Medium,19.4
+SK023,Low,18.7
+SK031,Low,20.9
+SK032,Low,18.5
+SK041,Low,19.2
+SK042,High,20.2
+CZ020,Very High,16.9
+CZ080,Low,15.4
+CZ031,Low,15.1
+CZ032,High,14.5
+CZ041,Medium,9.6
+CZ042,Low,10.4
+CZ051,Medium,13.2
+CZ052,Medium,13.9
+CZ053,Medium,13.8
+CZ063,Medium,13.4
+CZ071,Medium,15.7
+CZ072,Medium,15.6
+HU110,Very High,38.9
+HU120,High,24.4
+HU211,Medium,19.4
+HU212,Medium,17.4
+HU213,Low,18.8
+HU221,Medium,20.5
+HU222,Medium,18.2
+HU223,Very Low,17.8
+HU231,High,19.6
+HU232,Low,16.1
+HU233,Low,15.7
+HU311,Low,16.1
+HU312,Low,17.3
+HU321,Low,19.7
+HU323,Very Low,15.3
+HU322,Low,14.8
+HU331,Low,16.1
+HU332,Low,15.1
+HU333,Medium,1.8

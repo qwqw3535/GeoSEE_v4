@@ -1,0 +1,123 @@
+,desc
+0,Based on its location in the urban district of Podgórze in Kraków (a major city) the population class is: Very High.
+1,Very Low
+2,Medium
+3,Answer: Medium
+4,Based on its status as a moderately sized village in the Nowy Targ area (on the order of hundreds up to low‐thousands of inhabitants) Morawczyna would be classified as Medium.
+5,Medium
+6,Answer: Medium
+7,Answer: Medium
+8,Based on its setting as a district (osiedle) within the town of Rydułtowy (≈22 000 inhabitants) and comparing to similar‐sized towns in the benchmarks (e.g. Baktalórántháza Radom suburbs) this location falls into the Medium class.
+9,Answer: High
+10,"Based on the size of the Gliwice‐Rudziniec area (postal‐district “44”) – which combines the city of Gliwice (~178 000) with Gliwice County (~115 000) for a total in the high‐hundreds of thousands – this district sits well above the “Medium” band but below the handful of truly megacity zones.  I would therefore classify Ligota Łabędzka (Rudziniec Gliwicki) as:  
+High"
+11,"Based on its status as a district of Katowice (a non‐capital city) with on the order of a few‐dozen thousand residents it falls into the same “mid-range” category as other non-capital urban areas we’ve labeled.  
+Answer: Medium"
+12,"Based on the size of the Łazy postal‐district (including the town of Łazy itself plus surrounding villages such as Rokitno Szlacheckie) its total population sits in the lower‐middle range when compared to our Czech Hungarian Polish and Slovak benchmarks. It is larger than the very sparsely populated “very low” cases but still well below the sizes of “medium” districts like Radom or Barczewo so it falls into the “Low” category.  
+
+Answer: Low"
+13,Based on Kobiór’s size – a small village of under 5 000 inhabitants – it falls into the “Low” category.
+14,Based on its status as a small rural village in Piła County (Greater Poland Voivodeship) – likely home to only a few‐hundred residents – Dziembowo falls into the “Low” population category.
+15,Based on the size of the Koniński district (powiat koniński) – roughly 120–130 000 inhabitants – it falls into the “Low” category.
+16,Based on its location in the central “Stare Miasto” district of Poznań—a major Polish city with high urban density—the population class for this address is: Very High.
+17,Medium
+18,Very Low
+19,Answer: Very Low
+20,Answer: High
+21,Low
+22,Very Low
+23,Answer: Medium
+24,Answer: Very Low
+25,Low
+26,Based on the address resolution (Popowice is a defined Wrocław neighborhood with roughly 10–20 000 inhabitants) it falls into the same band as other mid-sized municipalities—so its population class is: Medium.
+27,Answer: Very Low
+28,Based on its character as a non‐seat village of roughly one to two thousand inhabitants in the Nowa Ruda area Wolibórz falls into the same band as other small but not tiny settlements – i.e. Medium.
+29,Medium
+30,Answer: Medium
+31,Answer: Very Low.
+32,Answer: Medium
+33,"For the gmina (municipality) of Dębowa Łąka – with a population on the order of only a few‐thousand residents – the proper qualitative class is:
+
+Very Low"
+34,Answer: Medium
+35,Based on its status as a small‐rural village of a few hundred inhabitants in Kujawsko-Pomorskie Wysoka (gmina Cekcyn) falls into the Medium class.
+36,Low
+37,Answer: Very Low
+38,Very Low
+39,High
+40,Based on its status as a small semi-rural village in the Szemud/Wejherowo area (population well under 1000) Warzno best fits the “Low” class.
+41,Low
+42,Answer: Very Low
+43,Answer: Medium
+44,"Based on its being in a major Łódź city district (Stary Widzew) – a city of ~700 000 inhabitants far larger than Radom (which we rated “Medium”) and second only to Warsaw in Poland – this location’s population class is best judged as:
+
+High"
+45,Very Low
+46,Based on its status as a small village in Gmina Sulejów (likely only a few‐hundred inhabitants) and comparing to the benchmarks (e.g. Studzianki in Wasilków marked “Low”) Łazy Dąbrowa should be classified as: Low.
+47,Very Low
+48,Very Low
+49,"Based on Gruszka’s location in the 26-xxx postal district (the same as Radom/Kielce area which we previously labeled “Medium”) the best fit is:  
+Answer: Medium"
+50,Very Low
+51,Answer: Low
+52,Very Low
+53,Answer: Low
+54,Low
+55,Very Low
+56,"Based on the size of the 37-512 postal‐area (which covers Laszki and its neighbouring villages – roughly 5–8 000 inhabitants) it falls into the “Medium” class.  
+Answer: Medium"
+57,Based on its size and role as the seat of Gmina Świlcza (roughly 3–5 000 inhabitants) Świlcza falls into the “Medium” population category.
+58,Medium
+59,Answer: Very Low
+60,Very Low
+61,Based on its status as a tiny rural village in Gmina Dębe Wielkie (a settlement of only a few‐hundred inhabitants) Kąty Goździejewskie falls into the Very Low population category. Answer: Very Low
+62,Answer: Medium
+63,Based on its setting—a single street in the tiny village of Ościsłowo within the small largely rural Gmina Glinojeck (pop. Gmina ≈8 000 main town ≈3 500 the rest split among some 30 villages)—we’d expect Ościsłowo itself to number well under a few hundred residents.  Under the given qualitative bands that puts it firmly in the “Very Low” class.  Answer: Very Low.
+64,Answer: Very Low
+65,Answer: Very Low
+66,Very Low
+67,High
+68,Answer: High
+69,Answer: Very Low
+70,Based on its size (Veľká Maňa is a small Slovak village of roughly 1 000–1 200 inhabitants) it falls into the “Medium” population class.
+71,Low
+72,"Given that Mýtna lies in the Lučenec district which in turn is part of the Banská Bystrica Region (pop. ≈ 654 000) and ranking the eight Slovak kraje by population into five qualitative bands Banská Bystrica falls into the “Medium” category. 
+
+Answer: Medium"
+73,Based on its status as a small Slovak municipality (around 1 100 inhabitants i.e. below the regional/Slovak municipal average yet well above tiny‐hamlet scale) Terňa falls into the “Low” population class.
+74,High
+75,Answer: Very High
+76,Very High
+77,Very Low: Bolkov in the Plzeňský kraj is a tiny rural village (postal code 334 01 is shared with nearby Nepomuk) with only a few dozen–a couple hundred inhabitants at most putting it firmly in the “Very Low” population category.
+78,"The Karlovarský kraj has about 295 000 inhabitants. Using the banding implied by the Czech‐region examples (Very Low < 300 k; Low 300–500 k; Medium 500–600 k; High 600 k–1 M; Very High > 1 M) Karlovarský kraj falls into the Very Low class.  
+Answer: Very Low"
+79,High
+80,Very Low
+81,Medium
+82,Based on its size (around 1 000 – 1 200 inhabitants) and comparing with the provided Czech benchmarks (Bučina → Medium Drahotěšice → High) Velký Beranov falls into the “High” category. Answer: High
+83,High
+84,High
+85,Medium
+86,"Based on its placement in the Moravskoslezský kraj (population ≈1.2 million) which is one of the Czech Republic’s most‐populous regions I would classify Výškovice u Slatiny as:
+
+Answer: Very High"
+87,Answer: Very High
+88,Very High
+89,Based on its size (Seregélyes has only a few thousand inhabitants) it falls into the same bracket as other small Hungarian towns (e.g. Baktalórántháza) so the population class is: Medium.
+90,Answer: Medium
+91,Answer: Medium
+92,Based on the county‐level population of Győr-Moson-Sopron (≈ 470 000) it falls into the mid‐range of Hungary’s 20 counties.  Answer: Medium.
+93,Low
+94,Based on its size and status as a modest rural village in Zala county (pop. ~2 000) Söjtör falls into the “Medium” category.
+95,Answer: Medium
+96,Low
+97,Answer: Medium
+98,Based on its size (Vécs is a small Heves-county village with on the order of a few hundred up to around a thousand inhabitants) it best fits the Medium band. Answer: Medium
+99,Very Low
+100,Based on its size (around 4–5 000 residents) and comparing to the given benchmarks Ebes would fall into the Medium class.
+101,Answer: Medium
+102,Medium
+103,Low
+104,"Based on the fact that Csongrád-Csanád megye has a population of roughly 400 000 – placing it well above the very‐low Tolna (≈200 000) but below the >800 000 threshold for “High” – it falls into the Medium category.  
+
+Answer: Medium."

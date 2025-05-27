@@ -1,0 +1,2877 @@
+{
+    "PL22C": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Tyski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 39,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 0,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL229": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Gliwicki",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 78,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 12,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL22A": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Katowicki",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 122,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 73,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL22B": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Sosnowiecki",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 66,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 10,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL225": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Bielski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 65,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 5,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL227": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Rybnicki",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 74,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 1,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL21A": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "O\u015bwi\u0119cimski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 55,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 7,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL228": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Bytomski",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 58,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 2,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL224": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Cz\u0119stochowski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 35,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 7,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL524": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Opolskie",
+        "ADM2": "Opolski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 63,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 4,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL722": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015awi\u0119tokrzyskie",
+        "ADM2": "Sandomiersko-j\u0119drzejowski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 57,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 2,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL214": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Krakowski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 63,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 10,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL714": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Sieradzki",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 31,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 8,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL713": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Piotrkowski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 57,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 10,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL219": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Nowotarski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 17,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 4,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "SK031": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Stredn\u00e9 Slovensko",
+        "ADM2": "\u017dilinsk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 54,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 17,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ080": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Moravskoslezsko",
+        "ADM2": "Moravskoslezsk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 7,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 68,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 28,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL523": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Opolskie",
+        "ADM2": "Nyski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 35,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 7,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL616": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Grudzi\u0105dzki",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 35,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 9,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL618": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "\u015awiecki",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 6,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 2,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL613": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Bydgosko-toru\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 7,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 137,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 33,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL619": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "W\u0142oc\u0142awski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 24,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 6,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL621": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Warmi\u0144sko-mazurskie",
+        "ADM2": "Elbl\u0105ski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 26,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 2,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL638": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Pomorskie",
+        "ADM2": "Starogardzki",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 69,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 14,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL922": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Ciechanowski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 17,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 4,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL923": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "P\u0142ocki",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 26,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 5,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL617": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Inowroc\u0142awski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 14,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 8,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL414": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Koni\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 45,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 14,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL411": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Pilski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 29,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 13,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL637": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Pomorskie",
+        "ADM2": "Chojnicki",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 11,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 4,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL715": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Skierniewicki",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 54,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 12,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL418": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Pozna\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 148,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 19,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL416": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Kaliski",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 73,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 16,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL417": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Leszczy\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 61,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 16,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL427": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Szczecinecko-pyrzycki",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 24,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 19,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL431": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Lubuskie",
+        "ADM2": "Gorzowski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 30,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 8,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL415": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Miasto Pozna\u0144",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 148,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 43,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL518": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Wroc\u0142awski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 41,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 10,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL516": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Legnicko-g\u0142ogowski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 33,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 6,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL432": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Lubuskie",
+        "ADM2": "Zielonog\u00f3rski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 59,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 4,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL622": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Warmi\u0144sko-mazurskie",
+        "ADM2": "Olszty\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 42,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 5,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL623": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Warmi\u0144sko-mazurskie",
+        "ADM2": "E\u0142cki",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 38,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 1,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL924": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Ostro\u0142\u0119cki",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 4,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 3,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL843": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Podlaskie",
+        "ADM2": "Suwalski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 14,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 0,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL842": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Podlaskie",
+        "ADM2": "\u0141om\u017cy\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 22,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 7,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL634": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Pomorskie",
+        "ADM2": "Gda\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 76,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 11,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL424": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Miasto Szczecin",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 108,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 21,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL428": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Szczeci\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 45,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 6,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL426": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Koszali\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 31,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 25,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL636": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Pomorskie",
+        "ADM2": "S\u0142upski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 39,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 12,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL515": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Jeleniog\u00f3rski",
+        "poi_health": {
+            "hospital": {
+                "val": 5,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 39,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 14,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL517": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Wa\u0142brzyski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 74,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 20,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ051": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Libereck\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 25,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 12,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ052": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 5,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 46,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 11,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL514": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Miasto Wroc\u0142aw",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 201,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 37,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ053": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Pardubick\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 19,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 27,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ071": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "St\u0159edn\u00ed Morava",
+        "ADM2": "Olomouck\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 71,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 22,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL712": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "\u0141\u00f3dzki",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 54,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 3,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL926": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "\u017byrardowski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 23,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 11,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL921": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Radomski",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 65,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 28,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL721": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u015awi\u0119tokrzyskie",
+        "ADM2": "Kielecki",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 124,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 50,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL711": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Miasto \u0141\u00f3d\u017a",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 112,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 25,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL633": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Pomorskie",
+        "ADM2": "Tr\u00f3jmiejski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 192,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 40,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL912": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Warszawski wschodni",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 46,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 15,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL913": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Warszawski zachodni",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 83,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 28,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL925": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Siedlecki",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 18,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 4,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL811": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Lubelskie",
+        "ADM2": "Bialski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 28,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 11,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL815": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Lubelskie",
+        "ADM2": "Pu\u0142awski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 46,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 6,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL824": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Tarnobrzeski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 71,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 11,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL217": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Tarnowski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 28,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 3,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL823": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Rzeszowski",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 97,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 29,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL821": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Kro\u015bnie\u0144ski",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 116,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 20,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL822": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Przemyski",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 46,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 7,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL218": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Nowos\u0105decki",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 49,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 18,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "SK041": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "V\u00fdchodn\u00e9 Slovensko",
+        "ADM2": "Pre\u0161ovsk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 5,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 50,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 49,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL812": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Lubelskie",
+        "ADM2": "Che\u0142msko-zamojski",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 95,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 65,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL814": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Lubelskie",
+        "ADM2": "Lubelski",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 98,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 26,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL213": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Miasto Krak\u00f3w",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 181,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 108,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL841": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Podlaskie",
+        "ADM2": "Bia\u0142ostocki",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 52,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 35,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "PL911": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Miasto Warszawa",
+        "poi_health": {
+            "hospital": {
+                "val": 8,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 489,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 161,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "SK032": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Stredn\u00e9 Slovensko",
+        "ADM2": "Banskobystrick\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 8,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 97,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 16,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "SK042": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "V\u00fdchodn\u00e9 Slovensko",
+        "ADM2": "Ko\u0161ick\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 0,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 69,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 33,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "SK023": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+        "ADM2": "Nitriansky kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 90,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 13,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "SK022": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+        "ADM2": "Tren\u010diansky kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 90,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 10,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU313": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+        "ADM2": "N\u00f3gr\u00e1d",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 37,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 3,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU311": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+        "ADM2": "Borsod-Aba\u00faj-Zempl\u00e9n",
+        "poi_health": {
+            "hospital": {
+                "val": 9,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 88,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 5,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ072": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "St\u0159edn\u00ed Morava",
+        "ADM2": "Zl\u00ednsk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 35,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 8,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU323": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u00c9szak-Alf\u00f6ld",
+        "ADM2": "Szabolcs-Szatm\u00e1r-Bereg",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 44,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 6,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "SK021": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+        "ADM2": "Trnavsk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 70,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 8,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "SK010": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Bratislavsk\u00fd kraj",
+        "ADM2": "Bratislavsk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 181,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 37,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ064": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Jihov\u00fdchod",
+        "ADM2": "Jihomoravsk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 6,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 145,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 23,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU221": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+        "ADM2": "Gy\u0151r-Moson-Sopron",
+        "poi_health": {
+            "hospital": {
+                "val": 5,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 76,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 5,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU120": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Pest",
+        "ADM2": "Pest",
+        "poi_health": {
+            "hospital": {
+                "val": 6,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 145,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 7,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU212": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+        "ADM2": "Kom\u00e1rom-Esztergom",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 53,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 13,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ020": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "St\u0159edn\u00ed \u010cechy",
+        "ADM2": "St\u0159edo\u010desk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 5,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 93,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 25,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ031": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Jihoz\u00e1pad",
+        "ADM2": "Jiho\u010desk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 78,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 18,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ032": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Jihoz\u00e1pad",
+        "ADM2": "Plze\u0148sk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 31,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 17,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ010": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Praha",
+        "ADM2": "Hlavn\u00ed m\u011bsto Praha",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 87,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 67,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ063": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Jihov\u00fdchod",
+        "ADM2": "Kraj Vyso\u010dina",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 34,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 7,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ042": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Severoz\u00e1pad",
+        "ADM2": "\u00dasteck\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 6,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 19,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 16,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "CZ041": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Severoz\u00e1pad",
+        "ADM2": "Karlovarsk\u00fd kraj",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 13,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 8,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU222": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+        "ADM2": "Vas",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 28,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 5,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU223": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+        "ADM2": "Zala",
+        "poi_health": {
+            "hospital": {
+                "val": 5,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 38,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 2,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU213": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+        "ADM2": "Veszpr\u00e9m",
+        "poi_health": {
+            "hospital": {
+                "val": 1,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 86,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 1,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU232": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+        "ADM2": "Somogy",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 46,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 59,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU312": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+        "ADM2": "Heves",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 31,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 1,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU321": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u00c9szak-Alf\u00f6ld",
+        "ADM2": "Hajd\u00fa-Bihar",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 47,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 2,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU322": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "\u00c9szak-Alf\u00f6ld",
+        "ADM2": "J\u00e1sz-Nagykun-Szolnok",
+        "poi_health": {
+            "hospital": {
+                "val": 3,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 20,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 3,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU231": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+        "ADM2": "Baranya",
+        "poi_health": {
+            "hospital": {
+                "val": 22,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 49,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 5,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU233": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+        "ADM2": "Tolna",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 56,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 2,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU331": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "D\u00e9l-Alf\u00f6ld",
+        "ADM2": "B\u00e1cs-Kiskun",
+        "poi_health": {
+            "hospital": {
+                "val": 11,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 56,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 3,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU211": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+        "ADM2": "Fej\u00e9r",
+        "poi_health": {
+            "hospital": {
+                "val": 9,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 55,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 4,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU110": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "Budapest",
+        "ADM2": "Budapest",
+        "poi_health": {
+            "hospital": {
+                "val": 33,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 223,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 59,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU332": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "D\u00e9l-Alf\u00f6ld",
+        "ADM2": "B\u00e9k\u00e9s",
+        "poi_health": {
+            "hospital": {
+                "val": 4,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 32,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 5,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    },
+    "HU333": {
+        "ADM0": "PL_SK_CZ_HU",
+        "ADM1": "D\u00e9l-Alf\u00f6ld",
+        "ADM2": "Csongr\u00e1d",
+        "poi_health": {
+            "hospital": {
+                "val": 2,
+                "desc": "number of hospital",
+                "type": "default",
+                "weight": null
+            },
+            "doctors": {
+                "val": 49,
+                "desc": "number of doctors",
+                "type": "default",
+                "weight": null
+            },
+            "clinic": {
+                "val": 15,
+                "desc": "number of clinic",
+                "type": "default",
+                "weight": null
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "s_modules": [
+        "get_address(Loc)",
+        "get_night_light(Loc)",
+        "get_landuse_sum(Loc, 'Agricultural')",
+        "get_landuse_sum(Loc, 'Factory')",
+        "get_landuse_sum(Loc, 'Commercial')",
+        "get_landuse_sum(Loc, 'Residential')"
+    ]
+}

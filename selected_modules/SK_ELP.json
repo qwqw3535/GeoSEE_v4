@@ -1,0 +1,9 @@
+{
+  "s_modules": [
+    "get_address(Loc)",
+    "get_landuse_sum(Loc, 'Residential')",
+    "get_area(Loc)",
+    "get_landcover_ratio(Loc, target_class='building')",
+    "get_night_light(Loc)"
+  ]
+}

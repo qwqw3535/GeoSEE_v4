@@ -1,0 +1,33 @@
+You have access to a set of modules that can provide various kinds of information about a given region. 
+Your task is to determine which modules to call to gather information that helps answer a question. 
+You will reason step-by-step, documenting your thoughts and the logic behind choosing each module. 
+Ultimately, you will stop once you have collected sufficient information.
+
+Available Modules:
+<MODULE_DESC>
+
+Question: <QUESTION>
+
+Use the following format enclosed in --- to solve the above question.
+
+---
+Thought: [Think aloud about what data might help answer the question. Consider which modules might yield information relevant to understanding or estimating regional GDP. Provide the reasoning steps here.]
+Action: [Based on the reasoning, choose a single module to call next. Justify why this module is needed and how it helps with the question. Then write the module call, e.g. get_population(Loc).]
+
+Thought: [Reflect on additional data needed. Do you need to call more modules to strengthen your inference about regional GDP?]
+Action: [Select another module if necessary, and provide reasoning just as above.]
+
+… repeat the Thought/Action pattern as needed …
+
+Thought: [Once you believe you have collected enough information to address the question, decide to stop.]
+
+The total list of selected modules:
+1. [First module called]
+2. [Second module called]
+…
+---
+
+Input: 
+- Location: [Loc]
+
+Answer: 

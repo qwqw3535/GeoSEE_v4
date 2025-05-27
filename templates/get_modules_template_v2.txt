@@ -1,0 +1,27 @@
+Given a modular set, determine the sequence of modules that should be executed with inputs to solve the below question.
+
+The modules are defined as follows:
+<MODULE_DESC>
+
+Question: <QUESTION>
+
+Use the following format enclosed in --- to solve the above question.
+
+---
+Thought: What is one of the most important modules should I call to answer this question?
+Action: [Reasons for selection]. Therefore I'll call [A single selected module_name with arguments]
+...
+Thought: Then, what should I additionally call to get the information for answering the question?
+Action: ...
+...
+Thought: Now I can get an enough information. I will stop.
+The total list of selected modules: 
+1. Module 1
+2. Module 2
+...
+---
+
+Input: 
+- Location of the region - [Loc]
+
+Answer: 

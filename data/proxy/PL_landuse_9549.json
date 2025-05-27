@@ -1,0 +1,3141 @@
+{
+  "PL922": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Ciechanowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2578.6000794768,
+          "Agricultural": 21832.5741162896,
+          "Commercial": 76.5625771284,
+          "Factory": 121.4001358747,
+          "Mining": 739.7992076278,
+          "Power station": 145.989141643,
+          "Transportation": 596.920432806,
+          "Sports": 1938.7649592161,
+          "Religious": 600.6707648039,
+          "Water": 357.2023600936,
+          "Others": 8714.887378931
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0670916397,
+          "Agricultural": 0.5680536534,
+          "Commercial": 0.0019920533,
+          "Factory": 0.0031586651,
+          "Mining": 0.0192485614,
+          "Power station": 0.0037984374,
+          "Transportation": 0.0155310515,
+          "Sports": 0.0504440068,
+          "Religious": 0.01562863,
+          "Water": 0.0092939158,
+          "Others": 0.2267494244
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5255.3128394175
+      }
+    }
+  },
+  "PL22C": {
+    "ADM0": "PL",
+    "ADM1": "\u015al\u0105skie",
+    "ADM2": "Tyski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1158.8052684665,
+          "Agricultural": 1528.5189264417,
+          "Commercial": 72.4196341634,
+          "Factory": 72.0360713601,
+          "Mining": 174.8074910045,
+          "Power station": 45.329779923,
+          "Transportation": 231.9737555981,
+          "Sports": 641.0388752222,
+          "Religious": 95.0965485573,
+          "Water": 282.5847099423,
+          "Others": 1694.1608472466
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1893782102,
+          "Agricultural": 0.2497988113,
+          "Commercial": 0.0118352074,
+          "Factory": 0.0117725235,
+          "Mining": 0.0285679835,
+          "Power station": 0.0074080372,
+          "Transportation": 0.0379104029,
+          "Sports": 0.1047620322,
+          "Religious": 0.0155411911,
+          "Water": 0.0461815182,
+          "Others": 0.2768689079
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 944.2749305985
+      }
+    }
+  },
+  "PL228": {
+    "ADM0": "PL",
+    "ADM1": "\u015al\u0105skie",
+    "ADM2": "Bytomski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1004.9984250665,
+          "Agricultural": 2471.6739907861,
+          "Commercial": 84.2824950218,
+          "Factory": 64.8714666963,
+          "Mining": 342.7811376452,
+          "Power station": 51.7244246006,
+          "Transportation": 440.7639056444,
+          "Sports": 685.8566010594,
+          "Religious": 162.2858017087,
+          "Water": 179.377981782,
+          "Others": 4634.6695430875
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0961997152,
+          "Agricultural": 0.2365917479,
+          "Commercial": 0.0080676266,
+          "Factory": 0.0062095785,
+          "Mining": 0.0328114423,
+          "Power station": 0.0049511271,
+          "Transportation": 0.0421904763,
+          "Sports": 0.0656510578,
+          "Religious": 0.0155342014,
+          "Water": 0.0171702864,
+          "Others": 0.4436364069
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 1577.2939722488
+      }
+    }
+  },
+  "PL229": {
+    "ADM0": "PL",
+    "ADM1": "\u015al\u0105skie",
+    "ADM2": "Gliwicki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 620.5371550918,
+          "Agricultural": 1627.4330676794,
+          "Commercial": 114.6842745543,
+          "Factory": 104.1095186472,
+          "Mining": 224.3101468086,
+          "Power station": 44.0960966349,
+          "Transportation": 396.8547211289,
+          "Sports": 450.676563859,
+          "Religious": 133.342022717,
+          "Water": 138.9378010631,
+          "Others": 1775.9623634815
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1076760637,
+          "Agricultural": 0.2823933833,
+          "Commercial": 0.0199000997,
+          "Factory": 0.0180651603,
+          "Mining": 0.0389224617,
+          "Power station": 0.0076515871,
+          "Transportation": 0.0688625232,
+          "Sports": 0.0782017289,
+          "Religious": 0.0231376059,
+          "Water": 0.0241085895,
+          "Others": 0.3081662959
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 879.2210211637
+      }
+    }
+  },
+  "PL22A": {
+    "ADM0": "PL",
+    "ADM1": "\u015al\u0105skie",
+    "ADM2": "Katowicki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 516.052891314,
+          "Agricultural": 73.1822636127,
+          "Commercial": 164.9369354248,
+          "Factory": 112.6404255033,
+          "Mining": 138.2691298127,
+          "Power station": 41.484472394,
+          "Transportation": 225.8449251652,
+          "Sports": 269.3487815261,
+          "Religious": 85.8915282488,
+          "Water": 64.9488635659,
+          "Others": 741.6393584013
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2078344307,
+          "Agricultural": 0.029473324,
+          "Commercial": 0.0664264742,
+          "Factory": 0.0453646498,
+          "Mining": 0.0556863189,
+          "Power station": 0.0167073993,
+          "Transportation": 0.0909564741,
+          "Sports": 0.1084771573,
+          "Religious": 0.0345918358,
+          "Water": 0.0261574159,
+          "Others": 0.2986868137
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 380.3031009022
+      }
+    }
+  },
+  "PL22B": {
+    "ADM0": "PL",
+    "ADM1": "\u015al\u0105skie",
+    "ADM2": "Sosnowiecki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1817.4607576132,
+          "Agricultural": 2842.9579609036,
+          "Commercial": 121.6942076683,
+          "Factory": 161.9536808133,
+          "Mining": 369.0262675285,
+          "Power station": 99.3422922492,
+          "Transportation": 616.1858869195,
+          "Sports": 626.7737195492,
+          "Religious": 197.7283932567,
+          "Water": 207.8656076789,
+          "Others": 4569.2800438404
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1530364397,
+          "Agricultural": 0.2393868273,
+          "Commercial": 0.0102470704,
+          "Factory": 0.0136370563,
+          "Mining": 0.0310732795,
+          "Power station": 0.0083649623,
+          "Transportation": 0.0518849686,
+          "Sports": 0.0527765005,
+          "Religious": 0.01664941,
+          "Water": 0.0175029983,
+          "Others": 0.3847490775
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 1802.0477537842
+      }
+    }
+  },
+  "PL224": {
+    "ADM0": "PL",
+    "ADM1": "\u015al\u0105skie",
+    "ADM2": "Cz\u0119stochowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2545.3999986053,
+          "Agricultural": 6391.577598989,
+          "Commercial": 97.478253901,
+          "Factory": 75.3525204659,
+          "Mining": 520.3053687811,
+          "Power station": 99.2676561475,
+          "Transportation": 665.4328284264,
+          "Sports": 1416.3862949014,
+          "Religious": 272.925234735,
+          "Water": 263.7680510879,
+          "Others": 7572.0316672921
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1248295816,
+          "Agricultural": 0.3134509146,
+          "Commercial": 0.0047804548,
+          "Factory": 0.0036953813,
+          "Mining": 0.0255164224,
+          "Power station": 0.0048682093,
+          "Transportation": 0.0326336535,
+          "Sports": 0.0694613454,
+          "Religious": 0.0133845929,
+          "Water": 0.0129355133,
+          "Others": 0.3713418502
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3048.1280817233
+      }
+    }
+  },
+  "PL225": {
+    "ADM0": "PL",
+    "ADM1": "\u015al\u0105skie",
+    "ADM2": "Bielski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3216.856718123,
+          "Agricultural": 2567.4571383595,
+          "Commercial": 98.9593454599,
+          "Factory": 81.5474145412,
+          "Mining": 220.7625856996,
+          "Power station": 37.5935544372,
+          "Transportation": 310.7672655582,
+          "Sports": 1268.7811442018,
+          "Religious": 216.6170678139,
+          "Water": 394.4917981625,
+          "Others": 6372.3701545
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2140717853,
+          "Agricultural": 0.1708562679,
+          "Commercial": 0.0065854359,
+          "Factory": 0.0054267262,
+          "Mining": 0.0146910618,
+          "Power station": 0.0025017338,
+          "Transportation": 0.0206805926,
+          "Sports": 0.0844334294,
+          "Religious": 0.0144151905,
+          "Water": 0.0262521993,
+          "Others": 0.4240613665
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2352.9158325067
+      }
+    }
+  },
+  "PL227": {
+    "ADM0": "PL",
+    "ADM1": "\u015al\u0105skie",
+    "ADM2": "Rybnicki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1943.3823164105,
+          "Agricultural": 2473.6925689578,
+          "Commercial": 88.7991831303,
+          "Factory": 54.2654557228,
+          "Mining": 339.2683410048,
+          "Power station": 51.8318135142,
+          "Transportation": 401.3945718408,
+          "Sports": 740.8040003181,
+          "Religious": 133.8143246174,
+          "Water": 364.338676095,
+          "Others": 2026.5393774509
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2213419495,
+          "Agricultural": 0.2817417505,
+          "Commercial": 0.0101138022,
+          "Factory": 0.0061805758,
+          "Mining": 0.0386410411,
+          "Power station": 0.0059033956,
+          "Transportation": 0.0457169216,
+          "Sports": 0.0843740319,
+          "Religious": 0.0152408115,
+          "Water": 0.0414964324,
+          "Others": 0.2308131409
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 1353.139018671
+      }
+    }
+  },
+  "PL822": {
+    "ADM0": "PL",
+    "ADM1": "Podkarpackie",
+    "ADM2": "Przemyski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2122.442533195,
+          "Agricultural": 10950.9555612803,
+          "Commercial": 58.9768414497,
+          "Factory": 33.1130653024,
+          "Mining": 399.6606535316,
+          "Power station": 65.0484384894,
+          "Transportation": 620.421913147,
+          "Sports": 1287.750466764,
+          "Religious": 343.672216177,
+          "Water": 487.7555440068,
+          "Others": 10959.0655062795
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.076437589,
+          "Agricultural": 0.3943874225,
+          "Commercial": 0.0021239904,
+          "Factory": 0.0011925331,
+          "Mining": 0.0143933682,
+          "Power station": 0.0023426527,
+          "Transportation": 0.0223438583,
+          "Sports": 0.0463770111,
+          "Religious": 0.0123770021,
+          "Water": 0.0175660152,
+          "Others": 0.3946794939
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4291.923150179
+      }
+    }
+  },
+  "PL622": {
+    "ADM0": "PL",
+    "ADM1": "Warmi\u0144sko-mazurskie",
+    "ADM2": "Olszty\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3283.7579336166,
+          "Agricultural": 17670.203363061,
+          "Commercial": 145.0122593045,
+          "Factory": 116.1856743097,
+          "Mining": 2119.7566388249,
+          "Power station": 265.6400901079,
+          "Transportation": 1171.8323185444,
+          "Sports": 8539.5473846197,
+          "Religious": 2581.1156592369,
+          "Water": 4482.912073195,
+          "Others": 37182.9163105488
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0414605431,
+          "Agricultural": 0.2231029944,
+          "Commercial": 0.0018309166,
+          "Factory": 0.0014669538,
+          "Mining": 0.0267639282,
+          "Power station": 0.0033539568,
+          "Transportation": 0.014795489,
+          "Sports": 0.1078198453,
+          "Religious": 0.0325890212,
+          "Water": 0.0566009958,
+          "Others": 0.4694694113
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 10330.4525311976
+      }
+    }
+  },
+  "PL722": {
+    "ADM0": "PL",
+    "ADM1": "\u015awi\u0119tokrzyskie",
+    "ADM2": "Sandomiersko-j\u0119drzejowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3596.0473909378,
+          "Agricultural": 25018.6839035749,
+          "Commercial": 57.1390020847,
+          "Factory": 54.97227633,
+          "Mining": 819.5390985608,
+          "Power station": 133.5819724798,
+          "Transportation": 1199.2183727026,
+          "Sports": 1835.746335268,
+          "Religious": 357.0336271524,
+          "Water": 746.6988504529,
+          "Others": 9672.7070550919
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0812207203,
+          "Agricultural": 0.5650747353,
+          "Commercial": 0.0012905478,
+          "Factory": 0.0012416099,
+          "Mining": 0.0185101999,
+          "Power station": 0.0030170971,
+          "Transportation": 0.0270856775,
+          "Sports": 0.0414623678,
+          "Religious": 0.0080640006,
+          "Water": 0.016865022,
+          "Others": 0.2184688211
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6678.4463110107
+      }
+    }
+  },
+  "PL616": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "Grudzi\u0105dzki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2032.5947694778,
+          "Agricultural": 13696.4023662806,
+          "Commercial": 80.5231644511,
+          "Factory": 69.6920226812,
+          "Mining": 913.0080565214,
+          "Power station": 103.761597693,
+          "Transportation": 362.6583449841,
+          "Sports": 3369.2012082934,
+          "Religious": 703.4105329514,
+          "Water": 1160.6477909684,
+          "Others": 7204.8352469206
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0672532432,
+          "Agricultural": 0.4531781215,
+          "Commercial": 0.0026643008,
+          "Factory": 0.0023059267,
+          "Mining": 0.030209048,
+          "Power station": 0.0034331998,
+          "Transportation": 0.0119994158,
+          "Sports": 0.1114780534,
+          "Religious": 0.0232740143,
+          "Water": 0.0384027989,
+          "Others": 0.2383891489
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4053.0215895007
+      }
+    }
+  },
+  "PL617": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "Inowroc\u0142awski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1540.343000114,
+          "Agricultural": 13792.027010262,
+          "Commercial": 78.2187874913,
+          "Factory": 95.0752570033,
+          "Mining": 979.8413615227,
+          "Power station": 132.0338635445,
+          "Transportation": 425.8991781473,
+          "Sports": 2186.5660065413,
+          "Religious": 621.4893684983,
+          "Water": 1001.5902037024,
+          "Others": 7933.3599299788
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0525104998,
+          "Agricultural": 0.4701720533,
+          "Commercial": 0.002666489,
+          "Factory": 0.0032411283,
+          "Mining": 0.0334029236,
+          "Power station": 0.0045010521,
+          "Transportation": 0.0145189602,
+          "Sports": 0.0745403289,
+          "Religious": 0.021186656,
+          "Water": 0.0341443446,
+          "Others": 0.2704493056
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4004.4088056983
+      }
+    }
+  },
+  "PL618": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "\u015awiecki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1145.7794966698,
+          "Agricultural": 7855.1123800278,
+          "Commercial": 36.7354685068,
+          "Factory": 47.0555230975,
+          "Mining": 780.1458117962,
+          "Power station": 100.2108346224,
+          "Transportation": 616.8742714524,
+          "Sports": 2415.9962224364,
+          "Religious": 508.0457587838,
+          "Water": 1179.0980570912,
+          "Others": 9853.2695277333
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0454151768,
+          "Agricultural": 0.3113525062,
+          "Commercial": 0.001456081,
+          "Factory": 0.0018651363,
+          "Mining": 0.0309225816,
+          "Power station": 0.0039720494,
+          "Transportation": 0.0244509997,
+          "Sports": 0.0957626629,
+          "Religious": 0.020137372,
+          "Water": 0.0467358222,
+          "Others": 0.3905533128
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3341.2961189554
+      }
+    }
+  },
+  "PL613": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "Bydgosko-toru\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2216.1966354847,
+          "Agricultural": 6431.6943555474,
+          "Commercial": 248.2947561145,
+          "Factory": 138.8382806778,
+          "Mining": 580.945263207,
+          "Power station": 85.5065013766,
+          "Transportation": 815.2098699212,
+          "Sports": 1507.8801423311,
+          "Religious": 413.5556802154,
+          "Water": 860.9380916357,
+          "Others": 7793.2367845178
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1024973007,
+          "Agricultural": 0.2974606584,
+          "Commercial": 0.0114834315,
+          "Factory": 0.0064211581,
+          "Mining": 0.0268682482,
+          "Power station": 0.0039546065,
+          "Transportation": 0.0377027967,
+          "Sports": 0.0697382362,
+          "Religious": 0.0191266155,
+          "Water": 0.0398176899,
+          "Others": 0.3604308937
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2917.5067978626
+      }
+    }
+  },
+  "PL619": {
+    "ADM0": "PL",
+    "ADM1": "Kujawsko-pomorskie",
+    "ADM2": "W\u0142oc\u0142awski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1899.8652089238,
+          "Agricultural": 13820.1782976985,
+          "Commercial": 68.9024290442,
+          "Factory": 53.8828350306,
+          "Mining": 651.3788471222,
+          "Power station": 96.8823992014,
+          "Transportation": 529.468219161,
+          "Sports": 1865.0056733489,
+          "Religious": 442.7444999814,
+          "Water": 762.829438746,
+          "Others": 5892.2833045125
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0716254556,
+          "Agricultural": 0.5210246295,
+          "Commercial": 0.0025976411,
+          "Factory": 0.0020313981,
+          "Mining": 0.0245571667,
+          "Power station": 0.0036524938,
+          "Transportation": 0.0199611016,
+          "Sports": 0.0703112412,
+          "Religious": 0.0166915928,
+          "Water": 0.0287588855,
+          "Others": 0.2221407466
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3656.0198299353
+      }
+    }
+  },
+  "PL414": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Koni\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3661.9639248848,
+          "Agricultural": 22827.2554793954,
+          "Commercial": 157.9103333354,
+          "Factory": 138.2969812751,
+          "Mining": 1297.8052047491,
+          "Power station": 153.9753335118,
+          "Transportation": 1122.2433623672,
+          "Sports": 3262.5928539634,
+          "Religious": 689.5619812608,
+          "Water": 1342.4272575378,
+          "Others": 10145.6107398272
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0802639822,
+          "Agricultural": 0.500334374,
+          "Commercial": 0.0034611243,
+          "Factory": 0.0030312332,
+          "Mining": 0.0284456691,
+          "Power station": 0.0033748758,
+          "Transportation": 0.0245976539,
+          "Sports": 0.0715104518,
+          "Religious": 0.0151140185,
+          "Water": 0.0294237081,
+          "Others": 0.2223744244
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6397.7560748781
+      }
+    }
+  },
+  "PL411": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Pilski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1828.8942358494,
+          "Agricultural": 15826.211791575,
+          "Commercial": 126.3660734296,
+          "Factory": 126.0314487815,
+          "Mining": 1267.4466204047,
+          "Power station": 217.8743878603,
+          "Transportation": 902.6000177264,
+          "Sports": 2918.9518740773,
+          "Religious": 988.3582931757,
+          "Water": 1570.1208263636,
+          "Others": 20657.246553421
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0382838114,
+          "Agricultural": 0.3312863558,
+          "Commercial": 0.0026451912,
+          "Factory": 0.0026381866,
+          "Mining": 0.0265311609,
+          "Power station": 0.0045607131,
+          "Transportation": 0.0188939131,
+          "Sports": 0.0611017306,
+          "Religious": 0.0206890709,
+          "Water": 0.0328669687,
+          "Others": 0.4324132662
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6457.5539410233
+      }
+    }
+  },
+  "PL415": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Miasto Pozna\u0144",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 433.5532976389,
+          "Agricultural": 140.3064292669,
+          "Commercial": 181.5992391109,
+          "Factory": 71.9915745258,
+          "Mining": 94.0701537132,
+          "Power station": 25.6640816331,
+          "Transportation": 170.3177736998,
+          "Sports": 155.8060606718,
+          "Religious": 50.9590848088,
+          "Water": 103.2999865413,
+          "Others": 415.7992526889
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2297579744,
+          "Agricultural": 0.0743542285,
+          "Commercial": 0.0962370107,
+          "Factory": 0.0381513379,
+          "Mining": 0.0498516978,
+          "Power station": 0.0136004672,
+          "Transportation": 0.0902584916,
+          "Sports": 0.0825681297,
+          "Religious": 0.0270053444,
+          "Water": 0.0547429711,
+          "Others": 0.2203493655
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 261.9501985679
+      }
+    }
+  },
+  "PL418": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Pozna\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2747.7347188592,
+          "Agricultural": 13863.2540231943,
+          "Commercial": 212.5117650032,
+          "Factory": 231.4393015504,
+          "Mining": 1192.6901550293,
+          "Power station": 148.5754494667,
+          "Transportation": 940.4776114821,
+          "Sports": 2752.4697340131,
+          "Religious": 661.8396129608,
+          "Water": 1310.868329525,
+          "Others": 10542.9443867207
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0776876564,
+          "Agricultural": 0.3919605876,
+          "Commercial": 0.0060084188,
+          "Factory": 0.0065435636,
+          "Mining": 0.0337213423,
+          "Power station": 0.0042007252,
+          "Transportation": 0.0265904496,
+          "Sports": 0.0778215311,
+          "Religious": 0.0187124208,
+          "Water": 0.0370626348,
+          "Others": 0.2980843221
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4928.3363376285
+      }
+    }
+  },
+  "PL416": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Kaliski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3431.3282327056,
+          "Agricultural": 22010.2419059277,
+          "Commercial": 199.8816021085,
+          "Factory": 199.5816240907,
+          "Mining": 641.3117569685,
+          "Power station": 103.1988865137,
+          "Transportation": 813.2253738046,
+          "Sports": 1933.2737582922,
+          "Religious": 445.2543158531,
+          "Water": 378.4156492352,
+          "Others": 9200.9019734263
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0853840355,
+          "Agricultural": 0.5476955709,
+          "Commercial": 0.0049737876,
+          "Factory": 0.004966323,
+          "Mining": 0.0159581894,
+          "Power station": 0.0025679669,
+          "Transportation": 0.0202360309,
+          "Sports": 0.048106944,
+          "Religious": 0.0110795609,
+          "Water": 0.0094163697,
+          "Others": 0.2289521978
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5785.2650991121
+      }
+    }
+  },
+  "PL841": {
+    "ADM0": "PL",
+    "ADM1": "Podlaskie",
+    "ADM2": "Bia\u0142ostocki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2410.8169170618,
+          "Agricultural": 14054.3507426381,
+          "Commercial": 98.1304521561,
+          "Factory": 63.8595290184,
+          "Mining": 855.0995478034,
+          "Power station": 137.8397334814,
+          "Transportation": 847.9081602693,
+          "Sports": 1887.718796432,
+          "Religious": 712.5669224262,
+          "Water": 758.4966518879,
+          "Others": 15545.4233209491
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0630097728,
+          "Agricultural": 0.3673283694,
+          "Commercial": 0.0025647644,
+          "Factory": 0.0016690502,
+          "Mining": 0.0223491165,
+          "Power station": 0.0036026171,
+          "Transportation": 0.0221611605,
+          "Sports": 0.0493379367,
+          "Religious": 0.0186238447,
+          "Water": 0.0198242767,
+          "Others": 0.4062994517
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5132.2903998262
+      }
+    }
+  },
+  "PL417": {
+    "ADM0": "PL",
+    "ADM1": "Wielkopolskie",
+    "ADM2": "Leszczy\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2202.5470625162,
+          "Agricultural": 19666.6828596592,
+          "Commercial": 183.3346740007,
+          "Factory": 174.8353928924,
+          "Mining": 985.3060200214,
+          "Power station": 151.9315039515,
+          "Transportation": 1006.9219224453,
+          "Sports": 2933.9771596789,
+          "Religious": 666.5036168098,
+          "Water": 1068.9642199874,
+          "Others": 12345.8467463255
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0519407396,
+          "Agricultural": 0.4637821686,
+          "Commercial": 0.0043234212,
+          "Factory": 0.00412299,
+          "Mining": 0.0232356095,
+          "Power station": 0.0035828677,
+          "Transportation": 0.0237453584,
+          "Sports": 0.0691894154,
+          "Religious": 0.0157175714,
+          "Water": 0.0252084476,
+          "Others": 0.2911412981
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5995.167815289
+      }
+    }
+  },
+  "PL623": {
+    "ADM0": "PL",
+    "ADM1": "Warmi\u0144sko-mazurskie",
+    "ADM2": "E\u0142cki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1862.5186404586,
+          "Agricultural": 9674.8213828206,
+          "Commercial": 64.1363697648,
+          "Factory": 65.0349237919,
+          "Mining": 1507.1582254171,
+          "Power station": 164.6804387569,
+          "Transportation": 769.1658445597,
+          "Sports": 5571.5405190587,
+          "Religious": 1717.6198422313,
+          "Water": 3898.4909633398,
+          "Others": 22648.9469527006
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0381000029,
+          "Agricultural": 0.1979098166,
+          "Commercial": 0.0013119847,
+          "Factory": 0.0013303656,
+          "Mining": 0.0308306889,
+          "Power station": 0.0033687315,
+          "Transportation": 0.0157341893,
+          "Sports": 0.1139723948,
+          "Religious": 0.035135928,
+          "Water": 0.0797482042,
+          "Others": 0.4633107692
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6348.4865011992
+      }
+    }
+  },
+  "PL621": {
+    "ADM0": "PL",
+    "ADM1": "Warmi\u0144sko-mazurskie",
+    "ADM2": "Elbl\u0105ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2507.6349440217,
+          "Agricultural": 17998.1312265992,
+          "Commercial": 107.4605205059,
+          "Factory": 119.7109743357,
+          "Mining": 1644.7104877234,
+          "Power station": 199.9380666018,
+          "Transportation": 975.6143323779,
+          "Sports": 5063.3661356568,
+          "Religious": 1513.7062935829,
+          "Water": 2611.6144976616,
+          "Others": 22274.1986503005
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0446850377,
+          "Agricultural": 0.3207193989,
+          "Commercial": 0.0019149029,
+          "Factory": 0.002133201,
+          "Mining": 0.0293080738,
+          "Power station": 0.0035628153,
+          "Transportation": 0.0173850517,
+          "Sports": 0.090227131,
+          "Religious": 0.0269736322,
+          "Water": 0.0465379111,
+          "Others": 0.3969171861
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 7333.1790797008
+      }
+    }
+  },
+  "PL424": {
+    "ADM0": "PL",
+    "ADM1": "Zachodniopomorskie",
+    "ADM2": "Miasto Szczecin",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 365.6396518946,
+          "Agricultural": 75.3635261655,
+          "Commercial": 112.6505176425,
+          "Factory": 56.6462403536,
+          "Mining": 51.9557676315,
+          "Power station": 19.1805684566,
+          "Transportation": 179.5595430136,
+          "Sports": 118.787974596,
+          "Religious": 42.3700514436,
+          "Water": 237.5318946242,
+          "Others": 967.3736522794
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1617874566,
+          "Agricultural": 0.033346693,
+          "Commercial": 0.0498453618,
+          "Factory": 0.0250647081,
+          "Mining": 0.0229892777,
+          "Power station": 0.0084869772,
+          "Transportation": 0.0794511252,
+          "Sports": 0.0525610507,
+          "Religious": 0.0187478104,
+          "Water": 0.1051026082,
+          "Others": 0.4280414391
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 300.295502677
+      }
+    }
+  },
+  "PL427": {
+    "ADM0": "PL",
+    "ADM1": "Zachodniopomorskie",
+    "ADM2": "Szczecinecko-pyrzycki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2206.4250218272,
+          "Agricultural": 16763.1300247312,
+          "Commercial": 102.7837327719,
+          "Factory": 122.6595686674,
+          "Mining": 1537.0047562122,
+          "Power station": 246.3742930293,
+          "Transportation": 1210.2624619603,
+          "Sports": 4348.3001059294,
+          "Religious": 2043.3793837428,
+          "Water": 4530.0983429551,
+          "Others": 42615.3912420869
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0284150035,
+          "Agricultural": 0.2158806185,
+          "Commercial": 0.0013236798,
+          "Factory": 0.0015796467,
+          "Mining": 0.0197940085,
+          "Power station": 0.0031728821,
+          "Transportation": 0.0155861231,
+          "Sports": 0.0559987135,
+          "Religious": 0.0263152528,
+          "Water": 0.0583399658,
+          "Others": 0.5488137958
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 10338.9264420453
+      }
+    }
+  },
+  "PL428": {
+    "ADM0": "PL",
+    "ADM1": "Zachodniopomorskie",
+    "ADM2": "Szczeci\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2227.5737775564,
+          "Agricultural": 14092.4434484243,
+          "Commercial": 152.8700124025,
+          "Factory": 163.8848330975,
+          "Mining": 1391.0074173808,
+          "Power station": 277.7172231674,
+          "Transportation": 1331.3227811456,
+          "Sports": 3627.8867446184,
+          "Religious": 1644.2930900455,
+          "Water": 2434.436060369,
+          "Others": 27523.3825549483
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0396930466,
+          "Agricultural": 0.2511126773,
+          "Commercial": 0.0027239845,
+          "Factory": 0.0029202572,
+          "Mining": 0.0247863047,
+          "Power station": 0.0049486319,
+          "Transportation": 0.0237227865,
+          "Sports": 0.0646451665,
+          "Religious": 0.0292995918,
+          "Water": 0.0433791173,
+          "Others": 0.4904380355
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 7441.3242926743
+      }
+    }
+  },
+  "PL426": {
+    "ADM0": "PL",
+    "ADM1": "Zachodniopomorskie",
+    "ADM2": "Koszali\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1802.1139522791,
+          "Agricultural": 8305.6613346934,
+          "Commercial": 115.4844583273,
+          "Factory": 66.1648150086,
+          "Mining": 813.492280364,
+          "Power station": 232.208404541,
+          "Transportation": 612.9358724356,
+          "Sports": 2021.6959150434,
+          "Religious": 906.2730467319,
+          "Water": 1121.0924555659,
+          "Others": 17136.9185694456
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0530689072,
+          "Agricultural": 0.2445862929,
+          "Commercial": 0.0034008027,
+          "Factory": 0.0019484309,
+          "Mining": 0.023955836,
+          "Power station": 0.006838106,
+          "Transportation": 0.0180498225,
+          "Sports": 0.059535188,
+          "Religious": 0.0266880572,
+          "Water": 0.0330140896,
+          "Others": 0.5046504084
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4365.8073412992
+      }
+    }
+  },
+  "PL842": {
+    "ADM0": "PL",
+    "ADM1": "Podlaskie",
+    "ADM2": "\u0141om\u017cy\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3368.121520102,
+          "Agricultural": 30304.382609129,
+          "Commercial": 82.149979651,
+          "Factory": 60.6692900062,
+          "Mining": 1351.570166707,
+          "Power station": 218.434361577,
+          "Transportation": 1164.5534371734,
+          "Sports": 2857.5153613687,
+          "Religious": 918.9419077635,
+          "Water": 900.8030783534,
+          "Others": 22127.3905799985
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0520937518,
+          "Agricultural": 0.4687090342,
+          "Commercial": 0.0012705897,
+          "Factory": 0.0009383542,
+          "Mining": 0.020904341,
+          "Power station": 0.0033784605,
+          "Transportation": 0.0180118079,
+          "Sports": 0.0441963554,
+          "Religious": 0.0142130061,
+          "Water": 0.0139324581,
+          "Others": 0.3422378869
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 8817.8271237359
+      }
+    }
+  },
+  "PL515": {
+    "ADM0": "PL",
+    "ADM1": "Dolno\u015bl\u0105skie",
+    "ADM2": "Jeleniog\u00f3rski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2701.722600162,
+          "Agricultural": 10380.0725800991,
+          "Commercial": 114.9816197157,
+          "Factory": 85.3147366047,
+          "Mining": 1054.3156902194,
+          "Power station": 136.8817750812,
+          "Transportation": 998.2601882219,
+          "Sports": 2325.2637432218,
+          "Religious": 743.584836483,
+          "Water": 815.4343065619,
+          "Others": 17553.5130653977
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0716428257,
+          "Agricultural": 0.2752531776,
+          "Commercial": 0.0030490207,
+          "Factory": 0.0022623303,
+          "Mining": 0.027957776,
+          "Power station": 0.0036297572,
+          "Transportation": 0.0264713264,
+          "Sports": 0.0616600924,
+          "Religious": 0.0197179825,
+          "Water": 0.021623248,
+          "Others": 0.4654746113
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5570.265087134
+      }
+    }
+  },
+  "PL516": {
+    "ADM0": "PL",
+    "ADM1": "Dolno\u015bl\u0105skie",
+    "ADM2": "Legnicko-g\u0142ogowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1139.9812851548,
+          "Agricultural": 8161.8823609948,
+          "Commercial": 120.4616316557,
+          "Factory": 94.2202185392,
+          "Mining": 735.0237187147,
+          "Power station": 134.3921748996,
+          "Transportation": 761.7476482987,
+          "Sports": 1191.6322883368,
+          "Religious": 619.6804400682,
+          "Water": 910.8012545705,
+          "Others": 9581.9680790305
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0476660514,
+          "Agricultural": 0.3412728868,
+          "Commercial": 0.0050368637,
+          "Factory": 0.0039396311,
+          "Mining": 0.0307335557,
+          "Power station": 0.0056193416,
+          "Transportation": 0.0318509637,
+          "Sports": 0.0498257354,
+          "Religious": 0.0259107058,
+          "Water": 0.038083344,
+          "Others": 0.4006509483
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3472.8648614598
+      }
+    }
+  },
+  "PL518": {
+    "ADM0": "PL",
+    "ADM1": "Dolno\u015bl\u0105skie",
+    "ADM2": "Wroc\u0142awski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3107.0560697317,
+          "Agricultural": 18083.7935603261,
+          "Commercial": 147.1549252868,
+          "Factory": 182.0733287334,
+          "Mining": 760.1684725881,
+          "Power station": 145.4958357215,
+          "Transportation": 1261.4637053013,
+          "Sports": 2373.4701797366,
+          "Religious": 734.6261015534,
+          "Water": 1331.0324264169,
+          "Others": 14721.7346048355
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0710216712,
+          "Agricultural": 0.4133627494,
+          "Commercial": 0.0033636949,
+          "Factory": 0.0041618663,
+          "Mining": 0.0173760737,
+          "Power station": 0.0033257711,
+          "Transportation": 0.0288347743,
+          "Sports": 0.0542532271,
+          "Religious": 0.0167922214,
+          "Water": 0.0304249892,
+          "Others": 0.3365121744
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6433.1511826463
+      }
+    }
+  },
+  "PL517": {
+    "ADM0": "PL",
+    "ADM1": "Dolno\u015bl\u0105skie",
+    "ADM2": "Wa\u0142brzyski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2275.5569152832,
+          "Agricultural": 9709.8388651013,
+          "Commercial": 113.1857600808,
+          "Factory": 86.4536823034,
+          "Mining": 575.971868217,
+          "Power station": 59.7890831828,
+          "Transportation": 583.9278355241,
+          "Sports": 2045.4405884147,
+          "Religious": 518.3367694616,
+          "Water": 305.6058044434,
+          "Others": 10986.3031939268
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0821085702,
+          "Agricultural": 0.3503586225,
+          "Commercial": 0.0040840644,
+          "Factory": 0.0031194949,
+          "Mining": 0.0207827043,
+          "Power station": 0.0021573603,
+          "Transportation": 0.0210697783,
+          "Sports": 0.0738053182,
+          "Religious": 0.0187030659,
+          "Water": 0.0110271272,
+          "Others": 0.3964170886
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4180.1312664887
+      }
+    }
+  },
+  "PL514": {
+    "ADM0": "PL",
+    "ADM1": "Dolno\u015bl\u0105skie",
+    "ADM2": "Miasto Wroc\u0142aw",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 207.9347958565,
+          "Agricultural": 184.1176505685,
+          "Commercial": 191.0270782709,
+          "Factory": 107.1629556417,
+          "Mining": 112.1163279414,
+          "Power station": 44.7895459533,
+          "Transportation": 223.7475200295,
+          "Sports": 133.2566211224,
+          "Religious": 101.246581316,
+          "Water": 122.7066378593,
+          "Others": 513.2316129208
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1049116023,
+          "Agricultural": 0.0928948792,
+          "Commercial": 0.0963809678,
+          "Factory": 0.0540680906,
+          "Mining": 0.0565672694,
+          "Power station": 0.0225981564,
+          "Transportation": 0.1128897679,
+          "Sports": 0.0672334113,
+          "Religious": 0.051083038,
+          "Water": 0.0619105136,
+          "Others": 0.2589463234
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 292.0678664413
+      }
+    }
+  },
+  "PL524": {
+    "ADM0": "PL",
+    "ADM1": "Opolskie",
+    "ADM2": "Opolski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2449.164738059,
+          "Agricultural": 13869.5144921541,
+          "Commercial": 129.8090183735,
+          "Factory": 131.6431037188,
+          "Mining": 679.7734229565,
+          "Power station": 164.3639236093,
+          "Transportation": 1169.7273631692,
+          "Sports": 1692.6983419061,
+          "Religious": 510.1388055086,
+          "Water": 622.6952427626,
+          "Others": 13138.4641548991
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0691541884,
+          "Agricultural": 0.3916171926,
+          "Commercial": 0.0036652648,
+          "Factory": 0.0037170517,
+          "Mining": 0.0191939638,
+          "Power station": 0.0046409511,
+          "Transportation": 0.0330282178,
+          "Sports": 0.0477947352,
+          "Religious": 0.0144041904,
+          "Water": 0.0175823143,
+          "Others": 0.3709753827
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5319.3752528545
+      }
+    }
+  },
+  "PL523": {
+    "ADM0": "PL",
+    "ADM1": "Opolskie",
+    "ADM2": "Nyski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1411.1071799994,
+          "Agricultural": 13662.5917468667,
+          "Commercial": 82.4460483193,
+          "Factory": 78.2067286968,
+          "Mining": 345.2132737041,
+          "Power station": 100.3047513962,
+          "Transportation": 634.5670118928,
+          "Sports": 1301.00722754,
+          "Religious": 507.1822857261,
+          "Water": 615.8786169887,
+          "Others": 7973.537828207
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0520665331,
+          "Agricultural": 0.5041174728,
+          "Commercial": 0.0030420651,
+          "Factory": 0.0028856442,
+          "Mining": 0.0127375571,
+          "Power station": 0.0037010092,
+          "Transportation": 0.0234140289,
+          "Sports": 0.048004104,
+          "Religious": 0.0187138324,
+          "Water": 0.0227244711,
+          "Others": 0.2942047756
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4092.8865815746
+      }
+    }
+  },
+  "PL714": {
+    "ADM0": "PL",
+    "ADM1": "\u0141\u00f3dzkie",
+    "ADM2": "Sieradzki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3553.9271031022,
+          "Agricultural": 20419.0394561887,
+          "Commercial": 84.9357584119,
+          "Factory": 66.2073295116,
+          "Mining": 813.0666407347,
+          "Power station": 126.9610691071,
+          "Transportation": 930.5991175771,
+          "Sports": 1865.0547489524,
+          "Religious": 442.3914592266,
+          "Water": 523.3559334874,
+          "Others": 9344.5399699807
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0910283055,
+          "Agricultural": 0.5230018815,
+          "Commercial": 0.0021754971,
+          "Factory": 0.0016957976,
+          "Mining": 0.0208254352,
+          "Power station": 0.00325191,
+          "Transportation": 0.0238358465,
+          "Sports": 0.0477704715,
+          "Religious": 0.011331168,
+          "Water": 0.0134049468,
+          "Others": 0.2393458319
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5667.6258101272
+      }
+    }
+  },
+  "PL713": {
+    "ADM0": "PL",
+    "ADM1": "\u0141\u00f3dzkie",
+    "ADM2": "Piotrkowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 4113.9060215354,
+          "Agricultural": 16035.9033969641,
+          "Commercial": 104.5968865156,
+          "Factory": 130.4281949997,
+          "Mining": 1021.8819544315,
+          "Power station": 177.7789564729,
+          "Transportation": 1256.2258250117,
+          "Sports": 2150.0456792116,
+          "Religious": 420.3940634131,
+          "Water": 704.6989891529,
+          "Others": 13651.654178381
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1007125446,
+          "Agricultural": 0.392574995,
+          "Commercial": 0.0025606367,
+          "Factory": 0.003193013,
+          "Mining": 0.0250166949,
+          "Power station": 0.0043522071,
+          "Transportation": 0.0307536679,
+          "Sports": 0.0526352742,
+          "Religious": 0.0102916682,
+          "Water": 0.0172517379,
+          "Others": 0.3342061834
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5970.3360729766
+      }
+    }
+  },
+  "PL712": {
+    "ADM0": "PL",
+    "ADM1": "\u0141\u00f3dzkie",
+    "ADM2": "\u0141\u00f3dzki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2495.5811669827,
+          "Agricultural": 6193.6186273098,
+          "Commercial": 96.8120006323,
+          "Factory": 91.0189902782,
+          "Mining": 398.8078246713,
+          "Power station": 84.0013102889,
+          "Transportation": 595.6525924206,
+          "Sports": 926.065356791,
+          "Religious": 242.3869568706,
+          "Water": 147.8659259677,
+          "Others": 3825.0467624068
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.162008645,
+          "Agricultural": 0.4020785917,
+          "Commercial": 0.0062848611,
+          "Factory": 0.0059087893,
+          "Mining": 0.0258898873,
+          "Power station": 0.0054532141,
+          "Transportation": 0.038668696,
+          "Sports": 0.0601184989,
+          "Religious": 0.0157353257,
+          "Water": 0.0095991902,
+          "Others": 0.2483151625
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2206.5882706058
+      }
+    }
+  },
+  "PL711": {
+    "ADM0": "PL",
+    "ADM1": "\u0141\u00f3dzkie",
+    "ADM2": "Miasto \u0141\u00f3d\u017a",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 429.6317217946,
+          "Agricultural": 151.2738912106,
+          "Commercial": 226.5781319737,
+          "Factory": 123.5029557347,
+          "Mining": 115.0602489114,
+          "Power station": 34.9164954424,
+          "Transportation": 149.8686679006,
+          "Sports": 126.5697193742,
+          "Religious": 99.0730339885,
+          "Water": 9.9602418542,
+          "Others": 545.5220329762
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.209678732,
+          "Agricultural": 0.0738281558,
+          "Commercial": 0.1105798594,
+          "Factory": 0.0602747466,
+          "Mining": 0.0561543431,
+          "Power station": 0.0170407494,
+          "Transportation": 0.0731423465,
+          "Sports": 0.0617714589,
+          "Religious": 0.0483518956,
+          "Water": 0.0048610258,
+          "Others": 0.2662381811
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 293.456829366
+      }
+    }
+  },
+  "PL715": {
+    "ADM0": "PL",
+    "ADM1": "\u0141\u00f3dzkie",
+    "ADM2": "Skierniewicki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2442.0635190606,
+          "Agricultural": 18713.0605472326,
+          "Commercial": 84.3937587738,
+          "Factory": 69.8127033114,
+          "Mining": 447.4180065989,
+          "Power station": 92.5782394409,
+          "Transportation": 775.5673338175,
+          "Sports": 1135.7682186365,
+          "Religious": 279.7231550813,
+          "Water": 254.9051209688,
+          "Others": 4116.2945815921
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0848292177,
+          "Agricultural": 0.6500298926,
+          "Commercial": 0.0029315603,
+          "Factory": 0.0024250626,
+          "Mining": 0.0155418232,
+          "Power station": 0.0032158621,
+          "Transportation": 0.0269406466,
+          "Sports": 0.0394528352,
+          "Religious": 0.0097166582,
+          "Water": 0.0088545617,
+          "Others": 0.1429864729
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4080.4231161227
+      }
+    }
+  },
+  "PL637": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Chojnicki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1381.6258792877,
+          "Agricultural": 7155.7441210151,
+          "Commercial": 48.6616407633,
+          "Factory": 45.9235280752,
+          "Mining": 959.5294798017,
+          "Power station": 119.3878414035,
+          "Transportation": 690.9125796556,
+          "Sports": 2569.925896287,
+          "Religious": 616.3840402365,
+          "Water": 1755.6891257763,
+          "Others": 15272.2924732566
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0438625315,
+          "Agricultural": 0.2271736919,
+          "Commercial": 0.001544863,
+          "Factory": 0.0014579361,
+          "Mining": 0.0304622204,
+          "Power station": 0.0037902105,
+          "Transportation": 0.021934429,
+          "Sports": 0.0815875392,
+          "Religious": 0.0195683685,
+          "Water": 0.0557379322,
+          "Others": 0.4848500738
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4105.6185855215
+      }
+    }
+  },
+  "PL638": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Starogardzki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1920.2595660686,
+          "Agricultural": 11657.3901916146,
+          "Commercial": 81.8016619086,
+          "Factory": 87.2705815434,
+          "Mining": 868.5250191689,
+          "Power station": 136.9836069345,
+          "Transportation": 689.5221637487,
+          "Sports": 2909.4636750817,
+          "Religious": 833.9445689917,
+          "Water": 1192.6353779435,
+          "Others": 10518.3330588937
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0609548159,
+          "Agricultural": 0.3700406371,
+          "Commercial": 0.0025966309,
+          "Factory": 0.0027702308,
+          "Mining": 0.0275695972,
+          "Power station": 0.0043482718,
+          "Transportation": 0.021887508,
+          "Sports": 0.0923551305,
+          "Religious": 0.0264719096,
+          "Water": 0.0378578351,
+          "Others": 0.3338835368
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4101.4597423447
+      }
+    }
+  },
+  "PL633": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Tr\u00f3jmiejski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 524.102694571,
+          "Agricultural": 207.5323124528,
+          "Commercial": 194.8253522515,
+          "Factory": 134.553206563,
+          "Mining": 150.9113197923,
+          "Power station": 70.4027748108,
+          "Transportation": 288.3603508472,
+          "Sports": 166.3037842512,
+          "Religious": 109.3912255168,
+          "Water": 187.0087830424,
+          "Others": 1184.1381949186
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1598361374,
+          "Agricultural": 0.0632913426,
+          "Commercial": 0.0594160879,
+          "Factory": 0.0410348297,
+          "Mining": 0.0460235803,
+          "Power station": 0.0214708066,
+          "Transportation": 0.0879415526,
+          "Sports": 0.050717836,
+          "Religious": 0.0333611545,
+          "Water": 0.0570322608,
+          "Others": 0.3611278423
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 415.6190588394
+      }
+    }
+  },
+  "PL634": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "Gda\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3901.1558289528,
+          "Agricultural": 10847.0322389007,
+          "Commercial": 125.3626673818,
+          "Factory": 94.6161011457,
+          "Mining": 778.727617979,
+          "Power station": 119.1215108633,
+          "Transportation": 439.992323935,
+          "Sports": 2695.6004547477,
+          "Religious": 632.8379480839,
+          "Water": 1297.6968007088,
+          "Others": 12438.3186452985
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1148953239,
+          "Agricultural": 0.319462574,
+          "Commercial": 0.0036921325,
+          "Factory": 0.0027865966,
+          "Mining": 0.0229347829,
+          "Power station": 0.0035083204,
+          "Transportation": 0.0129584828,
+          "Sports": 0.079389776,
+          "Religious": 0.0186380971,
+          "Water": 0.0382192614,
+          "Others": 0.3663285223
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4305.0607960595
+      }
+    }
+  },
+  "PL636": {
+    "ADM0": "PL",
+    "ADM1": "Pomorskie",
+    "ADM2": "S\u0142upski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1771.9576351643,
+          "Agricultural": 8414.938301146,
+          "Commercial": 74.9030997157,
+          "Factory": 72.7840393186,
+          "Mining": 893.157697916,
+          "Power station": 176.5052535534,
+          "Transportation": 566.9443614483,
+          "Sports": 2323.3620623946,
+          "Religious": 940.1105921268,
+          "Water": 1868.6539443731,
+          "Others": 23038.1066814065
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.043015989,
+          "Agricultural": 0.2042807832,
+          "Commercial": 0.0018183453,
+          "Factory": 0.0017669031,
+          "Mining": 0.0216822688,
+          "Power station": 0.0042848361,
+          "Transportation": 0.0137631239,
+          "Sports": 0.0564018659,
+          "Religious": 0.0228220958,
+          "Water": 0.0453633856,
+          "Others": 0.5592723686
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5245.8974931876
+      }
+    }
+  },
+  "PL843": {
+    "ADM0": "PL",
+    "ADM1": "Podlaskie",
+    "ADM2": "Suwalski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2577.90684551,
+          "Agricultural": 17034.373123765,
+          "Commercial": 53.8604596257,
+          "Factory": 45.7601187229,
+          "Mining": 1136.7771100402,
+          "Power station": 155.7737521529,
+          "Transportation": 797.5057925582,
+          "Sports": 3586.9869374633,
+          "Religious": 995.6512030959,
+          "Water": 2001.8310437202,
+          "Others": 18528.8020661473
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.054039637,
+          "Agricultural": 0.3570847963,
+          "Commercial": 0.0011290554,
+          "Factory": 0.0009592512,
+          "Mining": 0.0238298069,
+          "Power station": 0.0032654233,
+          "Transportation": 0.0167177971,
+          "Sports": 0.0751925821,
+          "Religious": 0.0208714406,
+          "Water": 0.0419635889,
+          "Others": 0.3884119165
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6234.7001704061
+      }
+    }
+  },
+  "PL431": {
+    "ADM0": "PL",
+    "ADM1": "Lubuskie",
+    "ADM2": "Gorzowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1480.2278474569,
+          "Agricultural": 10294.020401299,
+          "Commercial": 107.8701502085,
+          "Factory": 112.8711788654,
+          "Mining": 770.9903358817,
+          "Power station": 158.3987004757,
+          "Transportation": 1177.2637338042,
+          "Sports": 2143.8877075911,
+          "Religious": 918.3477264643,
+          "Water": 2470.2943711877,
+          "Others": 23249.6137962341
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0334635766,
+          "Agricultural": 0.2327173758,
+          "Commercial": 0.0024386253,
+          "Factory": 0.0025516837,
+          "Mining": 0.0174298127,
+          "Power station": 0.0035809264,
+          "Transportation": 0.0266144534,
+          "Sports": 0.0484669645,
+          "Religious": 0.0207611278,
+          "Water": 0.0558460544,
+          "Others": 0.5256050503
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6111.8805209757
+      }
+    }
+  },
+  "PL432": {
+    "ADM0": "PL",
+    "ADM1": "Lubuskie",
+    "ADM2": "Zielonog\u00f3rski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2546.0457614064,
+          "Agricultural": 14326.9957005978,
+          "Commercial": 172.5058746934,
+          "Factory": 166.923494935,
+          "Mining": 842.5593631268,
+          "Power station": 179.9700905085,
+          "Transportation": 1578.3041258454,
+          "Sports": 2283.0414559841,
+          "Religious": 1031.5065523982,
+          "Water": 1985.9322625399,
+          "Others": 28149.8122407198
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0461574649,
+          "Agricultural": 0.2597352375,
+          "Commercial": 0.0031273726,
+          "Factory": 0.0030261692,
+          "Mining": 0.0152748253,
+          "Power station": 0.003262692,
+          "Transportation": 0.0286132003,
+          "Sports": 0.041389439,
+          "Religious": 0.0187002638,
+          "Water": 0.036003123,
+          "Others": 0.5103301712
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 7874.2516891784
+      }
+    }
+  },
+  "PL923": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "P\u0142ocki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1780.8432216644,
+          "Agricultural": 13236.0670415759,
+          "Commercial": 77.2262784839,
+          "Factory": 58.5165477395,
+          "Mining": 511.5735920072,
+          "Power station": 117.1390258074,
+          "Transportation": 403.5841382742,
+          "Sports": 1700.7288254499,
+          "Religious": 339.3397240043,
+          "Water": 592.4524713159,
+          "Others": 5031.2296125889
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0734640989,
+          "Agricultural": 0.5460198441,
+          "Commercial": 0.0031857712,
+          "Factory": 0.0024139494,
+          "Mining": 0.0211036505,
+          "Power station": 0.0048322687,
+          "Transportation": 0.0166488238,
+          "Sports": 0.0701591859,
+          "Religious": 0.013998586,
+          "Water": 0.0244401003,
+          "Others": 0.2075504151
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3351.2779515778
+      }
+    }
+  },
+  "PL925": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Siedlecki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3462.0272144079,
+          "Agricultural": 21772.3616627455,
+          "Commercial": 77.3921332955,
+          "Factory": 90.2934350967,
+          "Mining": 836.8886553049,
+          "Power station": 127.0230945945,
+          "Transportation": 770.4552212358,
+          "Sports": 2062.7202959657,
+          "Religious": 544.160941124,
+          "Water": 644.79600209,
+          "Others": 11693.6806938648
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0805160057,
+          "Agricultural": 0.5063575437,
+          "Commercial": 0.0017999008,
+          "Factory": 0.002099945,
+          "Mining": 0.0194634321,
+          "Power station": 0.0029541629,
+          "Transportation": 0.0179183967,
+          "Sports": 0.0479724707,
+          "Religious": 0.0126554942,
+          "Water": 0.0149959533,
+          "Others": 0.2719587119
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6044.1025105984
+      }
+    }
+  },
+  "PL924": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Ostro\u0142\u0119cki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3279.2049356699,
+          "Agricultural": 22514.271894455,
+          "Commercial": 72.3676477671,
+          "Factory": 63.9098496437,
+          "Mining": 1002.5822831988,
+          "Power station": 138.2799471617,
+          "Transportation": 953.2230852246,
+          "Sports": 2864.5379728079,
+          "Religious": 751.0697298646,
+          "Water": 739.7053185701,
+          "Others": 14393.3927397132
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0684151162,
+          "Agricultural": 0.4697225573,
+          "Commercial": 0.0015098297,
+          "Factory": 0.0013333719,
+          "Mining": 0.0209171994,
+          "Power station": 0.0028849794,
+          "Transportation": 0.0198874024,
+          "Sports": 0.0597637849,
+          "Religious": 0.0156698114,
+          "Water": 0.015432712,
+          "Others": 0.3002940214
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6505.8684042667
+      }
+    }
+  },
+  "PL926": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "\u017byrardowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1705.1019689441,
+          "Agricultural": 10254.2102470398,
+          "Commercial": 52.7256255746,
+          "Factory": 51.8972694278,
+          "Mining": 300.0158318281,
+          "Power station": 57.9485726357,
+          "Transportation": 392.9075447917,
+          "Sports": 740.4632706046,
+          "Religious": 186.5277367234,
+          "Water": 448.6251795888,
+          "Others": 3409.04271245
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0954223498,
+          "Agricultural": 0.5738547343,
+          "Commercial": 0.0029506758,
+          "Factory": 0.0029043186,
+          "Mining": 0.0167897382,
+          "Power station": 0.0032429667,
+          "Transportation": 0.0219882223,
+          "Sports": 0.041438428,
+          "Religious": 0.010438622,
+          "Water": 0.0251063394,
+          "Others": 0.1907797142
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2535.7549017393
+      }
+    }
+  },
+  "PL921": {
+    "ADM0": "PL",
+    "ADM1": "Mazowiecki regionalny",
+    "ADM2": "Radomski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3557.9735554457,
+          "Agricultural": 18023.0043699145,
+          "Commercial": 113.2084908485,
+          "Factory": 183.5688827038,
+          "Mining": 767.7851258516,
+          "Power station": 153.5749679208,
+          "Transportation": 959.5576784015,
+          "Sports": 1857.88729316,
+          "Religious": 415.4139543176,
+          "Water": 822.4790537953,
+          "Others": 11891.8588287234
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0899659542,
+          "Agricultural": 0.4557247995,
+          "Commercial": 0.0028625592,
+          "Factory": 0.004641673,
+          "Mining": 0.0194140064,
+          "Power station": 0.003883255,
+          "Transportation": 0.0242631152,
+          "Sports": 0.0469780341,
+          "Religious": 0.0105040446,
+          "Water": 0.0207969822,
+          "Others": 0.3006943165
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5763.4921673742
+      }
+    }
+  },
+  "PL721": {
+    "ADM0": "PL",
+    "ADM1": "\u015awi\u0119tokrzyskie",
+    "ADM2": "Kielecki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3930.0244610906,
+          "Agricultural": 8721.1005454063,
+          "Commercial": 120.4363250732,
+          "Factory": 125.0373699665,
+          "Mining": 697.9407894611,
+          "Power station": 144.7584787607,
+          "Transportation": 1003.9402816296,
+          "Sports": 1343.0806067586,
+          "Religious": 377.9130817056,
+          "Water": 451.3108772039,
+          "Others": 16206.1249739528
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1160703051,
+          "Agricultural": 0.2575711198,
+          "Commercial": 0.0035569959,
+          "Factory": 0.0036928843,
+          "Mining": 0.0206131542,
+          "Power station": 0.0042753324,
+          "Transportation": 0.0296506182,
+          "Sports": 0.0396668716,
+          "Religious": 0.0111613775,
+          "Water": 0.013329126,
+          "Others": 0.4786356648
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5030.3201919499
+      }
+    }
+  },
+  "PL823": {
+    "ADM0": "PL",
+    "ADM1": "Podkarpackie",
+    "ADM2": "Rzeszowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3346.1731652021,
+          "Agricultural": 8712.0813513398,
+          "Commercial": 105.2515278459,
+          "Factory": 76.9887530208,
+          "Mining": 500.7547079921,
+          "Power station": 69.5539810658,
+          "Transportation": 660.4854089022,
+          "Sports": 2171.5125032663,
+          "Religious": 266.0096598864,
+          "Water": 176.4211596847,
+          "Others": 6505.7365396619
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1452899642,
+          "Agricultural": 0.3782762951,
+          "Commercial": 0.0045699938,
+          "Factory": 0.0033428315,
+          "Mining": 0.0217426385,
+          "Power station": 0.0030200157,
+          "Transportation": 0.0286781038,
+          "Sports": 0.0942865053,
+          "Religious": 0.0115500699,
+          "Water": 0.0076601606,
+          "Others": 0.28247738
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3551.3104026498
+      }
+    }
+  },
+  "PL821": {
+    "ADM0": "PL",
+    "ADM1": "Podkarpackie",
+    "ADM2": "Kro\u015bnie\u0144ski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2733.9516923428,
+          "Agricultural": 7130.3746789098,
+          "Commercial": 50.3828544617,
+          "Factory": 44.4396726489,
+          "Mining": 368.9617372155,
+          "Power station": 63.7885355353,
+          "Transportation": 440.8201508522,
+          "Sports": 2118.9689567685,
+          "Religious": 463.7246453166,
+          "Water": 795.8206763864,
+          "Others": 20344.5481898785
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0779747787,
+          "Agricultural": 0.2033647447,
+          "Commercial": 0.0014369646,
+          "Factory": 0.0012674597,
+          "Mining": 0.010523123,
+          "Power station": 0.0018193068,
+          "Transportation": 0.01257259,
+          "Sports": 0.0604349141,
+          "Religious": 0.0132258469,
+          "Water": 0.0226975266,
+          "Others": 0.580244943
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5538.1807014144
+      }
+    }
+  },
+  "PL824": {
+    "ADM0": "PL",
+    "ADM1": "Podkarpackie",
+    "ADM2": "Tarnobrzeski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3151.0973076224,
+          "Agricultural": 10306.9270547032,
+          "Commercial": 79.0948916078,
+          "Factory": 117.3258097172,
+          "Mining": 657.62864393,
+          "Power station": 113.5644854307,
+          "Transportation": 963.86282897,
+          "Sports": 1782.2489696145,
+          "Religious": 272.389901042,
+          "Water": 731.8277612329,
+          "Others": 10464.6067386866
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.107443307,
+          "Agricultural": 0.3514364108,
+          "Commercial": 0.0026969071,
+          "Factory": 0.0040004709,
+          "Mining": 0.0224232353,
+          "Power station": 0.0038722206,
+          "Transportation": 0.0328649355,
+          "Sports": 0.0607695366,
+          "Religious": 0.009287708,
+          "Water": 0.0249532106,
+          "Others": 0.3568128321
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4465.2658789418
+      }
+    }
+  },
+  "PL811": {
+    "ADM0": "PL",
+    "ADM1": "Lubelskie",
+    "ADM2": "Bialski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2318.9153119922,
+          "Agricultural": 19255.9180535674,
+          "Commercial": 71.3506780267,
+          "Factory": 45.8315774202,
+          "Mining": 852.0675489306,
+          "Power station": 172.030102253,
+          "Transportation": 867.5881864429,
+          "Sports": 1607.4157809019,
+          "Religious": 603.073751986,
+          "Water": 936.7764286399,
+          "Others": 14172.6694613695
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0555841538,
+          "Agricultural": 0.461562311,
+          "Commercial": 0.0017102682,
+          "Factory": 0.001098578,
+          "Mining": 0.0204239687,
+          "Power station": 0.0041235433,
+          "Transportation": 0.0207959967,
+          "Sports": 0.0385295856,
+          "Religious": 0.0144556138,
+          "Water": 0.0224544315,
+          "Others": 0.339717382
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5978.1421219738
+      }
+    }
+  },
+  "PL814": {
+    "ADM0": "PL",
+    "ADM1": "Lubelskie",
+    "ADM2": "Lubelski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2873.7619165778,
+          "Agricultural": 16022.1803874373,
+          "Commercial": 177.7492380142,
+          "Factory": 90.7155150175,
+          "Mining": 707.5788075328,
+          "Power station": 130.5555802584,
+          "Transportation": 653.3304303288,
+          "Sports": 1478.0616203547,
+          "Religious": 334.7056340575,
+          "Water": 607.4272254705,
+          "Others": 5363.6227396131
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0997037753,
+          "Agricultural": 0.5558817745,
+          "Commercial": 0.0061669236,
+          "Factory": 0.0031473308,
+          "Mining": 0.0245491034,
+          "Power station": 0.0045295625,
+          "Transportation": 0.0226669823,
+          "Sports": 0.0512806308,
+          "Religious": 0.0116124496,
+          "Water": 0.0210743929,
+          "Others": 0.1860882885
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4221.6450664724
+      }
+    }
+  },
+  "PL812": {
+    "ADM0": "PL",
+    "ADM1": "Lubelskie",
+    "ADM2": "Che\u0142msko-zamojski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3966.7584804893,
+          "Agricultural": 32650.9291555882,
+          "Commercial": 103.2721059322,
+          "Factory": 68.015468061,
+          "Mining": 1227.2082468867,
+          "Power station": 190.1934865713,
+          "Transportation": 907.5179501772,
+          "Sports": 2343.7481032014,
+          "Religious": 812.9646549821,
+          "Water": 701.8489375114,
+          "Others": 18180.0745491385
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0639645002,
+          "Agricultural": 0.5265005105,
+          "Commercial": 0.0016652762,
+          "Factory": 0.0010967583,
+          "Mining": 0.0197888938,
+          "Power station": 0.0030668949,
+          "Transportation": 0.0146338458,
+          "Sports": 0.0377932452,
+          "Religious": 0.0131091616,
+          "Water": 0.0113174061,
+          "Others": 0.293156084
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 9292.3896164456
+      }
+    }
+  },
+  "PL815": {
+    "ADM0": "PL",
+    "ADM1": "Lubelskie",
+    "ADM2": "Pu\u0142awski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2727.1091440916,
+          "Agricultural": 19992.3771573305,
+          "Commercial": 63.4915744662,
+          "Factory": 55.8715153337,
+          "Mining": 905.4458855987,
+          "Power station": 164.4723224044,
+          "Transportation": 725.3726707697,
+          "Sports": 1188.9577673078,
+          "Religious": 379.7027856112,
+          "Water": 1023.356636405,
+          "Others": 10648.7493291497
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0707825255,
+          "Agricultural": 0.518905138,
+          "Commercial": 0.0016479333,
+          "Factory": 0.0014501535,
+          "Mining": 0.0235009833,
+          "Power station": 0.0042689037,
+          "Transportation": 0.0188271561,
+          "Sports": 0.0308595766,
+          "Religious": 0.0098552426,
+          "Water": 0.0265613745,
+          "Others": 0.2763898808
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5631.7819345448
+      }
+    }
+  },
+  "PL217": {
+    "ADM0": "PL",
+    "ADM1": "Ma\u0142opolskie",
+    "ADM2": "Tarnowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3506.9165237546,
+          "Agricultural": 7278.5545406342,
+          "Commercial": 62.9568825364,
+          "Factory": 40.7656620741,
+          "Mining": 222.538574636,
+          "Power station": 31.8836679459,
+          "Transportation": 407.1924402714,
+          "Sports": 1325.0558166504,
+          "Religious": 119.1371330619,
+          "Water": 391.9642580748,
+          "Others": 3215.6682716012
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2080515261,
+          "Agricultural": 0.4318079343,
+          "Commercial": 0.0037349835,
+          "Factory": 0.002418466,
+          "Mining": 0.0132023359,
+          "Power station": 0.0018915323,
+          "Transportation": 0.0241571215,
+          "Sports": 0.0786103356,
+          "Religious": 0.0070679362,
+          "Water": 0.0232536935,
+          "Others": 0.190772916
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2605.262725201
+      }
+    }
+  },
+  "PL214": {
+    "ADM0": "PL",
+    "ADM1": "Ma\u0142opolskie",
+    "ADM2": "Krakowski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 5330.5281417966,
+          "Agricultural": 11719.2621366382,
+          "Commercial": 77.5697078705,
+          "Factory": 98.1779695749,
+          "Mining": 334.9480997324,
+          "Power station": 55.0122634172,
+          "Transportation": 609.9266147017,
+          "Sports": 1761.9260370135,
+          "Religious": 292.7473120689,
+          "Water": 286.5537832975,
+          "Others": 5384.5827995539
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2029285877,
+          "Agricultural": 0.4461421553,
+          "Commercial": 0.0029530116,
+          "Factory": 0.0037375502,
+          "Mining": 0.0127511839,
+          "Power station": 0.0020942692,
+          "Transportation": 0.0232193777,
+          "Sports": 0.0670749976,
+          "Religious": 0.0111446365,
+          "Water": 0.0109088542,
+          "Others": 0.2049864017
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4052.1089390392
+      }
+    }
+  },
+  "PL218": {
+    "ADM0": "PL",
+    "ADM1": "Ma\u0142opolskie",
+    "ADM2": "Nowos\u0105decki",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 4258.2731357813,
+          "Agricultural": 5513.5764585137,
+          "Commercial": 49.0933026671,
+          "Factory": 29.1566271186,
+          "Mining": 144.7126511931,
+          "Power station": 17.8056263924,
+          "Transportation": 208.0942822695,
+          "Sports": 2124.5936182737,
+          "Religious": 218.8571357727,
+          "Water": 399.2394959927,
+          "Others": 9152.3648872375
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1897964493,
+          "Agricultural": 0.2457468559,
+          "Commercial": 0.0021881486,
+          "Factory": 0.0012995466,
+          "Mining": 0.0064500201,
+          "Power station": 0.0007936186,
+          "Transportation": 0.009275017,
+          "Sports": 0.0946957398,
+          "Religious": 0.0097547306,
+          "Water": 0.0177945933,
+          "Others": 0.407932113
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3526.9049209545
+      }
+    }
+  },
+  "PL219": {
+    "ADM0": "PL",
+    "ADM1": "Ma\u0142opolskie",
+    "ADM2": "Nowotarski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2132.6150351763,
+          "Agricultural": 3233.9194088578,
+          "Commercial": 25.4702885747,
+          "Factory": 13.4847657084,
+          "Mining": 210.3224124908,
+          "Power station": 24.0901020765,
+          "Transportation": 263.539310813,
+          "Sports": 1448.1017938256,
+          "Religious": 254.5224781036,
+          "Water": 352.0771263838,
+          "Others": 8419.7660521269
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1278852864,
+          "Agricultural": 0.1939265657,
+          "Commercial": 0.001527362,
+          "Factory": 0.0008086331,
+          "Mining": 0.0126122819,
+          "Power station": 0.0014445972,
+          "Transportation": 0.0158035087,
+          "Sports": 0.0868374786,
+          "Religious": 0.0152628015,
+          "Water": 0.0211128044,
+          "Others": 0.5049032173
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2632.2949149003
+      }
+    }
+  },
+  "PL21A": {
+    "ADM0": "PL",
+    "ADM1": "Ma\u0142opolskie",
+    "ADM2": "O\u015bwi\u0119cimski",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2860.1773442626,
+          "Agricultural": 3684.075414896,
+          "Commercial": 78.0462778211,
+          "Factory": 60.6664095521,
+          "Mining": 259.5677702427,
+          "Power station": 63.6442428827,
+          "Transportation": 392.416359663,
+          "Sports": 880.9522348046,
+          "Religious": 149.6619164944,
+          "Water": 490.069709897,
+          "Others": 4071.5553310513
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2161397525,
+          "Agricultural": 0.2784006208,
+          "Commercial": 0.0058978522,
+          "Factory": 0.0045844789,
+          "Mining": 0.0196151871,
+          "Power station": 0.0048095098,
+          "Transportation": 0.0296543762,
+          "Sports": 0.0665723747,
+          "Religious": 0.0113097496,
+          "Water": 0.0370339084,
+          "Others": 0.3076819566
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2039.916550062
+      }
+    }
+  },
+  "PL213": {
+    "ADM0": "PL",
+    "ADM1": "Ma\u0142opolskie",
+    "ADM2": "Miasto Krak\u00f3w",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 439.1502320766,
+          "Agricultural": 235.0653859377,
+          "Commercial": 214.3220123053,
+          "Factory": 94.8347498775,
+          "Mining": 125.0626536608,
+          "Power station": 68.6924930215,
+          "Transportation": 200.6964080334,
+          "Sports": 108.6665083766,
+          "Religious": 134.7494831681,
+          "Water": 77.9656230807,
+          "Others": 387.1240478158
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2070486714,
+          "Agricultural": 0.1108276218,
+          "Commercial": 0.1010476248,
+          "Factory": 0.0447122819,
+          "Mining": 0.0589640046,
+          "Power station": 0.0323868425,
+          "Transportation": 0.0946234833,
+          "Sports": 0.0512336202,
+          "Religious": 0.0635311095,
+          "Water": 0.0367588982,
+          "Others": 0.1825195888
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 327.5713235369
+      }
+    }
+  },
+  "PL912": {
+    "ADM0": "PL",
+    "ADM1": "Warszawski sto\u0142eczny",
+    "ADM2": "Warszawski wschodni",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3771.0435035825,
+          "Agricultural": 6673.5670495629,
+          "Commercial": 141.7993576527,
+          "Factory": 99.134560883,
+          "Mining": 444.7713496089,
+          "Power station": 78.5607488751,
+          "Transportation": 775.8381846547,
+          "Sports": 1263.4805926681,
+          "Religious": 328.5233647227,
+          "Water": 428.9653876424,
+          "Others": 7746.7353627086
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.169317686,
+          "Agricultural": 0.2996393251,
+          "Commercial": 0.0063667097,
+          "Factory": 0.0044510848,
+          "Mining": 0.019969978,
+          "Power station": 0.0035273325,
+          "Transportation": 0.0348346886,
+          "Sports": 0.0567295525,
+          "Religious": 0.0147505103,
+          "Water": 0.0192602994,
+          "Others": 0.3478239656
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3122.8828210425
+      }
+    }
+  },
+  "PL911": {
+    "ADM0": "PL",
+    "ADM1": "Warszawski sto\u0142eczny",
+    "ADM2": "Miasto Warszawa",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 683.6006941199,
+          "Agricultural": 70.2480587959,
+          "Commercial": 538.1717008948,
+          "Factory": 153.5417159796,
+          "Mining": 140.1813460588,
+          "Power station": 66.1050576568,
+          "Transportation": 322.2191284299,
+          "Sports": 278.3560529947,
+          "Religious": 146.7285209894,
+          "Water": 125.8387077451,
+          "Others": 1092.7594784498
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1855593632,
+          "Agricultural": 0.0190684199,
+          "Commercial": 0.1460835236,
+          "Factory": 0.0416779902,
+          "Mining": 0.0380513969,
+          "Power station": 0.0179438267,
+          "Transportation": 0.0874644757,
+          "Sports": 0.0755581034,
+          "Religious": 0.0398285888,
+          "Water": 0.0341581726,
+          "Others": 0.296623094
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 517.6885202343
+      }
+    }
+  },
+  "PL913": {
+    "ADM0": "PL",
+    "ADM1": "Warszawski sto\u0142eczny",
+    "ADM2": "Warszawski zachodni",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3602.9600493312,
+          "Agricultural": 5353.5632748008,
+          "Commercial": 208.0765295625,
+          "Factory": 184.7652986646,
+          "Mining": 306.4029688239,
+          "Power station": 62.116332233,
+          "Transportation": 518.5232353806,
+          "Sports": 969.7330411673,
+          "Religious": 280.5453557372,
+          "Water": 411.6516036391,
+          "Others": 5329.7115934491
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.2057658509,
+          "Agricultural": 0.305743191,
+          "Commercial": 0.0118832969,
+          "Factory": 0.0105519874,
+          "Mining": 0.0174987418,
+          "Power station": 0.0035474776,
+          "Transportation": 0.0296129775,
+          "Sports": 0.05538167,
+          "Religious": 0.0160220078,
+          "Water": 0.0235095148,
+          "Others": 0.3043810162
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2463.0733665907
+      }
+    }
+  }
+}

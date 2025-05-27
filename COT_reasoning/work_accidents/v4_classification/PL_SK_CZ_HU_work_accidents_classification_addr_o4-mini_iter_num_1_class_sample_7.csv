@@ -1,0 +1,134 @@
+,desc
+0,Very Low
+1,"Based on its location in the industrialized Silesian Voivodeship—albeit in a relatively small semi‐rural gmina (Kobiór in Pszczyński district)—the accident-at-work rate is likely around the regional mid-range.  
+Answer: Medium"
+2,Based on its small‐town mixed‐agricultural/manufacturing profile in a lightly industrial part of Silesia (similar to Ramsowo or Rynarcice) Koszęcin most closely aligns with the “Low” benchmark. Answer: Low
+3,Answer: High
+4,High
+5,Answer: Medium
+6,Based on its size as an industrial city in the Silesian Voivodeship (a region with elevated workplace‐accident exposure but below Warsaw’s level) Częstochowa would be rated as: High.
+7,Answer: Medium
+8,Answer: Medium
+9,Answer: Very Low
+10,Very Low
+11,Answer: Very Low
+12,Answer: Low
+13,Answer: Low
+14,Low
+15,Based on its rural character within Włocławski (Kujawsko-pomorskie) and benchmarking against similar Polish villages the accident‐at‐work level for Wieniec Zalesie is likely in the Low category.
+16,Answer: Low
+17,"Based on its profile as a small rural village in Piła County (Wielkopolskie) with limited industrial or high‐risk economic activity—comparable to other Polish villages we rated “Low”—the most appropriate class for Dziembowo is:
+
+Answer: Low"
+18,Answer: Low
+19,Low
+20,Based on the location (a small‐town/rural gmina in Ostrów Wielkopolski County Wielkopolskie) and by analogy with similarly sized districts in the dataset I would classify its occupational‐accident level as: Low.
+21,Low
+22,Low
+23,Low
+24,Based on the address being a specific street‐number in an urban (but non‐industrial) part of Szczecin and by analogy with similar Polish city‐address examples the predicted accident‐at‐work level is: Very Low.
+25,Low
+26,Low
+27,Based on its rural peripheral‐province setting (Zachodniopomorskie) and by analogy with other West‐Pomeranian and similarly peripheral locations Bonin would be classified as Low.
+28,Based on its rural location in Podlaskie (a low-density low-industrialization area) and by analogy with similar nearby villages (e.g. Studzianki in Białostocki Podlaskie) the expected work-accident level for Łopienie-Żyski is: Very Low.
+29,Low
+30,Low
+31,Based on its rural‐industrial profile in Kłodzki county (Dolnośląskie) and by analogy to similar-sized locales in the same voivodeship Wolibórz is best classified as Low.
+32,High
+33,Based on the size economic profile and industrial activity of Szczedrzyk (a small village in the Ozimek commune Opolskie voivodeship) alongside the accident-at-work benchmarks for similar Polish rural areas I would classify its expected accident rate as: Low.
+34,Low
+35,Very Low
+36,Answer: Low
+37,Answer: Very Low
+38,High
+39,Based on its very rural character small population and low industrial/employment density in Skaratki (a village in the Gmina Domaniewice Łowicki district Łódzkie) the expected level of work‐related accidents falls into the “Low” class.
+40,Based on the rural/natural‐park setting low population density and limited industrial or high‐risk workplaces in Bory Tucholskie (Chojnicki district Pomorskie) the expected number of work‐related accidents would fall into the Very Low class.
+41,"Based on its profile as a small predominantly rural locality in Tczewski county (Pomorskie)—similar in scale and economic structure to Ramsowo (Barczewo Warmińsko-mazurskie) or Rynarcice (Rudna Dolnośląskie) both of which were classed as “Low”—Szprudowo’s accident-at-work exposure is best rated as:
+
+Answer: Low"
+42,Based on its location in a major urban industrial‐residential district of Gdańsk (Przymorze Małe) – comparable though slightly below the capital’s highest risk areas – the expected accident‐at‐work level is: High.
+43,Based on its rural character in Pomorskie (akin to Ramsowo in Warmińsko-mazurskie and Rynarcice in Dolnośląskie) Warzno would fall into the “Low” accidents-at-work category.
+44,Very Low
+45,Answer: Very Low
+46,Low
+47,Low
+48,Answer: Very Low
+49,Based on its rural character in Makowski (Maków) district of Mazowieckie—and by analogy to similarly small‐scale low-industry gminas in the region (e.g. Mokobody/Siedlecki Niwiski; Młynarze is even less urbanized than Radom or Praga)—the expected work‐accident level is: Very Low.
+50,Answer: Very Low
+51,"Based on its small‐settlement character within a largely rural gmina minimal heavy‐industry presence in Gruszka itself and by analogy to other similarly sized Polish villages that we’ve rated “Very Low” the expected accident‐at‐work rate for Gruszka Zagnańsk Kielecki Świętokrzyskie POL is:
+
+Answer: Very Low"
+52,"Based on Świlcza’s position in the Rzeszów metropolitan area (a growing industrial and service hub in Podkarpackie) and comparing it to the benchmarks (where purely rural districts tended toward “Low” and larger metro-adjacent ones toward “Medium”) the most appropriate class is:
+
+Answer: Medium"
+53,Answer: Very Low
+54,Answer: Low
+55,Very Low
+56,Based on its small rural character in Lublin Voivodeship and by analogy with other Polish villages showing very low workplace‐accident rates the predicted class is: Very Low.
+57,Answer: Very Low
+58,Based on Wąwolnica’s small predominantly rural character (population ≈2 000) limited industrial activity and its similarity to other low‐density Polish villages previously benchmarked as “Very Low” the inferred class for workplace accidents is: Very Low.
+59,"Based on its character as an industrial district (notably the Synthos chemical plant) within a mid‐sized city Mościce in Tarnów would experience a moderate level of workplace accidents.  
+Answer: Medium"
+60,Low
+61,Based on its size regional economic profile and comparing with the other Polish ‘District’ examples (where only the capital’s district rose above Low) Nowy Sącz would be classified as “Low.”
+62,Answer: Low
+63,Low
+64,Answer: Very High
+65,Answer: Very Low
+66,Answer: Low
+67,Based on its location in the economically most active Slovak region (Bratislavský kraj) yet being a small town/district rather than the capital itself Malacky would sit above the “Low”‐risk rural benchmarks but below major urban centres.  Answer: Medium
+68,Answer: High
+69,Answer: Medium
+70,Based on its small‐village largely rural character in the Nové Zámky district (Nitra region) the predicted accident‐at‐work level for Veľká Maňa is: Very Low.
+71,Answer: Low
+72,"full address of the given location is Mýtna Lučenec SVK  
+Answer: Low"
+73,Based on its location in the largely rural less-industrialized Prešov Region—with relatively low employment in heavy industry or large manufacturing plants and correspondingly fewer work-site hazards—Terňa’s expected workplace-accident rate falls into the “Low” category.
+74,"Based on the comparable benchmarks (Pardubický = Medium Jihočeský = High for Czech regions; Low/Very Low for more rural areas; Very High for the capital’s region) and knowing that Košice Region (Košický kraj) is a substantial industrial centre in eastern Slovakia (iron and steel works engineering) the most fitting class is:
+
+Answer: High"
+75,Answer: Very High
+76,Answer: Medium
+77,Based on Moravskoslezský kraj’s heavy‐industry profile and its well-documented above-average workplace incident rates I would classify Výškovice u Slatiny (Bílovec Nový Jičín Moravskoslezský kraj) as: Very High.
+78,"Based on the pattern of neighbouring Czech regions (Pardubický → Medium; Jihočeský → High) and the industrial profile of Plzeňský kraj (not as low-risk as purely rural areas but below the highest tiers like Prague) Bolkov in Plzeňský kraj would be classified as:
+
+Answer: Medium"
+79,Low
+80,"Based on Ústecký kraj’s industrial profile (extensive mining and heavy industry) and comparing it to the benchmarks (Pardubický = Medium; Jihočeský = High; major urban areas = Very High) Ústecký falls into the “High” category.  
+Answer: High"
+81,Answer: Medium
+82,Answer: Medium
+83,"Based on Vysočina’s rural/industrial profile and its accident‐at‐work rates being broadly similar to the Pardubický region (which we rated “Medium”) Velký Beranov in Vysočina would likewise fall into the Medium class.  
+Answer: Medium"
+84,Answer: High
+85,"Based on its location in the Olomoucký region (which sits accident‐wise between Pardubický/Medium and Jihočeský/High) and given the largely rural/small‐industry character of Újezd (783 96) the most appropriate qualitative class is:
+
+Answer: Medium"
+86,Answer: Medium
+87,"Based on the urban industrial and transport‐intensive nature of Budapest’s 10th district (Népliget area) – with high workplace density logistics hubs and large‐scale public services – accident‐at‐work rates there align with the top benchmark.  
+Answer: Very High"
+88,Medium
+89,Answer: Very Low
+90,"Based on the patterns for Hungarian locations (all of which fell into the “Very Low” class) and Tata’s similar regional/administrative context the predicted accident‐at‐work level for
+
+  2890 Tata Komárom‐Esztergom HUN
+
+is: Very Low."
+91,Based on its small largely rural profile and by analogy with similarly sized villages in Hungary (e.g. Varsád Baktalórántháza) where accident-at-work rates fall into the lowest category Városlőd would likewise be classified as Very Low.
+92,Answer: Low
+93,Answer: Very Low
+94,Very Low
+95,"Based on its location as an industrial‐adjacent district within the city of Pécs (Baranya county) and comparing against the given qualitative benchmarks the likely class for work‐related accidents in Málom Pécs is:
+
+Answer: Medium"
+96,"Based on Mezőcsokonya’s small predominantly agricultural profile low industrial activity and workforce size—similar to other Hungarian villages previously classified as Very Low—the predicted accident-at-work level is:
+
+Answer: Very Low"
+97,Answer: Very Low
+98,Answer: Very Low
+99,Answer: Very Low
+100,Based on Ebes’s profile—a small semi‐rural settlement in Hajdú‐Bihar County with modest industrial activity but far below urban centers like Debrecen—I would classify its workplace accident incidence as Low.
+101,Answer: Very Low
+102,Based on the rural small-town character of Soltvadkert in Bács-Kiskun (similar to Varsád or Baktalórántháza) the expected accident-at-work incidence falls into the “Very Low” class.
+103,Very Low
+104,Based on its size (≈45 000 inhabitants) regional industry and agriculture profile and by analogy with similar Hungarian county‐level centres Hódmezővásárhely’s work‐accident level would best be classified as Medium.

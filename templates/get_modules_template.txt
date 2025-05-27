@@ -1,0 +1,16 @@
+Given a modular set, determines the sequence of modules that can be executed with inputs to solve the below question following the format below.
+
+Format for reseponse:
+1. MODULE 1
+2. MODULE 2
+...
+
+The modules are defined as follows:
+<MODULE_DESC>
+
+Question: <QUESTION>
+Input: 
+- Location of the region - [Loc]
+
+
+Answer: 

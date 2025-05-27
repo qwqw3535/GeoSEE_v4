@@ -1,0 +1,154 @@
+{
+  "SK010": {
+    "ADM0": "SVK",
+    "ADM1": "Bratislavsk\u00fd kraj",
+    "ADM2": "Bratislavsk\u00fd kraj",
+    "nightlight": {
+      "Nightlight_Sum": {
+        "val": 51618.5703125,
+        "desc": "Sum of nightlight intensity",
+        "type": "default",
+        "weight": null
+      },
+      "Nightlight_Average": {
+        "val": 4.3482916614,
+        "desc": "Average nightlight intensity",
+        "type": "ratio",
+        "weight": 2051.670521541
+      }
+    }
+  },
+  "SK021": {
+    "ADM0": "SVK",
+    "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+    "ADM2": "Trnavsk\u00fd kraj",
+    "nightlight": {
+      "Nightlight_Sum": {
+        "val": 38185.703125,
+        "desc": "Sum of nightlight intensity",
+        "type": "default",
+        "weight": null
+      },
+      "Nightlight_Average": {
+        "val": 0.9641150081,
+        "desc": "Average nightlight intensity",
+        "type": "ratio",
+        "weight": 4145.3479886806
+      }
+    }
+  },
+  "SK022": {
+    "ADM0": "SVK",
+    "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+    "ADM2": "Tren\u010diansky kraj",
+    "nightlight": {
+      "Nightlight_Sum": {
+        "val": 27116.33984375,
+        "desc": "Sum of nightlight intensity",
+        "type": "default",
+        "weight": null
+      },
+      "Nightlight_Average": {
+        "val": 0.6884940928,
+        "desc": "Average nightlight intensity",
+        "type": "ratio",
+        "weight": 4501.8012469638
+      }
+    }
+  },
+  "SK023": {
+    "ADM0": "SVK",
+    "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+    "ADM2": "Nitriansky kraj",
+    "nightlight": {
+      "Nightlight_Sum": {
+        "val": 36653.30078125,
+        "desc": "Sum of nightlight intensity",
+        "type": "default",
+        "weight": null
+      },
+      "Nightlight_Average": {
+        "val": 1.0838720401,
+        "desc": "Average nightlight intensity",
+        "type": "ratio",
+        "weight": 6342.4797116192
+      }
+    }
+  },
+  "SK031": {
+    "ADM0": "SVK",
+    "ADM1": "Stredn\u00e9 Slovensko",
+    "ADM2": "\u017dilinsk\u00fd kraj",
+    "nightlight": {
+      "Nightlight_Sum": {
+        "val": 31048.021484375,
+        "desc": "Sum of nightlight intensity",
+        "type": "default",
+        "weight": null
+      },
+      "Nightlight_Average": {
+        "val": 0.7832695448,
+        "desc": "Average nightlight intensity",
+        "type": "ratio",
+        "weight": 6806.8856675656
+      }
+    }
+  },
+  "SK032": {
+    "ADM0": "SVK",
+    "ADM1": "Stredn\u00e9 Slovensko",
+    "ADM2": "Banskobystrick\u00fd kraj",
+    "nightlight": {
+      "Nightlight_Sum": {
+        "val": 24572.361328125,
+        "desc": "Sum of nightlight intensity",
+        "type": "default",
+        "weight": null
+      },
+      "Nightlight_Average": {
+        "val": 0.6696196133,
+        "desc": "Average nightlight intensity",
+        "type": "ratio",
+        "weight": 9454.4618500043
+      }
+    }
+  },
+  "SK041": {
+    "ADM0": "SVK",
+    "ADM1": "V\u00fdchodn\u00e9 Slovensko",
+    "ADM2": "Pre\u0161ovsk\u00fd kraj",
+    "nightlight": {
+      "Nightlight_Sum": {
+        "val": 23646.72265625,
+        "desc": "Sum of nightlight intensity",
+        "type": "default",
+        "weight": null
+      },
+      "Nightlight_Average": {
+        "val": 0.5214041863,
+        "desc": "Average nightlight intensity",
+        "type": "ratio",
+        "weight": 8971.6111047056
+      }
+    }
+  },
+  "SK042": {
+    "ADM0": "SVK",
+    "ADM1": "V\u00fdchodn\u00e9 Slovensko",
+    "ADM2": "Ko\u0161ick\u00fd kraj",
+    "nightlight": {
+      "Nightlight_Sum": {
+        "val": 29737.490234375,
+        "desc": "Sum of nightlight intensity",
+        "type": "default",
+        "weight": null
+      },
+      "Nightlight_Average": {
+        "val": 0.7318196194,
+        "desc": "Average nightlight intensity",
+        "type": "ratio",
+        "weight": 6751.9205375911
+      }
+    }
+  }
+}

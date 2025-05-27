@@ -1,0 +1,604 @@
+{
+  "CZ010": {
+    "ADM0": "CZE",
+    "ADM1": "Praha",
+    "ADM2": "Hlavn\u00ed m\u011bsto Praha",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 740.6910969615,
+          "Agricultural": 343.1396132708,
+          "Commercial": 506.1097528338,
+          "Factory": 97.8165503144,
+          "Mining": 105.0977865458,
+          "Power station": 14.372173667,
+          "Transportation": 320.8635476232,
+          "Sports": 372.8378822803,
+          "Religious": 124.539332509,
+          "Water": 60.5301477909,
+          "Others": 485.6998614669
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.229671658,
+          "Agricultural": 0.1063998801,
+          "Commercial": 0.1569332567,
+          "Factory": 0.0303307133,
+          "Mining": 0.0325884609,
+          "Power station": 0.004456488,
+          "Transportation": 0.0994925729,
+          "Sports": 0.1156086457,
+          "Religious": 0.0386168473,
+          "Water": 0.0187690381,
+          "Others": 0.1506046082
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 496.3300809117
+      }
+    }
+  },
+  "CZ020": {
+    "ADM0": "CZE",
+    "ADM1": "St\u0159edn\u00ed \u010cechy",
+    "ADM2": "St\u0159edo\u010desk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 7672.5141404271,
+          "Agricultural": 18813.9172528982,
+          "Commercial": 457.9704921842,
+          "Factory": 508.1979762316,
+          "Mining": 1696.8757458329,
+          "Power station": 368.5616860986,
+          "Transportation": 2092.7674273252,
+          "Sports": 5548.577409327,
+          "Religious": 1698.9041446447,
+          "Water": 2333.4172620177,
+          "Others": 27964.8104349375
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1085620474,
+          "Agricultural": 0.2662070528,
+          "Commercial": 0.0064800421,
+          "Factory": 0.0071907346,
+          "Mining": 0.024009901,
+          "Power station": 0.0052149544,
+          "Transportation": 0.0296115605,
+          "Sports": 0.0785094576,
+          "Religious": 0.0240386018,
+          "Water": 0.0330166293,
+          "Others": 0.3956873877
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 10930.3181797253
+      }
+    }
+  },
+  "CZ080": {
+    "ADM0": "CZE",
+    "ADM1": "Moravskoslezsko",
+    "ADM2": "Moravskoslezsk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 4464.0148251057,
+          "Agricultural": 6116.4476481676,
+          "Commercial": 297.9540444016,
+          "Factory": 307.0236701965,
+          "Mining": 764.5349389911,
+          "Power station": 176.8774708509,
+          "Transportation": 1158.8413218856,
+          "Sports": 3333.730271697,
+          "Religious": 753.9123538733,
+          "Water": 1028.4980323315,
+          "Others": 15775.4296116829
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1280848969,
+          "Agricultural": 0.1754977519,
+          "Commercial": 0.0085491233,
+          "Factory": 0.0088093559,
+          "Mining": 0.0219366159,
+          "Power station": 0.0050751025,
+          "Transportation": 0.0332503535,
+          "Sports": 0.0956539157,
+          "Religious": 0.0216318247,
+          "Water": 0.0295104451,
+          "Others": 0.4526405834
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5430.7371195479
+      }
+    }
+  },
+  "CZ031": {
+    "ADM0": "CZE",
+    "ADM1": "Jihoz\u00e1pad",
+    "ADM2": "Jiho\u010desk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3857.677947104,
+          "Agricultural": 11464.420173943,
+          "Commercial": 211.5855889916,
+          "Factory": 252.4475970268,
+          "Mining": 1403.1756581664,
+          "Power station": 263.802929163,
+          "Transportation": 1246.2952253819,
+          "Sports": 6009.4300279021,
+          "Religious": 1593.7008897662,
+          "Water": 4034.3194274902,
+          "Others": 30706.166762948
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0615426503,
+          "Agricultural": 0.1828952056,
+          "Commercial": 0.003375486,
+          "Factory": 0.0040273694,
+          "Mining": 0.0223852665,
+          "Power station": 0.0042085243,
+          "Transportation": 0.0198825076,
+          "Sports": 0.0958701726,
+          "Religious": 0.0254247705,
+          "Water": 0.0643606628,
+          "Others": 0.4898643454
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 10058.6926180673
+      }
+    }
+  },
+  "CZ032": {
+    "ADM0": "CZE",
+    "ADM1": "Jihoz\u00e1pad",
+    "ADM2": "Plze\u0148sk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3173.2652829289,
+          "Agricultural": 8152.2078245878,
+          "Commercial": 213.7476502657,
+          "Factory": 268.8718789816,
+          "Mining": 1025.3547908664,
+          "Power station": 231.7114770412,
+          "Transportation": 1134.6463546157,
+          "Sports": 3880.2232117653,
+          "Religious": 1273.5759947896,
+          "Water": 1355.3611031175,
+          "Others": 26698.8161539435
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0652425117,
+          "Agricultural": 0.1676098488,
+          "Commercial": 0.0043946636,
+          "Factory": 0.0055280209,
+          "Mining": 0.0210813518,
+          "Power station": 0.0047640009,
+          "Transportation": 0.0233283925,
+          "Sports": 0.0797776062,
+          "Religious": 0.0261847937,
+          "Water": 0.0278663001,
+          "Others": 0.5489291532
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 7649.6406243085
+      }
+    }
+  },
+  "CZ041": {
+    "ADM0": "CZE",
+    "ADM1": "Severoz\u00e1pad",
+    "ADM2": "Karlovarsk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1051.890884161,
+          "Agricultural": 1675.1871393323,
+          "Commercial": 95.9255040884,
+          "Factory": 85.2842763066,
+          "Mining": 681.9705216289,
+          "Power station": 107.0963771343,
+          "Transportation": 584.9130531549,
+          "Sports": 1741.5126809478,
+          "Religious": 587.9486317039,
+          "Water": 859.310747385,
+          "Others": 13553.3396164179
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0487618619,
+          "Agricultural": 0.0776556249,
+          "Commercial": 0.0044467599,
+          "Factory": 0.003953471,
+          "Mining": 0.03161369,
+          "Power station": 0.0049646012,
+          "Transportation": 0.0271144564,
+          "Sports": 0.0807302374,
+          "Religious": 0.0272551748,
+          "Water": 0.0398345423,
+          "Others": 0.6282838687
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3311.5811677549
+      }
+    }
+  },
+  "CZ042": {
+    "ADM0": "CZE",
+    "ADM1": "Severoz\u00e1pad",
+    "ADM2": "\u00dasteck\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2651.8948864341,
+          "Agricultural": 6681.1181122661,
+          "Commercial": 320.3768157363,
+          "Factory": 256.9751370549,
+          "Mining": 1293.7975279093,
+          "Power station": 268.56923002,
+          "Transportation": 1312.0013198256,
+          "Sports": 2398.3951055408,
+          "Religious": 951.680583477,
+          "Water": 965.5970908999,
+          "Others": 17479.8016507626
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0751585672,
+          "Agricultural": 0.1893526276,
+          "Commercial": 0.009079946,
+          "Factory": 0.00728305,
+          "Mining": 0.0366681081,
+          "Power station": 0.0076116435,
+          "Transportation": 0.0371840302,
+          "Sports": 0.0679740139,
+          "Religious": 0.0269720152,
+          "Water": 0.0273664293,
+          "Others": 0.4954030623
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5338.7332842271
+      }
+    }
+  },
+  "CZ051": {
+    "ADM0": "CZE",
+    "ADM1": "Severov\u00fdchod",
+    "ADM2": "Libereck\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3085.5500519276,
+          "Agricultural": 2471.5746109486,
+          "Commercial": 128.227362752,
+          "Factory": 101.7376149297,
+          "Mining": 313.6620078683,
+          "Power station": 76.8000889421,
+          "Transportation": 375.8347329497,
+          "Sports": 2095.1925093532,
+          "Religious": 460.293936491,
+          "Water": 445.6014117002,
+          "Others": 11026.3024382591
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1464706186,
+          "Agricultural": 0.1173252925,
+          "Commercial": 0.0060869345,
+          "Factory": 0.00482947,
+          "Mining": 0.0148894905,
+          "Power station": 0.0036456892,
+          "Transportation": 0.0178408209,
+          "Sports": 0.0994584881,
+          "Religious": 0.0218500872,
+          "Water": 0.0211526351,
+          "Others": 0.523416996
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3163.4181492141
+      }
+    }
+  },
+  "CZ052": {
+    "ADM0": "CZE",
+    "ADM1": "Severov\u00fdchod",
+    "ADM2": "Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3664.652633667,
+          "Agricultural": 7740.4225255847,
+          "Commercial": 192.7103182673,
+          "Factory": 185.991771102,
+          "Mining": 529.4309045672,
+          "Power station": 115.4588925838,
+          "Transportation": 605.9817258716,
+          "Sports": 2732.4503194094,
+          "Religious": 746.7525274158,
+          "Water": 603.0723590851,
+          "Others": 13480.7073876858
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1172276202,
+          "Agricultural": 0.2476063634,
+          "Commercial": 0.0061645603,
+          "Factory": 0.0059496424,
+          "Mining": 0.0169358275,
+          "Power station": 0.0036933845,
+          "Transportation": 0.0193845919,
+          "Sports": 0.0874076427,
+          "Religious": 0.0238876724,
+          "Water": 0.0192915249,
+          "Others": 0.4312308431
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4759.0640347908
+      }
+    }
+  },
+  "CZ053": {
+    "ADM0": "CZE",
+    "ADM1": "Severov\u00fdchod",
+    "ADM2": "Pardubick\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 3167.9480571151,
+          "Agricultural": 7374.96783638,
+          "Commercial": 196.2775361538,
+          "Factory": 191.6441482902,
+          "Mining": 556.7684938908,
+          "Power station": 112.5773759484,
+          "Transportation": 763.3388187885,
+          "Sports": 3000.1696900129,
+          "Religious": 627.01388973,
+          "Water": 796.9650498033,
+          "Others": 11653.3394820094
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.1088417528,
+          "Agricultural": 0.2533830769,
+          "Commercial": 0.0067435421,
+          "Factory": 0.006584352,
+          "Mining": 0.0191289938,
+          "Power station": 0.0038678409,
+          "Transportation": 0.0262261671,
+          "Sports": 0.1030773617,
+          "Religious": 0.0215424273,
+          "Water": 0.0273814694,
+          "Others": 0.4003758497
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4519.9782138396
+      }
+    }
+  },
+  "CZ063": {
+    "ADM0": "CZE",
+    "ADM1": "Jihov\u00fdchod",
+    "ADM2": "Kraj Vyso\u010dina",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2626.1562126875,
+          "Agricultural": 12058.0744898915,
+          "Commercial": 143.6116665006,
+          "Factory": 230.5894498825,
+          "Mining": 1410.0527198911,
+          "Power station": 242.3318817019,
+          "Transportation": 1116.0155258775,
+          "Sports": 4296.2612143159,
+          "Religious": 977.9821441174,
+          "Water": 2741.5277674794,
+          "Others": 15844.6962049603
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0612286077,
+          "Agricultural": 0.2811329764,
+          "Commercial": 0.0033482937,
+          "Factory": 0.0053761733,
+          "Mining": 0.0328752587,
+          "Power station": 0.0056499471,
+          "Transportation": 0.0260198066,
+          "Sports": 0.1001669631,
+          "Religious": 0.0228015701,
+          "Water": 0.0639184856,
+          "Others": 0.3694177381
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6796.0210344415
+      }
+    }
+  },
+  "CZ064": {
+    "ADM0": "CZE",
+    "ADM1": "Jihov\u00fdchod",
+    "ADM2": "Jihomoravsk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2913.4493339062,
+          "Agricultural": 14157.9231113791,
+          "Commercial": 362.6748025417,
+          "Factory": 378.8650497794,
+          "Mining": 1021.2805079222,
+          "Power station": 231.5535228848,
+          "Transportation": 1252.5542521477,
+          "Sports": 2864.1704720259,
+          "Religious": 1001.2462895513,
+          "Water": 1517.5773867369,
+          "Others": 18145.6023805737
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0651414049,
+          "Agricultural": 0.3165550165,
+          "Commercial": 0.008108995,
+          "Factory": 0.0084709905,
+          "Mining": 0.0228346676,
+          "Power station": 0.0051772727,
+          "Transportation": 0.0280056848,
+          "Sports": 0.0640395857,
+          "Religious": 0.0223867253,
+          "Water": 0.0339312999,
+          "Others": 0.4057149778
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 7185.976815743
+      }
+    }
+  },
+  "CZ071": {
+    "ADM0": "CZE",
+    "ADM1": "St\u0159edn\u00ed Morava",
+    "ADM2": "Olomouck\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2249.5582847595,
+          "Agricultural": 7792.9869896173,
+          "Commercial": 213.3115765452,
+          "Factory": 238.1655621529,
+          "Mining": 791.5249798894,
+          "Power station": 139.5635581017,
+          "Transportation": 1026.6000713706,
+          "Sports": 2641.7068799138,
+          "Religious": 733.3679542542,
+          "Water": 873.5530956984,
+          "Others": 16421.4939023852
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0666200221,
+          "Agricultural": 0.2307870699,
+          "Commercial": 0.006317161,
+          "Factory": 0.0070532047,
+          "Mining": 0.0234407848,
+          "Power station": 0.0041331347,
+          "Transportation": 0.0304024661,
+          "Sports": 0.07823339,
+          "Religious": 0.0217184812,
+          "Water": 0.0258700239,
+          "Others": 0.4863178222
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 5271.8753208327
+      }
+    }
+  },
+  "CZ072": {
+    "ADM0": "CZE",
+    "ADM1": "St\u0159edn\u00ed Morava",
+    "ADM2": "Zl\u00ednsk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2471.8757519722,
+          "Agricultural": 4874.0083330274,
+          "Commercial": 150.831404686,
+          "Factory": 192.6436564326,
+          "Mining": 500.7163836956,
+          "Power station": 94.4477671981,
+          "Transportation": 524.989264071,
+          "Sports": 2620.6679494977,
+          "Religious": 561.706358254,
+          "Water": 479.3178304434,
+          "Others": 11789.7984746099
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0995720343,
+          "Agricultural": 0.1963346761,
+          "Commercial": 0.0060757867,
+          "Factory": 0.0077600667,
+          "Mining": 0.0201698443,
+          "Power station": 0.0038045425,
+          "Transportation": 0.0211476038,
+          "Sports": 0.1055656777,
+          "Religious": 0.0226266408,
+          "Water": 0.0193078683,
+          "Others": 0.4749163535
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 3962.6762188471
+      }
+    }
+  }
+}

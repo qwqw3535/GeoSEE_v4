@@ -1,0 +1,116 @@
+area_name,GRDP,area_id
+Miasto Kraków,18127.1,PL213
+Krakowski,7740.73,PL214
+Tarnowski,4036.36,PL217
+Nowosądecki,4791.43,PL218
+Nowotarski,2762.39,PL219
+Oświęcimski,5624.33,PL21A
+Częstochowski,6258.67,PL224
+Bielski,9452.34,PL225
+Rybnicki,7702.08,PL227
+Bytomski,4445.67,PL228
+Gliwicki,7775.68,PL229
+Katowicki,13651.26,PL22A
+Sosnowiecki,8630.03,PL22B
+Tyski,6441.87,PL22C
+Pilski,4218.78,PL411
+Koniński,7250.15,PL414
+Miasto Poznań,14979.24,PL415
+Kaliski,8275.79,PL416
+Leszczyński,6910.22,PL417
+Poznański,11071.54,PL418
+Miasto Szczecin,6604.7,PL424
+Koszaliński,3992.95,PL426
+Szczecinecko-pyrzycki,3444.12,PL427
+Szczeciński,5551.52,PL428
+Gorzowski,4284.7,PL431
+Zielonogórski,7116.19,PL432
+Miasto Wrocław,15573.34,PL514
+Jeleniogórski,5908.14,PL515
+Legnicko-głogowski,7730.94,PL516
+Wałbrzyski,6437.37,PL517
+Wrocławski,8321.86,PL518
+Nyski,3066.85,PL523
+Opolski,7729.08,PL524
+Bydgosko-toruński,10789.85,PL613
+Grudziądzki,3617.0,PL616
+Inowrocławski,3246.09,PL617
+Świecki,2021.36,PL618
+Włocławski,3222.53,PL619
+Elbląski,4777.66,PL621
+Olsztyński,6544.07,PL622
+Ełcki,2219.66,PL623
+Trójmiejski,15609.61,PL633
+Gdański,5986.51,PL634
+Słupski,3435.65,PL636
+Chojnicki,1994.35,PL637
+Starogardzki,4518.21,PL638
+Miasto Łódź,12294.68,PL711
+Łódzki,4482.73,PL712
+Piotrkowski,7554.62,PL713
+Sieradzki,4244.46,PL714
+Skierniewicki,3545.25,PL715
+Kielecki,8151.09,PL721
+Sandomiersko-jędrzejowski,4119.23,PL722
+Bialski,2473.82,PL811
+Chełmsko-zamojski,4481.94,PL812
+Lubelski,9029.0,PL814
+Puławski,4063.63,PL815
+Krośnieński,3849.72,PL821
+Przemyski,2802.1,PL822
+Rzeszowski,7883.17,PL823
+Tarnobrzeski,6283.03,PL824
+Białostocki,5881.4,PL841
+Łomżyński,3602.97,PL842
+Suwalski,2336.68,PL843
+Miasto Warszawa,73143.29,PL911
+Warszawski wschodni,7498.75,PL912
+Warszawski zachodni,12783.67,PL913
+Radomski,5931.17,PL921
+Ciechanowski,3619.65,PL922
+Płocki,7160.67,PL923
+Ostrołęcki,3915.11,PL924
+Siedlecki,4443.02,PL925
+Żyrardowski,3040.11,PL926
+Bratislavský,26559.8,SK010
+Trnavský,11060.43,SK021
+Trenčiansky,8160.91,SK022
+Nitriansky,10023.67,SK023
+Žilinský,10700.92,SK031
+Banskobystrický,8097.64,SK032
+Prešovský,8732.32,SK041
+Košický,11094.05,SK042
+Hlavní město Praha,61601.72,CZ010
+Středočeský kraj,26752.43,CZ020
+Jihočeský kraj,10929.92,CZ031
+Plzeňský kraj,10909.61,CZ032
+Karlovarský kraj,3897.85,CZ041
+Ústecký kraj,12384.52,CZ042
+Liberecký kraj,7115.84,CZ051
+Královéhradecký kraj,10319.46,CZ052
+Pardubický kraj,8668.91,CZ053
+Kraj Vysočina,8628.12,CZ063
+Jihomoravský kraj,23774.9,CZ064
+Olomoucký kraj,10327.65,CZ071
+Zlínský kraj,10445.01,CZ072
+Moravskoslezský kraj,19857.55,CZ080
+Budapest,54785.49,HU110
+Pest,15287.32,HU120
+Fejér,6203.95,HU211
+Komárom-Esztergom,4540.12,HU212
+Veszprém,3910.52,HU213
+Győr-Moson-Sopron,8058.45,HU221
+Vas,3387.52,HU222
+Zala,2979.01,HU223
+Baranya,3635.99,HU231
+Somogy,2837.42,HU232
+Tolna,2460.92,HU233
+Borsod-Abaúj-Zemplén,6626.58,HU311
+Heves,3310.82,HU312
+Nógrád,1239.99,HU313
+Hajdú-Bihar,5633.98,HU321
+Jász-Nagykun-Szolnok,3502.54,HU322
+Szabolcs-Szatmár-Bereg,4783.36,HU323
+Bács-Kiskun,6089.62,HU331
+Békés,2870.6,HU332
+Csongrád-Csanád,4410.3,HU333

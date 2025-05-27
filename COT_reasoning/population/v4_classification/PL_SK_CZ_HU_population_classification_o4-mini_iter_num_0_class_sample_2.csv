@@ -1,0 +1,117 @@
+,desc
+0,Based on its location within the urban core of Kraków (a major Polish city of well over half a million inhabitants) and its high local density Podgórze would be classed as: Very High.
+1,"Based on Ostrężnica’s belonging to Kraków County (Powiat krakowski) – which has on the order of 250–300 000 inhabitants – its population class falls squarely into the Medium category.  
+Answer: Medium"
+2,Based on its location in the Mościce district of Tarnów (a city of roughly 110–120 000 inhabitants) it falls into the “High” population category.
+3,Medium
+4,Based on the size of the Chrzanów (Chrzanowski) district (approx. 120–130 000 inhabitants) it falls into the “Medium” category.
+5,High
+6,For Osiedle Zapelenica which lies in Szczyrk (powiat bielski śląskie) the relevant unit is Bielsko County. Its population is on the order of 160–170 000 placing it squarely alongside Miński (≈150 000) Kłodzki (≈158 000) Koniński (≈123 000) and Zamojski (≈113 000) counties all of which were labelled Medium. Accordingly Bielsko County should also be classed as Medium.
+7,High
+8,Low
+9,"Based on the population of Powiat gliwicki (the Gliwice County) which is on the order of ~110–120 thousand inhabitants and comparing to the other Polish Powiats you provided (Sieradzki ≈118 k → Low Pilski ≈136 k → Low etc.) the appropriate qualitative class for Ligota Łabędzka in Powiat gliwicki is:
+
+Answer: Low"
+10,"Based on the fact that this address falls within the city‐county of Katowice (pop. ≈300 000) which places it among the top‐tier (Very High) of all Polish “district” (powiat) populations the correct qualitative class is:
+
+Answer: Very High"
+11,Medium
+12,"Based on the population of Pszczyński County (powiat pszczyński) – roughly 110–115 000 inhabitants which places it squarely in the mid‐range of Poland’s 79 districts – the correct qualitative class is:
+
+Medium"
+13,Very High
+14,Medium
+15,Low
+16,Low
+17,Medium
+18,Based on the postal code 76-009 (Bonin) falling in Kołobrzeski powiat (pop. ≈70–90 000) it best matches the “Low” population band.
+19,Answer: Very Low
+20,Medium
+21,Low
+22,Low
+23,High
+24,Low
+25,Based on its belonging to Powiat Lubiński (pop. ≈106 000 i.e. above the ~100 000 threshold separating Low from Medium in our benchmarks) Rynarcice’s district population class is Medium.
+26,Low
+27,Medium
+28,Based on the size of the 46-042 postal district around Szczedrzyk/Ozimek (the gmina alone has on the order of 10–20 000 inhabitants and the wider 46-xxx area is well under 100 000) this district falls into the “Medium” class.
+29,Low
+30,Answer: Low
+31,Low
+32,Low
+33,Medium
+34,Low
+35,Medium
+36,"Based on the size of Radzie (a very small settlement in the Wydminy commune whose villages typically count only a few‐dozen up to a few‐hundred inhabitants) it falls into the “Very Low” population bracket.  
+Answer: Very Low"
+37,Based on its location within the densely populated urban area of Gdańsk (a major Polish city) and by analogy to other central-city districts (e.g. Praha 10 → Very High) the population for Przymorze Małe would be classified as: Very High.
+38,Answer: Medium
+39,Answer: Low
+40,Low
+41,Low
+42,Answer: Very High
+43,Medium
+44,Based on its status as a small rural village in Gmina Sulejów (Piotrkowski powiat Łódzkie) Łazy Dąbrowa’s population would fall into the “Low” class.
+45,Low
+46,"Based on the size of its postal–district catchment (the “26-xxx” area around Zagnańsk/Kielce) which is on the order of 100–150 K residents Gruszka falls into our “Medium” bracket.  
+Answer: Medium"
+47,Rączki leży w tzw. rejonie pocztowym „29” (obsługującym powiat włoszczowski) który skupia wyłącznie niewielkie rozproszone osady i jedno małe miasto (Włoszczowa – ok. 25 000 mieszkańców; całość powiatu – ok. 47 000). W świetle przyjętych progów (Very Low < 50 000; Low 50–150 000; Medium 150–300 000; High 300–800 000; Very High > 800 000) odpowiada to klasie Very Low.
+48,Medium
+49,Answer: Medium
+50,Based on its role as the seat of Gmina Wąwolnica and a local population of around 900–1 000 inhabitants it falls into the Medium class.
+51,Based on the fact that Bukowsko lies in Sanocki (Sanok) County of Podkarpackie Voivodeship—which has on the order of 120 000–130 000 inhabitants—the appropriate qualitative class is Medium.
+52,Answer: Medium
+53,Medium
+54,Answer: Medium
+55,Low
+56,Based on its rural location in Gmina Nowe Piekuty (Powiat Wysokomazowiecki Podlaskie) whose total population is well under the 100 000–150 000 threshold we’ve seen mark the “Medium” class in neighboring districts Łopienie-Zyski falls into the Low category. Answer: Low
+57,Answer: Very Low
+58,Very High
+59,"Based on its location—a small village in the Warsaw suburban zone with on the order of one‐to‐two thousand residents—the most appropriate class is:  
+Medium"
+60,Answer: High
+61,Medium
+62,Low
+63,Low
+64,Low
+65,Answer: Low
+66,Based on the size of Bratislavský kraj (pop. ≈ 650 000) – which puts it squarely in the middle of Slovakia’s eight regions – it falls into the “Medium” category.
+67,High
+68,Answer: Low
+69,Answer: Medium
+70,Based on its size (Žaškov is a rural municipality of roughly 2–3 thousand inhabitants) and by analogy to Holasice (≈2.4 k → High) Žaškov falls into the High class.
+71,Low
+72,Based on its status as a small municipality (Terňa has on the order of 1–2 thousand inhabitants) it falls into the “Medium” population class.
+73,Medium
+74,High
+75,Answer: Medium
+76,Based on the size and character of Bolkov (a small Czech municipality of only around 150 inhabitants) it falls into the “Low” population class.
+77,High
+78,Based on Ústecký region’s population (approximately 820 000) which puts it squarely in the middle of the 14 Czech regions’ population range the appropriate class is Medium.
+79,Based on its status as a tiny hamlet (just a few dozen residents at most) Javorník 35 in Liberecký kraj would fall into the “Very Low” population class.
+80,Answer: Low
+81,Answer: High
+82,Based on its size (Velký Beranov has on the order of 1–2 thousand residents similar to Holasice which was rated “High”) Velký Beranov would also fall into the High class.
+83,"Based on its status as a small‐to‐mid‐sized village in the Olomoucký Region (pop. roughly 500–1 000) Újezd falls into the Medium category.  
+Answer: Medium"
+84,Answer: Medium
+85,High
+86,Very High
+87,Very High
+88,High
+89,Answer: High
+90,Based on its status as a small rural village in Veszprém county (population on the order of 1–2 000 inhabitants) Városlőd corresponds to the “Medium” bracket.
+91,High
+92,Answer: Very Low
+93,Answer: Very Low
+94,Answer: High
+95,Based on Somogy megye’s place in the Hungarian county‐population ranking (around 310 000 people putting it into the second quintile among the 20 counties) its population class is: Low.
+96,Answer: Very Low
+97,Very Low
+98,Based on its status as a small village in Heves county (postal code 3265) with only a few hundred inhabitants the population class is: Very Low
+99,High
+100,High
+101,Answer: High
+102,Answer: High
+103,High
+104,Medium

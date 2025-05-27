@@ -1,0 +1,346 @@
+{
+  "SK010": {
+    "ADM0": "SVK",
+    "ADM1": "Bratislavsk\u00fd kraj",
+    "ADM2": "Bratislavsk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 912.1978561878,
+          "Agricultural": 2439.5516901612,
+          "Commercial": 228.2807702422,
+          "Factory": 173.160987854,
+          "Mining": 395.0149593949,
+          "Power station": 80.1603147388,
+          "Transportation": 591.9573837519,
+          "Sports": 506.4932411313,
+          "Religious": 324.2614898682,
+          "Water": 477.3841010332,
+          "Others": 6021.1682639122
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.073605895,
+          "Agricultural": 0.1968491641,
+          "Commercial": 0.018420138,
+          "Factory": 0.0139724835,
+          "Mining": 0.0318740385,
+          "Power station": 0.0064681929,
+          "Transportation": 0.0477654631,
+          "Sports": 0.0408693005,
+          "Religious": 0.0261648907,
+          "Water": 0.0385204632,
+          "Others": 0.4858523573
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 2051.670521541
+      }
+    }
+  },
+  "SK021": {
+    "ADM0": "SVK",
+    "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+    "ADM2": "Trnavsk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1733.857395649,
+          "Agricultural": 8276.0169230103,
+          "Commercial": 139.8336956501,
+          "Factory": 227.0844641924,
+          "Mining": 497.5219124556,
+          "Power station": 116.3271311522,
+          "Transportation": 744.8529634476,
+          "Sports": 1393.4219323993,
+          "Religious": 737.0101988316,
+          "Water": 1125.0508763194,
+          "Others": 9732.6814512014
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0691192902,
+          "Agricultural": 0.3299189525,
+          "Commercial": 0.0055743949,
+          "Factory": 0.0090525997,
+          "Mining": 0.0198334428,
+          "Power station": 0.0046373184,
+          "Transportation": 0.0296931618,
+          "Sports": 0.055548014,
+          "Religious": 0.0293805142,
+          "Water": 0.0448495466,
+          "Others": 0.3879880985
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4145.3479886806
+      }
+    }
+  },
+  "SK022": {
+    "ADM0": "SVK",
+    "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+    "ADM2": "Tren\u010diansky kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1946.4686491489,
+          "Agricultural": 3513.3654657602,
+          "Commercial": 115.7162881494,
+          "Factory": 174.7279212475,
+          "Mining": 737.3382372856,
+          "Power station": 106.9082750678,
+          "Transportation": 601.8688626885,
+          "Sports": 1772.5547517538,
+          "Religious": 899.4869917631,
+          "Water": 884.5402610302,
+          "Others": 16557.243568778
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0700571786,
+          "Agricultural": 0.1264528313,
+          "Commercial": 0.0041648534,
+          "Factory": 0.0062887965,
+          "Mining": 0.026538232,
+          "Power station": 0.003847836,
+          "Transportation": 0.0216624267,
+          "Sports": 0.0637976804,
+          "Religious": 0.0323742799,
+          "Water": 0.0318363181,
+          "Others": 0.5959272808
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 4501.8012469638
+      }
+    }
+  },
+  "SK023": {
+    "ADM0": "SVK",
+    "ADM1": "Z\u00e1padn\u00e9 Slovensko",
+    "ADM2": "Nitriansky kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2545.6078600287,
+          "Agricultural": 13411.7068835497,
+          "Commercial": 174.0570898056,
+          "Factory": 234.4812275171,
+          "Mining": 656.1899017096,
+          "Power station": 179.3253445625,
+          "Transportation": 763.3415951729,
+          "Sports": 1592.9983804822,
+          "Religious": 979.4175034165,
+          "Water": 1095.7072377205,
+          "Others": 15924.8955802917
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.066864749,
+          "Agricultural": 0.3522814448,
+          "Commercial": 0.0045719075,
+          "Factory": 0.0061590509,
+          "Mining": 0.0172359513,
+          "Power station": 0.0047102872,
+          "Transportation": 0.020050474,
+          "Sports": 0.04184283,
+          "Religious": 0.0257260777,
+          "Water": 0.0287806267,
+          "Others": 0.418294649
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6342.4797116192
+      }
+    }
+  },
+  "SK031": {
+    "ADM0": "SVK",
+    "ADM1": "Stredn\u00e9 Slovensko",
+    "ADM2": "\u017dilinsk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2574.9216948748,
+          "Agricultural": 3381.6953679919,
+          "Commercial": 120.4730809331,
+          "Factory": 165.1591683626,
+          "Mining": 734.5163648725,
+          "Power station": 119.7959612012,
+          "Transportation": 781.1528606415,
+          "Sports": 2597.3896622658,
+          "Religious": 782.8602352738,
+          "Water": 1744.240696311,
+          "Others": 28783.916659832
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0604981367,
+          "Agricultural": 0.0794533943,
+          "Commercial": 0.0028305315,
+          "Factory": 0.0038804372,
+          "Mining": 0.0172575623,
+          "Power station": 0.0028146225,
+          "Transportation": 0.0183532931,
+          "Sports": 0.0610260247,
+          "Religious": 0.0183934081,
+          "Water": 0.0409811733,
+          "Others": 0.6762820511
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6806.8856675656
+      }
+    }
+  },
+  "SK032": {
+    "ADM0": "SVK",
+    "ADM1": "Stredn\u00e9 Slovensko",
+    "ADM2": "Banskobystrick\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2647.9116462469,
+          "Agricultural": 6469.6290288568,
+          "Commercial": 118.8871281147,
+          "Factory": 205.8790227771,
+          "Mining": 1216.7326368093,
+          "Power station": 213.5591782331,
+          "Transportation": 853.8146601319,
+          "Sports": 2783.5836159587,
+          "Religious": 1311.4718069434,
+          "Water": 1904.768231988,
+          "Others": 38942.632594049
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0459986389,
+          "Agricultural": 0.1123882399,
+          "Commercial": 0.0020652676,
+          "Factory": 0.0035764618,
+          "Mining": 0.021136674,
+          "Power station": 0.0037098789,
+          "Transportation": 0.0148321838,
+          "Sports": 0.0483554871,
+          "Religious": 0.0227824513,
+          "Water": 0.0330889991,
+          "Others": 0.6764984382
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 9454.4618500043
+      }
+    }
+  },
+  "SK041": {
+    "ADM0": "SVK",
+    "ADM1": "V\u00fdchodn\u00e9 Slovensko",
+    "ADM2": "Pre\u0161ovsk\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2719.7801112533,
+          "Agricultural": 6037.3045632839,
+          "Commercial": 128.4820384383,
+          "Factory": 160.430357635,
+          "Mining": 899.4932166338,
+          "Power station": 122.8586177826,
+          "Transportation": 1020.5985981822,
+          "Sports": 3484.6745991707,
+          "Religious": 1143.7713103294,
+          "Water": 1483.9645612836,
+          "Others": 37904.5203148723
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0486065608,
+          "Agricultural": 0.107895712,
+          "Commercial": 0.0022961672,
+          "Factory": 0.0028671318,
+          "Mining": 0.0160752965,
+          "Power station": 0.0021956683,
+          "Transportation": 0.0182396318,
+          "Sports": 0.0622763756,
+          "Religious": 0.0204409134,
+          "Water": 0.0265206784,
+          "Others": 0.6774107821
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 8971.6111047056
+      }
+    }
+  },
+  "SK042": {
+    "ADM0": "SVK",
+    "ADM1": "V\u00fdchodn\u00e9 Slovensko",
+    "ADM2": "Ko\u0161ick\u00fd kraj",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2287.5637661815,
+          "Agricultural": 7716.0041629076,
+          "Commercial": 149.6080980897,
+          "Factory": 189.7424819469,
+          "Mining": 671.0402700305,
+          "Power station": 178.3560884595,
+          "Transportation": 974.3919045925,
+          "Sports": 1922.2898154259,
+          "Religious": 812.8585646152,
+          "Water": 881.7447992563,
+          "Others": 25067.6701012254
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.05524182,
+          "Agricultural": 0.1863319044,
+          "Commercial": 0.0036128495,
+          "Factory": 0.004582045,
+          "Mining": 0.016204788,
+          "Power station": 0.0043070777,
+          "Transportation": 0.0235303527,
+          "Sports": 0.0464209084,
+          "Religious": 0.0196295234,
+          "Water": 0.0212930403,
+          "Others": 0.6053530573
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 6751.9205375911
+      }
+    }
+  }
+}

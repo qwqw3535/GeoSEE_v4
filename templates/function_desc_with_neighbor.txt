@@ -1,0 +1,28 @@
+- get_address(Loc): Get address of given location.
+
+- get_population(Loc): Get population of given location.
+
+- get_area(Loc): Get area size of given location's district.
+
+- get_night_light(Loc): Get nightlight intensity of given location.
+
+- get_distance_to_nearest_target(Loc, Class): Get distance of given location to class. Class should be one of the element in ['airport', 'port']
+
+- get_landcover_ratio(Loc, Class): Get the relative land cover ratio of class within the total area using satellite images. Class should be one of the element in ["bareland", "rangeland", "development", "road", "tree", "water", "agricultural", "building"]. 
+    - "Bareland" includes natural areas covered by sand or rocks without vegetation, and other accumulations of earthen materials. 
+    - "Rangeland" includes areas dominated by herbaceous vegetation or bushes that are not cultivated or grazed, as well as grass and shrubs in gardens, parks, and golf courses. 
+    - "Development" includes areas such as sidewalks, pavements, footpahts, parking lots, and construction sites as well as artificial grass areas search as tennis courts, baseball and football fields, etc. 
+    - "Road" includes lanes, streets, railways, airport runways, and highway/motorway for venicles excluding bicycles. The materials of roads include asphalt, concrete, and soil. 
+    - "Tree" includes individual trees and a group of trees that are identified from their shapes (shadow) and height. 
+    - "Water" includes water bodies (e.g., rivers, streams, lakes, sea, ponds, dams) and swimming pools. 
+    - "Agricultural" includes areas used for producing crops, perennial woody crops, and non-native vegetation for grazing. 
+    - "Building" includes residential, commercial and industrial buildings.
+
+- get_aggregate_neighbor_info(Loc, Func):  Get information from neighbor districts of the given location by applying a function to each neighbor. 
+    - Usage of Func: Func should be a function that takes a location as input and returns some information about that location. It can be any of the functions defined above and can include additional parameters like Class.
+    - Format of Func: Use a lambda function to define Func, for example: lambda x: [function_name](Loc=x, Class=y, ...).
+    - Example 1: To get the landcover ratio of 'Building' class in neighboring districts:
+        - get_aggregate_neighbor_info(Loc, lambda x: get_landcover_ratio(Loc=x, Class='Building'))
+    - Example 2: To get the distance to the nearest airport in neighboring districts:
+        - get_aggregate_neighbor_info(Loc, lambda x: get_distance_to_nearest_target(Loc=x, Class='airport'))
+

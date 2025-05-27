@@ -1,0 +1,806 @@
+area_id,desc
+PL22C,"full address of the given location is ulica Orla, 43-210, Kobiór, Pszczyński, Śląskie, POL
+Sum of nightlight intensity is 36408.102
+Average nightlight intensity is 5.358
+Commercial satelite image count is 72.42
+Factory satelite image count is 72.036
+Land cover ratio of development is 0.069
+Land cover ratio of building is 0.041"
+PL228,"full address of the given location is ulica 907, 42-286, Koszęcin, Lubliniecki, Śląskie, POL
+Sum of nightlight intensity is 30288.652
+Average nightlight intensity is 3.362
+Commercial satelite image count is 84.282
+Factory satelite image count is 64.871
+Land cover ratio of development is 0.048
+Land cover ratio of building is 0.052"
+PL229,"full address of the given location is Ligota Łabędzka, Rudziniec, Gliwicki, Śląskie, POL
+Sum of nightlight intensity is 37218.949
+Average nightlight intensity is 7.717
+Commercial satelite image count is 114.684
+Factory satelite image count is 104.11
+Land cover ratio of development is 0.06
+Land cover ratio of building is 0.03"
+PL22A,"full address of the given location is ulica Tadeusza Kościuszki, 40-047, Brynów-Osiedle Zgrzebnioka, Katowice, Śląskie, POL
+Sum of nightlight intensity is 46413.281
+Average nightlight intensity is 14.824
+Commercial satelite image count is 164.937
+Factory satelite image count is 112.64
+Land cover ratio of development is 0.13
+Land cover ratio of building is 0.075"
+PL22B,"full address of the given location is Rokitno Szlacheckie, Łazy, Zawierciański, Śląskie, POL
+Sum of nightlight intensity is 60283.867
+Average nightlight intensity is 2.625
+Commercial satelite image count is 121.694
+Factory satelite image count is 161.954
+Land cover ratio of development is 0.063
+Land cover ratio of building is 0.031"
+PL224,"full address of the given location is ulica Głogowa, 42-202, Częstochowa, Śląskie, POL
+Sum of nightlight intensity is 37969.391
+Average nightlight intensity is 1.946
+Commercial satelite image count is 97.478
+Factory satelite image count is 75.353
+Land cover ratio of development is 0.056
+Land cover ratio of building is 0.027"
+PL225,"full address of the given location is Osiedle Zapelenica, 43-370, Szczyrk, Bielski, Śląskie, POL
+Sum of nightlight intensity is 43407.285
+Average nightlight intensity is 3.332
+Commercial satelite image count is 98.959
+Factory satelite image count is 81.547
+Land cover ratio of development is 0.049
+Land cover ratio of building is 0.036"
+PL227,"full address of the given location is osiedle na Wzgórzu 69, 44-280, Rydułtowy Górne, Rydułtowy, Wodzisławski, Śląskie, POL
+Sum of nightlight intensity is 43282.523
+Average nightlight intensity is 7.274
+Commercial satelite image count is 88.799
+Factory satelite image count is 54.265
+Land cover ratio of development is 0.072
+Land cover ratio of building is 0.042"
+PL616,"full address of the given location is Dębowa Łąka 40, 87-207, Dębowa Łąka, Wąbrzeski, Kujawsko-pomorskie, POL
+Sum of nightlight intensity is 24538.795
+Average nightlight intensity is 0.889
+Commercial satelite image count is 80.523
+Factory satelite image count is 69.692
+Land cover ratio of development is 0.043
+Land cover ratio of building is 0.007"
+PL617,"full address of the given location is ulica Polna, 88-190, Barcin, Żniński, Kujawsko-Pomorskie, POL
+Sum of nightlight intensity is 34713.672
+Average nightlight intensity is 1.1
+Commercial satelite image count is 78.219
+Factory satelite image count is 95.075
+Land cover ratio of development is 0.037
+Land cover ratio of building is 0.007"
+PL618,"full address of the given location is Wysoka, Cekcyn, Tucholski, Kujawsko-pomorskie, POL
+Sum of nightlight intensity is 19066.158
+Average nightlight intensity is 0.906
+Commercial satelite image count is 36.735
+Factory satelite image count is 47.056
+Land cover ratio of development is 0.04
+Land cover ratio of building is 0.014"
+PL613,"full address of the given location is Toporzysko, Zławieś Wielka, Toruński, Kujawsko-pomorskie, POL
+Sum of nightlight intensity is 60659.559
+Average nightlight intensity is 2.151
+Commercial satelite image count is 248.295
+Factory satelite image count is 138.838
+Land cover ratio of development is 0.051
+Land cover ratio of building is 0.02"
+PL619,"full address of the given location is Wieniec Zalesie, Brześć Kujawski, Włocławski, Kujawsko-pomorskie, POL
+Sum of nightlight intensity is 25074.455
+Average nightlight intensity is 1.483
+Commercial satelite image count is 68.902
+Factory satelite image count is 53.883
+Land cover ratio of development is 0.044
+Land cover ratio of building is 0.013"
+PL414,"full address of the given location is Daninów, Kazimierz Biskupi, Koniński, Wielkopolskie, POL
+Sum of nightlight intensity is 64814.211
+Average nightlight intensity is 1.171
+Commercial satelite image count is 157.91
+Factory satelite image count is 138.297
+Land cover ratio of development is 0.042
+Land cover ratio of building is 0.012"
+PL411,"full address of the given location is Dziembowo, Kaczory, Pilski, Wielkopolskie, POL
+Sum of nightlight intensity is 37868.207
+Average nightlight intensity is 0.713
+Commercial satelite image count is 126.366
+Factory satelite image count is 126.031
+Land cover ratio of development is 0.032
+Land cover ratio of building is 0.023"
+PL415,"full address of the given location is Boutique, ulica Święty Marcin 51, 61-806, Stare Miasto, Poznań, Wielkopolskie, POL
+Sum of nightlight intensity is 42277.07
+Average nightlight intensity is 17.929
+Commercial satelite image count is 181.599
+Factory satelite image count is 71.992
+Land cover ratio of development is 0.242
+Land cover ratio of building is 0.069"
+PL418,"full address of the given location is Chojno, Wronki, Szamotulski, Wielkopolskie, POL
+Sum of nightlight intensity is 86344.523
+Average nightlight intensity is 1.849
+Commercial satelite image count is 212.512
+Factory satelite image count is 231.439
+Land cover ratio of development is 0.045
+Land cover ratio of building is 0.023"
+PL416,"full address of the given location is ulica Kołątajew 60-60, 63-410, Ostrów Wielkopolski gmina, Ostrowski, Wielkopolskie, POL
+Sum of nightlight intensity is 60956.836
+Average nightlight intensity is 1.593
+Commercial satelite image count is 199.882
+Factory satelite image count is 199.582
+Land cover ratio of development is 0.04
+Land cover ratio of building is 0.019"
+PL417,"full address of the given location is Kotusz, Kamieniec, Grodziski, Wielkopolskie, POL
+Sum of nightlight intensity is 57542.91
+Average nightlight intensity is 0.897
+Commercial satelite image count is 183.335
+Factory satelite image count is 174.835
+Land cover ratio of development is 0.038
+Land cover ratio of building is 0.019"
+PL622,"full address of the given location is Ramsowo, Barczewo, Olsztyński, Warmińsko-mazurskie, POL
+Sum of nightlight intensity is 48462.324
+Average nightlight intensity is 1.126
+Commercial satelite image count is 145.012
+Factory satelite image count is 116.186
+Land cover ratio of development is 0.033
+Land cover ratio of building is 0.012"
+PL623,"full address of the given location is Radzie, Wydminy, Giżycki, Warmińsko-mazurskie, POL
+Sum of nightlight intensity is 22208.461
+Average nightlight intensity is 0.955
+Commercial satelite image count is 64.136
+Factory satelite image count is 65.035
+Land cover ratio of development is 0.03
+Land cover ratio of building is 0.016"
+PL621,"full address of the given location is Majdany Wielkie, Miłomłyn, Ostródzki, Warmińsko-mazurskie, POL
+Sum of nightlight intensity is 41056.133
+Average nightlight intensity is 1.041
+Commercial satelite image count is 107.461
+Factory satelite image count is 119.711
+Land cover ratio of development is 0.039
+Land cover ratio of building is 0.01"
+PL424,"full address of the given location is Dąbie 1, Szczecin, Zachodniopomorskie, POL
+Sum of nightlight intensity is 26511.537
+Average nightlight intensity is 12.172
+Commercial satelite image count is 112.651
+Factory satelite image count is 56.646
+Land cover ratio of development is 0.118
+Land cover ratio of building is 0.054"
+PL427,"full address of the given location is Konotop, Drawsko Pomorskie, Drawski, Zachodniopomorskie, POL
+Sum of nightlight intensity is 36309.461
+Average nightlight intensity is 0.296
+Commercial satelite image count is 102.784
+Factory satelite image count is 122.66
+Land cover ratio of development is 0.029
+Land cover ratio of building is 0.034"
+PL428,"full address of the given location is ulica Łęsko, 72-131, Goleniów gmina, Goleniowski, Zachodniopomorskie, POL
+Sum of nightlight intensity is 54240.691
+Average nightlight intensity is 0.689
+Commercial satelite image count is 152.87
+Factory satelite image count is 163.885
+Land cover ratio of development is 0.038
+Land cover ratio of building is 0.03"
+PL426,"full address of the given location is 76-009, Bonin, Zachodniopomorskie, POL
+Sum of nightlight intensity is 28388.244
+Average nightlight intensity is 0.871
+Commercial satelite image count is 115.484
+Factory satelite image count is 66.165
+Land cover ratio of development is 0.038
+Land cover ratio of building is 0.019"
+PL515,"full address of the given location is Mojesz, Lwówek Śląski, Lwówecki, Dolnośląskie, POL
+Sum of nightlight intensity is 49122.637
+Average nightlight intensity is 1.014
+Commercial satelite image count is 114.982
+Factory satelite image count is 85.315
+Land cover ratio of development is 0.04
+Land cover ratio of building is 0.037"
+PL516,"full address of the given location is Rynarcice 28, 59-305, Rynarcice, Rudna, Lubiński, Dolnośląskie, POL
+Sum of nightlight intensity is 43408.43
+Average nightlight intensity is 2.149
+Commercial satelite image count is 120.462
+Factory satelite image count is 94.22
+Land cover ratio of development is 0.07
+Land cover ratio of building is 0.029"
+PL518,"full address of the given location is ulica Rakowa, 55-114, Wisznia Mała, Trzebnicki, Dolnośląskie, POL
+Sum of nightlight intensity is 82137.203
+Average nightlight intensity is 2.053
+Commercial satelite image count is 147.155
+Factory satelite image count is 182.073
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.021"
+PL517,"full address of the given location is Wolibórz, Nowa Ruda, Kłodzki, Dolnośląskie, POL
+Sum of nightlight intensity is 43825.867
+Average nightlight intensity is 1.509
+Commercial satelite image count is 113.186
+Factory satelite image count is 86.454
+Land cover ratio of development is 0.038
+Land cover ratio of building is 0.024"
+PL514,"full address of the given location is Popowice, Wrocław, Dolnośląskie, POL
+Sum of nightlight intensity is 39971.0
+Average nightlight intensity is 26.79
+Commercial satelite image count is 191.027
+Factory satelite image count is 107.163
+Land cover ratio of development is 0.183
+Land cover ratio of building is 0.045"
+PL524,"full address of the given location is ulica Cmentarna 17, 46-042, Szczedrzyk, Ozimek, Opolski, Opolskie, POL
+Sum of nightlight intensity is 53955.824
+Average nightlight intensity is 1.637
+Commercial satelite image count is 129.809
+Factory satelite image count is 131.643
+Land cover ratio of development is 0.034
+Land cover ratio of building is 0.028"
+PL523,"full address of the given location is Łambinowice, Nyski, Opolskie, POL
+Sum of nightlight intensity is 26920.701
+Average nightlight intensity is 0.514
+Commercial satelite image count is 82.446
+Factory satelite image count is 78.207
+Land cover ratio of development is 0.024
+Land cover ratio of building is 0.015"
+PL714,"full address of the given location is Wola Będkowska 48a, 98-260, Wola Będkowska, Burzenin, Sieradzki, Łódzkie, POL
+Sum of nightlight intensity is 31670.0
+Average nightlight intensity is 0.877
+Commercial satelite image count is 84.936
+Factory satelite image count is 66.207
+Land cover ratio of development is 0.042
+Land cover ratio of building is 0.016"
+PL713,"full address of the given location is Łazy Dąbrowa, Sulejów, Piotrkowski, Łódzkie, POL
+Sum of nightlight intensity is 53797.18
+Average nightlight intensity is 1.161
+Commercial satelite image count is 104.597
+Factory satelite image count is 130.428
+Land cover ratio of development is 0.049
+Land cover ratio of building is 0.027"
+PL712,"full address of the given location is Opole, Parzęczew, Zgierski, Łódzkie, POL
+Sum of nightlight intensity is 42138.016
+Average nightlight intensity is 2.849
+Commercial satelite image count is 96.812
+Factory satelite image count is 91.019
+Land cover ratio of development is 0.069
+Land cover ratio of building is 0.023"
+PL711,"full address of the given location is Irys Damian Macha, ulica Przędzalniana 63-10, 90-347, Stary Widzew, Łódź, Łódzkie, POL
+Sum of nightlight intensity is 52588.203
+Average nightlight intensity is 48.335
+Commercial satelite image count is 226.578
+Factory satelite image count is 123.503
+Land cover ratio of development is 0.351
+Land cover ratio of building is 0.059"
+PL715,"full address of the given location is Skaratki, Domaniewice, Łowicki, Łódzkie, POL
+Sum of nightlight intensity is 28926.088
+Average nightlight intensity is 0.582
+Commercial satelite image count is 84.394
+Factory satelite image count is 69.813
+Land cover ratio of development is 0.044
+Land cover ratio of building is 0.011"
+PL637,"full address of the given location is Park Narodowy Bory Tucholskie, ulica Długa 33, 89-606, Chojnice gmina, Chojnicki, Pomorskie, POL
+Sum of nightlight intensity is 17815.629
+Average nightlight intensity is 0.597
+Commercial satelite image count is 48.662
+Factory satelite image count is 45.924
+Land cover ratio of development is 0.034
+Land cover ratio of building is 0.009"
+PL638,"full address of the given location is Szprudowo, Gniew, Tczewski, Pomorskie, POL
+Sum of nightlight intensity is 34833.316
+Average nightlight intensity is 1.658
+Commercial satelite image count is 81.802
+Factory satelite image count is 87.271
+Land cover ratio of development is 0.044
+Land cover ratio of building is 0.008"
+PL633,"full address of the given location is ulica Obotrycka 15-25, 80-383, Przymorze Małe, Gdańsk, Pomorskie, POL
+Sum of nightlight intensity is 66516.195
+Average nightlight intensity is 8.979
+Commercial satelite image count is 194.825
+Factory satelite image count is 134.553
+Land cover ratio of development is 0.257
+Land cover ratio of building is 0.044"
+PL634,"full address of the given location is Warzno, Szemud, Wejherowski, Pomorskie, POL
+Sum of nightlight intensity is 60093.168
+Average nightlight intensity is 1.198
+Commercial satelite image count is 125.363
+Factory satelite image count is 94.616
+Land cover ratio of development is 0.047
+Land cover ratio of building is 0.01"
+PL636,"full address of the given location is Ochodza, Dębnica Kaszubska, Słupski, Pomorskie, POL
+Sum of nightlight intensity is 27908.18
+Average nightlight intensity is 1.318
+Commercial satelite image count is 74.903
+Factory satelite image count is 72.784
+Land cover ratio of development is 0.03
+Land cover ratio of building is 0.012"
+PL431,"full address of the given location is Bolemin, Deszczno, Gorzowski, Lubuskie, POL
+Sum of nightlight intensity is 39945.203
+Average nightlight intensity is 0.935
+Commercial satelite image count is 107.87
+Factory satelite image count is 112.871
+Land cover ratio of development is 0.029
+Land cover ratio of building is 0.044"
+PL432,"full address of the given location is Świdnica, Zielonogórski, Lubuskie, POL
+Sum of nightlight intensity is 57037.996
+Average nightlight intensity is 1.18
+Commercial satelite image count is 172.506
+Factory satelite image count is 166.923
+Land cover ratio of development is 0.03
+Land cover ratio of building is 0.044"
+PL922,"full address of the given location is ulica Ościsłowo 30A-30A, 06-452, Glinojeck gmina, Ciechanowski, Mazowieckie, POL
+Sum of nightlight intensity is 28389.584
+Average nightlight intensity is 0.589
+Commercial satelite image count is 76.563
+Factory satelite image count is 121.4
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.008"
+PL923,"full address of the given location is Trzepowo Nowe, Stara Biała, Płocki, Mazowieckie, POL
+Sum of nightlight intensity is 28964.732
+Average nightlight intensity is 1.732
+Commercial satelite image count is 77.226
+Factory satelite image count is 58.517
+Land cover ratio of development is 0.039
+Land cover ratio of building is 0.012"
+PL925,"full address of the given location is Niwiski, Mokobody, Siedlecki, Mazowieckie, POL
+Sum of nightlight intensity is 25598.051
+Average nightlight intensity is 0.358
+Commercial satelite image count is 77.392
+Factory satelite image count is 90.293
+Land cover ratio of development is 0.038
+Land cover ratio of building is 0.013"
+PL924,"full address of the given location is Modzele, Młynarze, Makowski, Mazowieckie, POL
+Sum of nightlight intensity is 27902.436
+Average nightlight intensity is 0.491
+Commercial satelite image count is 72.368
+Factory satelite image count is 63.91
+Land cover ratio of development is 0.037
+Land cover ratio of building is 0.015"
+PL926,"full address of the given location is Ciemno Gnojna, Mszczonów, Żyrardowski, Mazowieckie, POL
+Sum of nightlight intensity is 30572.039
+Average nightlight intensity is 0.631
+Commercial satelite image count is 52.726
+Factory satelite image count is 51.897
+Land cover ratio of development is 0.043
+Land cover ratio of building is 0.015"
+PL921,"full address of the given location is ulica 11 Listopada 166-166, 26-613, Radom, Mazowieckie, POL
+Sum of nightlight intensity is 45160.605
+Average nightlight intensity is 1.553
+Commercial satelite image count is 113.208
+Factory satelite image count is 183.569
+Land cover ratio of development is 0.046
+Land cover ratio of building is 0.018"
+PL721,"full address of the given location is Gruszka, Zagnańsk, Kielecki, Świętokrzyskie, POL
+Sum of nightlight intensity is 61564.691
+Average nightlight intensity is 1.449
+Commercial satelite image count is 120.436
+Factory satelite image count is 125.037
+Land cover ratio of development is 0.049
+Land cover ratio of building is 0.046"
+PL722,"full address of the given location is Rączki, Kluczewsko, Włoszczowski, Świętokrzyskie, POL
+Sum of nightlight intensity is 32591.816
+Average nightlight intensity is 0.518
+Commercial satelite image count is 57.139
+Factory satelite image count is 54.972
+Land cover ratio of development is 0.046
+Land cover ratio of building is 0.02"
+PL823,"full address of the given location is Świlcza, Rzeszowski, Podkarpackie, POL
+Sum of nightlight intensity is 34949.48
+Average nightlight intensity is 2.096
+Commercial satelite image count is 105.252
+Factory satelite image count is 76.989
+Land cover ratio of development is 0.06
+Land cover ratio of building is 0.035"
+PL821,"full address of the given location is Bełchówka, Bukowsko, Sanocki, Podkarpackie, POL
+Sum of nightlight intensity is 11827.144
+Average nightlight intensity is 0.273
+Commercial satelite image count is 50.383
+Factory satelite image count is 44.44
+Land cover ratio of development is 0.045
+Land cover ratio of building is 0.044"
+PL822,"full address of the given location is ulica Wietlin, 37-512, Laszki, Jarosławski, Podkarpackie, POL
+Sum of nightlight intensity is 16016.604
+Average nightlight intensity is 0.488
+Commercial satelite image count is 58.977
+Factory satelite image count is 33.113
+Land cover ratio of development is 0.041
+Land cover ratio of building is 0.045"
+PL824,"full address of the given location is Otałęż 315, 39-304, Otałęż, Czermin, Mielecki, Podkarpackie, POL
+Sum of nightlight intensity is 32736.648
+Average nightlight intensity is 0.58
+Commercial satelite image count is 79.095
+Factory satelite image count is 117.326
+Land cover ratio of development is 0.053
+Land cover ratio of building is 0.039"
+PL811,"full address of the given location is Polubicze Wiejskie, Wisznice, Bialski, Lubelskie, POL
+Sum of nightlight intensity is 18411.264
+Average nightlight intensity is 0.521
+Commercial satelite image count is 71.351
+Factory satelite image count is 45.832
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.011"
+PL814,"full address of the given location is ulica Łysakowska 23, 20-257, Jakubowice Murowane, Lublin, Lubelskie, POL
+Sum of nightlight intensity is 59046.844
+Average nightlight intensity is 2.178
+Commercial satelite image count is 177.749
+Factory satelite image count is 90.716
+Land cover ratio of development is 0.055
+Land cover ratio of building is 0.009"
+PL812,"full address of the given location is Czołki 14B, 22-424, Czołki, Sitno, Zamojski, Lubelskie, POL
+Sum of nightlight intensity is 23420.668
+Average nightlight intensity is 0.516
+Commercial satelite image count is 103.272
+Factory satelite image count is 68.015
+Land cover ratio of development is 0.04
+Land cover ratio of building is 0.021"
+PL815,"full address of the given location is ulica Łopatki 88A-88A, 24-160, Wąwolnica, Puławski, Lubelskie, POL
+Sum of nightlight intensity is 28728.412
+Average nightlight intensity is 0.571
+Commercial satelite image count is 63.492
+Factory satelite image count is 55.872
+Land cover ratio of development is 0.045
+Land cover ratio of building is 0.016"
+PL217,"full address of the given location is ulica Wędkarska, 33-100, Mościce, Tarnów, Małopolskie, POL
+Sum of nightlight intensity is 30633.98
+Average nightlight intensity is 2.554
+Commercial satelite image count is 62.957
+Factory satelite image count is 40.766
+Land cover ratio of development is 0.061
+Land cover ratio of building is 0.032"
+PL214,"full address of the given location is Ostrężnica, Krzeszowice, Krakowski, Małopolskie, POL
+Sum of nightlight intensity is 61245.527
+Average nightlight intensity is 1.93
+Commercial satelite image count is 77.57
+Factory satelite image count is 98.178
+Land cover ratio of development is 0.069
+Land cover ratio of building is 0.03"
+PL218,"full address of the given location is Nowy Sącz, Małopolskie, POL
+Sum of nightlight intensity is 29819.25
+Average nightlight intensity is 1.561
+Commercial satelite image count is 49.093
+Factory satelite image count is 29.157
+Land cover ratio of development is 0.056
+Land cover ratio of building is 0.052"
+PL219,"full address of the given location is Morawczyna, Nowy Targ, Nowotarski, Małopolskie, POL
+Sum of nightlight intensity is 22213.141
+Average nightlight intensity is 0.786
+Commercial satelite image count is 25.47
+Factory satelite image count is 13.485
+Land cover ratio of development is 0.042
+Land cover ratio of building is 0.032"
+PL21A,"full address of the given location is Kwaczała, Alwernia, Chrzanowski, Małopolskie, POL
+Sum of nightlight intensity is 43041.699
+Average nightlight intensity is 2.318
+Commercial satelite image count is 78.046
+Factory satelite image count is 60.666
+Land cover ratio of development is 0.061
+Land cover ratio of building is 0.034"
+PL213,"full address of the given location is ulica Na Zakolu Wisły 10, 30-729, Podgórze, Kraków, Małopolskie, POL
+Sum of nightlight intensity is 47280.672
+Average nightlight intensity is 28.812
+Commercial satelite image count is 214.322
+Factory satelite image count is 94.835
+Land cover ratio of development is 0.334
+Land cover ratio of building is 0.062"
+PL843,"full address of the given location is Netta Druga, Augustów, Augustowski, Podlaskie, POL
+Sum of nightlight intensity is 16254.128
+Average nightlight intensity is 0.309
+Commercial satelite image count is 53.86
+Factory satelite image count is 45.76
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.035"
+PL842,"full address of the given location is Łopienie-zyski, Nowe Piekuty, Wysokomazowiecki, Podlaskie, POL
+Sum of nightlight intensity is 30490.559
+Average nightlight intensity is 0.294
+Commercial satelite image count is 82.15
+Factory satelite image count is 60.669
+Land cover ratio of development is 0.03
+Land cover ratio of building is 0.018"
+PL841,"full address of the given location is Studzianki, Wasilków, Białostocki, Podlaskie, POL
+Sum of nightlight intensity is 38814.461
+Average nightlight intensity is 1.117
+Commercial satelite image count is 98.13
+Factory satelite image count is 63.86
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.023"
+PL912,"full address of the given location is Kąty Goździejewskie, Dębe Wielkie, Miński, Mazowieckie, POL
+Sum of nightlight intensity is 62636.605
+Average nightlight intensity is 2.384
+Commercial satelite image count is 141.799
+Factory satelite image count is 99.135
+Land cover ratio of development is 0.059
+Land cover ratio of building is 0.029"
+PL911,"full address of the given location is Praga-południe-dzielnica, Warszawa, Mazowieckie, POL
+Sum of nightlight intensity is 119562.641
+Average nightlight intensity is 45.478
+Commercial satelite image count is 538.172
+Factory satelite image count is 153.542
+Land cover ratio of development is 0.183
+Land cover ratio of building is 0.035"
+PL913,"full address of the given location is ulica Błogosławionego Księdza Józefa Stanka 6-6, 05-850, Ołtarzew, Warszawski Zachodni, Mazowieckie, POL
+Sum of nightlight intensity is 88913.102
+Average nightlight intensity is 3.741
+Commercial satelite image count is 208.077
+Factory satelite image count is 184.765
+Land cover ratio of development is 0.062
+Land cover ratio of building is 0.037"
+SK032,"full address of the given location is Mýtna, Lučenec, SVK
+Sum of nightlight intensity is 24572.361
+Average nightlight intensity is 0.67
+Commercial satelite image count is 118.887
+Factory satelite image count is 205.879
+Land cover ratio of development is 0.034
+Land cover ratio of building is 0.024"
+SK031,"full address of the given location is Žaškov, Dolný Kubín, SVK
+Sum of nightlight intensity is 31048.021
+Average nightlight intensity is 0.783
+Commercial satelite image count is 120.473
+Factory satelite image count is 165.159
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.029"
+SK042,"full address of the given location is Južné Mesto, Košice IV, Košice, SVK
+Sum of nightlight intensity is 29737.49
+Average nightlight intensity is 0.732
+Commercial satelite image count is 149.608
+Factory satelite image count is 189.742
+Land cover ratio of development is 0.033
+Land cover ratio of building is 0.035"
+SK041,"full address of the given location is Terňa, Prešov, SVK
+Sum of nightlight intensity is 23646.723
+Average nightlight intensity is 0.521
+Commercial satelite image count is 128.482
+Factory satelite image count is 160.43
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.027"
+SK021,"full address of the given location is 917 01, Trnava, Trnava Region, SVK
+Sum of nightlight intensity is 38185.703
+Average nightlight intensity is 0.964
+Commercial satelite image count is 139.834
+Factory satelite image count is 227.084
+Land cover ratio of development is 0.038
+Land cover ratio of building is 0.017"
+SK023,"full address of the given location is Veľká Maňa, Maňa, Nové Zámky, SVK
+Sum of nightlight intensity is 36653.301
+Average nightlight intensity is 1.084
+Commercial satelite image count is 174.057
+Factory satelite image count is 234.481
+Land cover ratio of development is 0.036
+Land cover ratio of building is 0.01"
+SK022,"full address of the given location is Bobot, Trenčín, SVK
+Sum of nightlight intensity is 27116.34
+Average nightlight intensity is 0.688
+Commercial satelite image count is 115.716
+Factory satelite image count is 174.728
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.026"
+SK010,"full address of the given location is 901 01, Malacky, Bratislavský kraj, SVK
+Sum of nightlight intensity is 51618.57
+Average nightlight intensity is 4.348
+Commercial satelite image count is 228.281
+Factory satelite image count is 173.161
+Land cover ratio of development is 0.063
+Land cover ratio of building is 0.037"
+CZ020,"full address of the given location is Do Krásy, Hlavní, 252 43, Průhonice, Praha-západ, Středočeský, CZE
+Sum of nightlight intensity is 116633.156
+Average nightlight intensity is 1.941
+Commercial satelite image count is 457.97
+Factory satelite image count is 508.198
+Land cover ratio of development is 0.042
+Land cover ratio of building is 0.026"
+CZ031,"full address of the given location is 373 41, Drahotěšice, Jihočeský, CZE
+Sum of nightlight intensity is 47891.473
+Average nightlight intensity is 0.842
+Commercial satelite image count is 211.586
+Factory satelite image count is 252.448
+Land cover ratio of development is 0.036
+Land cover ratio of building is 0.021"
+CZ032,"full address of the given location is 334 01, Bolkov, Plzeňský, CZE
+Sum of nightlight intensity is 47997.297
+Average nightlight intensity is 1.133
+Commercial satelite image count is 213.748
+Factory satelite image count is 268.872
+Land cover ratio of development is 0.039
+Land cover ratio of building is 0.019"
+CZ010,"full address of the given location is Magnitogorská, 101 00, Praha 10, Praha, Hlavní město Praha, CZE
+Sum of nightlight intensity is 69706.859
+Average nightlight intensity is 21.756
+Commercial satelite image count is 506.11
+Factory satelite image count is 97.817
+Land cover ratio of development is 0.169
+Land cover ratio of building is 0.085"
+CZ063,"full address of the given location is 588 21, Velký Beranov, Vysočina, CZE
+Sum of nightlight intensity is 38760.527
+Average nightlight intensity is 1.154
+Commercial satelite image count is 143.612
+Factory satelite image count is 230.589
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.016"
+CZ064,"full address of the given location is 664 61, Holasice, Jihomoravský, CZE
+Sum of nightlight intensity is 73994.156
+Average nightlight intensity is 1.014
+Commercial satelite image count is 362.675
+Factory satelite image count is 378.865
+Land cover ratio of development is 0.041
+Land cover ratio of building is 0.017"
+CZ051,"full address of the given location is Javorník 35, 463 43, Javorník, Proseč pod Ještědem, Liberec, Liberecký kraj, CZE
+Sum of nightlight intensity is 27920.029
+Average nightlight intensity is 1.51
+Commercial satelite image count is 128.227
+Factory satelite image count is 101.738
+Land cover ratio of development is 0.041
+Land cover ratio of building is 0.042"
+CZ052,"full address of the given location is 544 01, Dvůr Králové nad Labem, Královéhradecký, CZE
+Sum of nightlight intensity is 38027.801
+Average nightlight intensity is 1.308
+Commercial satelite image count is 192.71
+Factory satelite image count is 185.992
+Land cover ratio of development is 0.037
+Land cover ratio of building is 0.022"
+CZ053,"full address of the given location is Bučina, Ústí nad Orlicí, Pardubický kraj, CZE
+Sum of nightlight intensity is 32282.977
+Average nightlight intensity is 1.395
+Commercial satelite image count is 196.278
+Factory satelite image count is 191.644
+Land cover ratio of development is 0.041
+Land cover ratio of building is 0.024"
+CZ080,"full address of the given location is Výškovice u Slatiny, Bílovec, Nový Jičín, Moravskoslezský kraj, CZE
+Sum of nightlight intensity is 73966.516
+Average nightlight intensity is 1.369
+Commercial satelite image count is 297.954
+Factory satelite image count is 307.024
+Land cover ratio of development is 0.045
+Land cover ratio of building is 0.025"
+CZ042,"full address of the given location is 418 04, Lukov, Ústecký, CZE
+Sum of nightlight intensity is 66524.562
+Average nightlight intensity is 1.143
+Commercial satelite image count is 320.377
+Factory satelite image count is 256.975
+Land cover ratio of development is 0.045
+Land cover ratio of building is 0.024"
+CZ041,"full address of the given location is 357 33, Loket, Karlovarský, CZE
+Sum of nightlight intensity is 24566.836
+Average nightlight intensity is 1.55
+Commercial satelite image count is 95.926
+Factory satelite image count is 85.284
+Land cover ratio of development is 0.036
+Land cover ratio of building is 0.014"
+CZ071,"full address of the given location is 783 96, Újezd, Olomoucký, CZE
+Sum of nightlight intensity is 48281.125
+Average nightlight intensity is 1.086
+Commercial satelite image count is 213.312
+Factory satelite image count is 238.166
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.023"
+CZ072,"full address of the given location is Podřevnická, 763 11, Želechovice nad Dřevnicí, Zlín, Zlínský, CZE
+Sum of nightlight intensity is 34310.605
+Average nightlight intensity is 1.422
+Commercial satelite image count is 150.831
+Factory satelite image count is 192.644
+Land cover ratio of development is 0.045
+Land cover ratio of building is 0.025"
+HU222,"full address of the given location is 9774, Sorkifalud, Szombathelyi járás, Vas, 8703, HUN
+Sum of nightlight intensity is 14559.422
+Average nightlight intensity is 0.506
+Commercial satelite image count is 67.969
+Factory satelite image count is 67.361
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.018"
+HU223,"full address of the given location is 8897, Söjtör, Zala, HUN
+Sum of nightlight intensity is 14516.307
+Average nightlight intensity is 0.696
+Commercial satelite image count is 77.684
+Factory satelite image count is 51.129
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.024"
+HU221,"full address of the given location is 9169, Barbacs, Győr-Moson-Sopron, HUN
+Sum of nightlight intensity is 30533.299
+Average nightlight intensity is 0.824
+Commercial satelite image count is 109.353
+Factory satelite image count is 133.257
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.014"
+HU313,"full address of the given location is 3179, Nógrádsipek, Nógrád, HUN
+Sum of nightlight intensity is 8067.475
+Average nightlight intensity is 0.395
+Commercial satelite image count is 23.306
+Factory satelite image count is 35.412
+Land cover ratio of development is 0.03
+Land cover ratio of building is 0.018"
+HU311,"full address of the given location is 3800, Szikszó, Borsod-Abaúj-Zemplén, HUN
+Sum of nightlight intensity is 38775.109
+Average nightlight intensity is 0.615
+Commercial satelite image count is 89.574
+Factory satelite image count is 100.382
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.031"
+HU312,"full address of the given location is 3265, Vécs, Heves, HUN
+Sum of nightlight intensity is 14697.944
+Average nightlight intensity is 0.565
+Commercial satelite image count is 65.025
+Factory satelite image count is 65.789
+Land cover ratio of development is 0.034
+Land cover ratio of building is 0.019"
+HU231,"full address of the given location is Málom, Pécs, Pécsi járás, Baranya, HUN
+Sum of nightlight intensity is 22533.695
+Average nightlight intensity is 1.162
+Commercial satelite image count is 82.843
+Factory satelite image count is 77.16
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.01"
+HU232,"full address of the given location is 7434, Mezőcsokonya, Somogy, HUN
+Sum of nightlight intensity is 19076.643
+Average nightlight intensity is 0.395
+Commercial satelite image count is 73.91
+Factory satelite image count is 50.88
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.011"
+HU233,"full address of the given location is 7067, Varsád, Tolna, HUN
+Sum of nightlight intensity is 9365.073
+Average nightlight intensity is 0.498
+Commercial satelite image count is 47.059
+Factory satelite image count is 55.532
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.008"
+HU120,"full address of the given location is 2230, Gyömrő, Pest, HUN
+Sum of nightlight intensity is 70652.008
+Average nightlight intensity is 1.47
+Commercial satelite image count is 218.355
+Factory satelite image count is 255.866
+Land cover ratio of development is 0.064
+Land cover ratio of building is 0.022"
+HU110,"full address of the given location is 1101, Népliget, 10. kerület, Budapest, Trautmann Róbert sétány, HUN
+Sum of nightlight intensity is 80183.18
+Average nightlight intensity is 29.414
+Commercial satelite image count is 526.216
+Factory satelite image count is 163.66
+Land cover ratio of development is 0.421
+Land cover ratio of building is 0.095"
+HU211,"full address of the given location is 8111, Seregélyes, Fejér, HUN
+Sum of nightlight intensity is 26969.033
+Average nightlight intensity is 1.467
+Commercial satelite image count is 80.722
+Factory satelite image count is 120.978
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.007"
+HU212,"full address of the given location is 2890, Tata, Komárom-Esztergom, HUN
+Sum of nightlight intensity is 19928.484
+Average nightlight intensity is 1.342
+Commercial satelite image count is 64.458
+Factory satelite image count is 93.009
+Land cover ratio of development is 0.037
+Land cover ratio of building is 0.018"
+HU213,"full address of the given location is Városlőd, Ajkai járás, Veszprém, HUN
+Sum of nightlight intensity is 19756.572
+Average nightlight intensity is 0.957
+Commercial satelite image count is 73.494
+Factory satelite image count is 90.045
+Land cover ratio of development is 0.033
+Land cover ratio of building is 0.01"
+HU321,"full address of the given location is 4211, Ebes, Hajdú-Bihar, HUN
+Sum of nightlight intensity is 26141.311
+Average nightlight intensity is 0.749
+Commercial satelite image count is 132.446
+Factory satelite image count is 142.641
+Land cover ratio of development is 0.033
+Land cover ratio of building is 0.011"
+HU322,"full address of the given location is Közép-Tiszai Tájvédelmi Körzet, 6060, Tiszakécske, Tiszakécskei járás, Bács-Kiskun, Strand utca, HUN
+Sum of nightlight intensity is 16631.438
+Average nightlight intensity is 0.46
+Commercial satelite image count is 86.783
+Factory satelite image count is 128.27
+Land cover ratio of development is 0.029
+Land cover ratio of building is 0.006"
+HU323,"full address of the given location is 4561, Baktalórántháza, Baktalórántházai járás, Szabolcs-Szatmár-Bereg, Dózsa György utca 2d, HUN
+Sum of nightlight intensity is 27513.953
+Average nightlight intensity is 0.59
+Commercial satelite image count is 130.741
+Factory satelite image count is 138.02
+Land cover ratio of development is 0.037
+Land cover ratio of building is 0.01"
+HU331,"full address of the given location is 6230, Soltvadkert, Bács-Kiskun, HUN
+Sum of nightlight intensity is 26488.748
+Average nightlight intensity is 0.596
+Commercial satelite image count is 126.482
+Factory satelite image count is 143.536
+Land cover ratio of development is 0.039
+Land cover ratio of building is 0.008"
+HU332,"full address of the given location is 5672, Murony, Békés, HUN
+Sum of nightlight intensity is 15480.902
+Average nightlight intensity is 0.437
+Commercial satelite image count is 82.722
+Factory satelite image count is 126.118
+Land cover ratio of development is 0.024
+Land cover ratio of building is 0.006"
+HU333,"full address of the given location is 6800, Hódmezővásárhely, Csongrád-Csanád, HUN
+Sum of nightlight intensity is 20676.0
+Average nightlight intensity is 1.194
+Commercial satelite image count is 109.302
+Factory satelite image count is 131.343
+Land cover ratio of development is 0.042
+Land cover ratio of building is 0.009"
