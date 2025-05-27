@@ -121,6 +121,40 @@ python main.py \
 
 - `--gpt_version`: Specify the OpenAI GPT version (e.g., `o4-mini`, `o3`).
 
+### (Optional) Step 4: siScore
+
+To calibrate our result, we employed the [siScore](https://github.com/Sungwon-Han/urban_score) architecture.
+
+First, we extracted the relevant numbers from paragraph.
+```bash
+jupyter notebook ask_gpt_about_module_selection.ipynb
+```
+
+Then, we trained the siScore model and extracted the calibrated results.
+
+```bash
+python siScore.py \
+  --name <MODEL_NAME> \
+  --graph-config POG.txt \
+  --lamb 30 \
+  --alpha 4 \
+  --dir_name <DATA_DIR> \
+  --cluster_num 5 \
+  --batch-sz 1 \
+  --llm <GPT_MODEL> \
+  --exp_name <EXP_NAME> \
+  --shot <SHOT_DIR>
+```
+```bash
+python extract_score.py \
+  --test <DATA_DIR> \
+  --model checkpoint/<EXP_NAME>/<MODEL_NAME> \
+  --llm <GPT_MODEL> \
+  --exp_name <EXP_NAME> \
+  --shot <SHOT_DIR>
+```
+
+
 ---
 
 ## Authors & Contact
